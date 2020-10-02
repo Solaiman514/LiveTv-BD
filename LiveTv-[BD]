@@ -336,7 +336,7 @@ http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8?Live-TV™
 http://198.255.87.59:8080/INDIA_HINDI/SONY_SAB_HD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755457s.png",SONY PAL
-
+http://198.255.87.59:8080/INDIA_HINDI/SONY_PAL/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9QJ1co.jpg",Sony Wah
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8?Live-TV™
