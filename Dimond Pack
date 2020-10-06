@@ -28,11 +28,15 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_720p/index_dvr.m3u8
 #EXTINF:-1,
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index_dvr.m3u8
 #EXTINF:-1,
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_720p/index_dvr.m3u8
+#EXTINF:-1,
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_360p/index.m3u8
 #EXTINF:-1,
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1,
 https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in_360p/index.m3u8
+#EXTINF:-1,
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 #EXTINF:-1,
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
 #EXTINF:-1,
@@ -44,9 +48,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_480p/index.m3u8
 #EXTINF:-1,
 https://m-c29-j2apps.s.llnwi.net/hls/0344.News24.in_144p/index.m3u8
 #EXTINF:-1,
-
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in_480p/index.m3u8
 #EXTINF:-1,
-
+https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,
