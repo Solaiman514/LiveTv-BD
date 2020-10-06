@@ -12,103 +12,215 @@ http://185.59.222.234:2200/R-EX/HINDI_BINDAS_MOVIES-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000041660000/PORTRAIT/ntnToCGg.png" group-title="IND. MOVIES",CINEPLEX HD
 http://198.255.87.59:8080/INDIA_HINDI/CINEPLEX_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,SET HD
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_dvr.m3u8
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_dvr.m3u8?Live-TV™
 #EXTINF:-1,SAB HD
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_dvr.m3u8
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_dvr.m3u8?Live-TV™
 #EXTINF:-1,MAX HD
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_dvr.m3u8
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_dvr.m3u8?Live-TV™
 #EXTINF:-1,Sony Marathi
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7031.SonyMarathi.in_dvr.m3u8
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7031.SonyMarathi.in_dvr.m3u8?Live-TV™
 #EXTINF:-1,Sony Aath
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in_dvr.m3u8
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in_dvr.m3u8?Live-TV™
 #EXTINF:-1,Sony Wah
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_dvr.m3u8
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_dvr.m3u8?Live-TV™
 #EXTINF:-1,Sony Pal
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_dvr.m3u8
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_dvr.m3u8?Live-TV™
 #EXTINF:-1,Sony Max 2
-https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_dvr.m3u8
+https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_dvr.m3u8?Live-TV™
 #EXTINF:-1,Sony Yay
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_dvr.m3u8
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_dvr.m3u8?Live-TV™
 #EXTINF:-1,Mastiii
-https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8?Live-TV™
 #EXTINF:-1,Music India
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?Live-TV™
 #EXTINF:-1,Zoom
-https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8
+https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8?Live-TV™
 #EXTINF:-1,9XM
-https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8?Live-TV™
 #EXTINF:-1,9X Jalwa
-https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8?Live-TV™
 #EXTINF:-1,India TV
-https://m-c02-j2apps.s.loris.llnwd.net/hls/0091.IndiaTV.in.m3u8
+https://m-c02-j2apps.s.loris.llnwd.net/hls/0091.IndiaTV.in.m3u8?Live-TV™
 #EXTINF:-1,News X
-https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
+https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8?Live-TV™
 #EXTINF:-1,India News
-https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8?Live-TV™
 #EXTINF:-1,News 24
-https://m-c29-j2apps.s.llnwi.net/hls/0344.News24.in.m3u8
+https://m-c29-j2apps.s.llnwi.net/hls/0344.News24.in.m3u8?Live-TV™
 #EXTINF:-1,ABP News
-https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in.m3u8
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in.m3u8?Live-TV™
 #EXTINF:-1,RS TV
-https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in.m3u8
+https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in.m3u8?Live-TV™
 #EXTINF:-1,Loksabha TV
-https://m-c16-j2apps.s.llnwi.net/hls/0275.LoksabhaTV.in.m3u8
+https://m-c16-j2apps.s.llnwi.net/hls/0275.LoksabhaTV.in.m3u8?Live-TV™
 #EXTINF:-1,India News MP
-https://m-c18-j2apps.s.llnwi.net/hls/1900.IndiaNewsMP.in.m3u8
+https://m-c18-j2apps.s.llnwi.net/hls/1900.IndiaNewsMP.in.m3u8?Live-TV™
 #EXTINF:-1,DD UP
-https://m-c16-j2apps.s.llnwi.net/hls/0290.DDUP.in.m3u8
+https://m-c16-j2apps.s.llnwi.net/hls/0290.DDUP.in.m3u8?Live-TV™
 #EXTINF:-1,News India 24X7
-https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8
+https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8?Live-TV™
 #EXTINF:-1,ABP Majha
-https://m-c02-j2apps.s.loris.llnwd.net/hls/7016.ABPMajha.in.m3u8
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7016.ABPMajha.in.m3u8?Live-TV™
 #EXTINF:-1,DD National
-https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_dvr.m3u8
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_dvr.m3u8?Live-TV™
 #EXTINF:-1,DD News
-https://m-c048-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8
+https://m-c048-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8?Live-TV™
 #EXTINF:-1,DD Bihar
-https://m-c15-j2apps.s.llnwi.net/hls/0281.DDBihar.in.m3u8
+https://m-c15-j2apps.s.llnwi.net/hls/0281.DDBihar.in.m3u8?Live-TV™
 #EXTINF:-1,A1 TV
-https://m-c15-j2apps.s.llnwi.net/hls/6212.A1TV.in.m3u8
+https://m-c15-j2apps.s.llnwi.net/hls/6212.A1TV.in.m3u8?Live-TV™
 #EXTINF:-1,IBC 24
-https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in.m3u8
+https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in.m3u8?Live-TV™
 #EXTINF:-1,Total TV
-https://m-c049-j2apps.s.llnwi.net/hls/0131.TotalTV.in.m3u8
+https://m-c049-j2apps.s.llnwi.net/hls/0131.TotalTV.in.m3u8?Live-TV™
 #EXTINF:-1,Samay
-https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
+https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8?Live-TV™
 #EXTINF:-1,Samay Bihar Jharkhand
-https://m-c02-j2apps.s.loris.llnwd.net/hls/0185.SamayBiharJharkhand.in.m3u8
+https://m-c02-j2apps.s.loris.llnwd.net/hls/0185.SamayBiharJharkhand.in.m3u8?Live-TV™
 #EXTINF:-1,Samay UP Uttrakhand
-https://m-c02-j2apps.s.loris.llnwd.net/hls/0188.SamayUPUttrakhand.in.m3u8
+https://m-c02-j2apps.s.loris.llnwd.net/hls/0188.SamayUPUttrakhand.in.m3u8?Live-TV™
 #EXTINF:-1,Samay Rajasthan
-https://m-c02-j2apps.s.loris.llnwd.net/hls/0186.SamayRajasthan.in.m3u8
+https://m-c02-j2apps.s.loris.llnwd.net/hls/0186.SamayRajasthan.in.m3u8?Live-TV™
 #EXTINF:-1,Samay MP Chhattisgarh
-https://m-c02-j2apps.s.loris.llnwd.net/hls/0187.SamayMPChhattisgarh.in.m3u8
+https://m-c02-j2apps.s.loris.llnwd.net/hls/0187.SamayMPChhattisgarh.in.m3u8?Live-TV™
 #EXTINF:-1,News State Uttarakhand Uttar Pradesh
-https://m-c02-j2apps.s.loris.llnwd.net/hls/2129.NewsStateUttarakhandUttarPradesh.in.m3u8
+https://m-c02-j2apps.s.loris.llnwd.net/hls/2129.NewsStateUttarakhandUttarPradesh.in.m3u8?Live-TV™
 #EXTINF:-1,CVR English News
-https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
+https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8?Live-TV™
 #EXTINF:-1,Times Now
-https://m-c048-j2apps.s.llnwi.net/hls/0087.TimesNow.in.m3u8
+https://m-c048-j2apps.s.llnwi.net/hls/0087.TimesNow.in.m3u8?Live-TV™
 #EXTINF:-1,ET Now
-https://m-c048-j2apps.s.llnwi.net/hls/0524.ETNow.in.m3u8
+https://m-c048-j2apps.s.llnwi.net/hls/0524.ETNow.in.m3u8?Live-TV™
 #EXTINF:-1,Mirror Now
-https://m-c048-j2apps.s.llnwi.net/hls/3873.MirrorNow.in.m3u8
+https://m-c048-j2apps.s.llnwi.net/hls/3873.MirrorNow.in.m3u8?Live-TV™
 #EXTINF:-1,Sadhna MP Chattisgarh
-https://m-c02-j2apps.s.loris.llnwd.net/hls/1647.SadhnaMPChattisgarh.in.m3u8
+https://m-c02-j2apps.s.loris.llnwd.net/hls/1647.SadhnaMPChattisgarh.in.m3u8?Live-TV™
 #EXTINF:-1,Sadhna Plus
-https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8
+https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8?Live-TV™
 #EXTINF:-1,Bansal News
-https://m-c03-j2apps.s.llnwi.net/hls/0777.BansalNews.in.m3u8
+https://m-c03-j2apps.s.llnwi.net/hls/0777.BansalNews.in.m3u8?Live-TV™
 #EXTINF:-1,Kashish News
-https://m-c03-j2apps.s.llnwi.net/hls/1606.KashishNews.in.m3u8
+https://m-c03-j2apps.s.llnwi.net/hls/1606.KashishNews.in.m3u8?Live-TV™
 #EXTINF:-1,First India News Rajasthan
-https://m-c03-j2apps.s.llnwi.net/hls/1872.FirstIndiaNewsRajasthan.in.m3u8
+https://m-c03-j2apps.s.llnwi.net/hls/1872.FirstIndiaNewsRajasthan.in.m3u8?Live-TV™
 #EXTINF:-1,KNews 24X7
-https://m-c03-j2apps.s.llnwi.net/hls/1843.KNews24X7.in.m3u8
+https://m-c03-j2apps.s.llnwi.net/hls/1843.KNews24X7.in.m3u8?Live-TV™
 #EXTINF:-1,Hindi Khabar
-https://m-c02-j2apps.s.loris.llnwd.net/hls/5208.HindiKhabar.in.m3u8
+https://m-c02-j2apps.s.loris.llnwd.net/hls/5208.HindiKhabar.in.m3u8?Live-TV™
+#EXTINF:-1,Live TV™
+https://m-c048-j2apps.s.llnwi.net/hls/9999.MXLive.in.m3u8?Live-TV™
+#EXTINF:-1,Sky star Movies
+https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8?Live-TV™
+#EXTINF:-1,BFlix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8?Live-TV™
+#EXTINF:-1,Housefull Action
+https://m-c049-j2apps.s.llnwi.net/hls/4704.HousefullAction.in.m3u8?Live-TV™
+#EXTINF:-1,Manoranjan Movies
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?Live-TV™
+#EXTINF:-1,Filmy
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8?Live-TV™
+#EXTINF:-1,Maha Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?Live-TV™
+#EXTINF:-1,Manoranjan TV
+https://m-c048-j2apps.s.llnwi.net/hls/0449.ManoranjanTV.in.m3u8?Live-TV™
+#EXTINF:-1,WOW Cinema One
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8?Live-TV™
+#EXTINF:-1,YTV India HD
+https://m-c048-j2apps.s.llnwi.net/hls_hd/6107.YTVIndiaHD.in.m3u8?Live-TV™
+#EXTINF:-1,DD Kisan
+https://m-c048-j2apps.s.llnwi.net/hls/2914.DDKisan.in.m3u8?Live-TV™
+#EXTINF:-1,Ishwar TV
+https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8?Live-TV™
+#EXTINF:-1,DD Sports
+https://m-c048-j2apps.s.llnwi.net/hls/0179.DDSports.in.m3u8?Live-TV™
+#EXTINF:-1,Hare Krsna
+https://m-c04-j2apps.s.llnwi.net/hls/5265.HareKrsna.in.m3u8?Live-TV™
+#EXTINF:-1,Sanskar
+https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8?Live-TV™
+#EXTINF:-1,Bhakti Sagar
+https://m-c29-j2apps.s.llnwi.net/hls/5835.BhaktiSagar.in.m3u8?Live-TV™
+#EXTINF:-1,Shubhsandesh TV
+https://m-c08-j2apps.s.llnwi.net/hls/1115.ShubhsandeshTV.in.m3u8?Live-TV™
+#EXTINF:-1,Sadhna
+https://m-c01-j2apps.s.llnwi.net/hls/0133.Sadhna.in.m3u8?Live-TV™
+#EXTINF:-1,Peace of Mind
+https://m-c04-j2apps.s.llnwi.net/hls/1114.PeaceofMind.in.m3u8?Live-TV™
+#EXTINF:-1,Om Shanti Channel
+https://m-c04-j2apps.s.llnwi.net/hls/5481.OmShantiChannel.in.m3u8?Live-TV™
+#EXTINF:-1,Krishna Vani
+https://m-c03-j2apps.s.llnwi.net/hls/6491.KrishnaVani.in.m3u8?Live-TV™
+#EXTINF:-1,Goodnews TV
+https://m-c04-j2apps.s.llnwi.net/hls/5264.GoodnewsTV.in.m3u8?Live-TV™
+#EXTINF:-1,Epic
+https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8?Live-TV™
+#EXTINF:-1,DD Bharati
+https://m-c049-j2apps.s.llnwi.net/hls/0178.DDBharati.in_dvr.m3u8?Live-TV™
+#EXTINF:-1,Firangi
+https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8?Live-TV™
+#EXTINF:-1,DD India
+https://m-c15-j2apps.s.llnwi.net/hls/0180.DDIndia.in.m3u8?Live-TV™
 #EXTINF:-1,
-https://m-c048-j2apps.s.llnwi.net/hls/9999.MXLive.in.m3u8
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 #EXTINF:-1,
 
 #EXTINF:-1,
