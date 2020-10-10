@@ -239,7 +239,7 @@ http://doyeltv1.flashmediacast.com:1935/doyeltv/livestream/chunklist_w2144659225
 ?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/y1m9etwea3u38xg/kbtv.png",K Bangla
-?Live-TV™
+https://iptv9.raytahost.com/lite/kbangla_hi/index.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3zauk74yh4uajdv/modhumotitv.png",Modhumoti
 https://iptv3.raytahost.com/lite/modhumoti_hi/index.m3u8?Live-TV™
