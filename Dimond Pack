@@ -1,154 +1,154 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png",Live-TV™
+#EXTINF:-1,Live-TV™
 http://103.205.133.50/hls/btv.m3u8           
                               
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg",BTV
+#EXTINF:-1.jpg",BTV
 http://103.205.133.50/hls/btv.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png",Sangsad TV
+#EXTINF:-1,Sangsad TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png",BTV WORLD
+#EXTINF:-1,BTV WORLD
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg",BTV CTG
+#EXTINF:-1,BTV CTG
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a17x59hbhvzf9it/atn_bangla.png",ATN BANGLA
+#EXTINF:-1,ATN BANGLA
 http://103.205.133.50/hls/atnbangla.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png",CHANNEL I HD
+#EXTINF:-1,CHANNEL I HD
 http://103.214.202.218:8081/live/channeli/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7ftip0g8mwytt2r/ekushey_tv.png",EKUSHEY TV
+#EXTINF:-1,EKUSHEY TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7ftip0g8mwytt2r/ekushey_tv.png",EKUSHEY TV
+#EXTINF:-1,EKUSHEY TV
 http://103.214.202.218:8081/live/ekushey/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2jqhua6a0wrtgz5/ntv_bd.png",NTV
+#EXTINF:-1,NTV
 http://103.214.202.218:8081/live/ntv/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png",RTV HD
+#EXTINF:-1,RTV HD
 http://103.214.202.218:8081/live/rtv/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png",BOISHAKHI TV
+#EXTINF:-1,BOISHAKHI TV
 http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qx0fxyv7rdx2uwi/bangla_vision.png",BANGLA VISION
+#EXTINF:-1,BANGLA VISION
 http://103.205.133.50/hls/banglavision.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png",DESH TV
+#EXTINF:-1,DESH TV
 https://ott.bingebd.com/live/ngrp:ott_desh_tv_mobile/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png",MY TV HD
+#EXTINF:-1,MY TV HD
 http://103.205.133.50/hls/mytv.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/r93ricvdm6l3n7b/mohona_tv.png",MOHONA TV
+#EXTINF:-1,MOHONA TV
 http://103.214.202.218:8081/live/mohona/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tnbtox1w21v8233/maasranga_tv_bd.png",MAASRANGA TV HD
+#EXTINF:-1,MAASRANGA TV HD
 http://103.102.136.106:8080/cmcltv/masranga_th.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png",CHANNEL 9 HD
+#EXTINF:-1,CHANNEL 9 HD
 http://103.102.136.106:8080/cmcltv/channel9.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bddi85vdtvfr785/gazi-tv-bd.png" group-title="BANGLA ENT.",GAZI TV HD
+#EXTINF:-1,GAZI TV HD
 http://103.214.202.218:8081/live/gazi-bd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/avuaf3stbx17d41/asian_tv_bd.png",ASIAN TV HD
+#EXTINF:-1,ASIAN TV HD
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qpe0m526qc1tral/sa_tv_bd.png",SA TV HD
+#EXTINF:-1,SA TV HD
 http://103.214.202.218:8081/live/satv-22/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bbkr8ohjdj7yzsa/deepto_tv_bd.png",DEEPTO TV HD
+#EXTINF:-1,DEEPTO TV HD
 http://103.214.202.218:8081/live/deepto/playlist.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png",BANGLA TV HD
+#EXTINF:-1,BANGLA TV HD
 http://103.214.202.218:8081/live/banglatv-19/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA ENT.",NAGORIK TV HD
+#EXTINF:-1,NAGORIK TV HD
 http://45.249.187.238:8081/hls/new16.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png",ATN NEWS
+#EXTINF:-1,ATN NEWS
 http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",INDEPENDENT TV
+#EXTINF:-1,INDEPENDENT TV
 http://103.214.202.218:8081/live/independent/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV
+#EXTINF:-1,SOMOY TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",CHANNEL 24
+#EXTINF:-1,CHANNEL 24
 http://103.205.133.50/hls/channel24.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",EKATTOR TV HD
+#EXTINF:-1,EKATTOR TV HD
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",EKATTOR TV HD
+#EXTINF:-1,EKATTOR TV HD
 http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
+#EXTINF:-1,JAMUNA TV
 http://103.102.136.106:8080/cmcltv/jamuna.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png",NEWS 24 HD
+#EXTINF:-1,NEWS 24 HD
 http://103.102.136.106:8080/cmcltv/news24.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lj9s11dqzleti2a/dbc_news_bd.png",DBC NEWS HD
+#EXTINF:-1,DBC NEWS HD
 http://103.102.136.106:8080/cmcltv/dbcnews.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/zz46867ifm3fm6i/duronto-tv-bd.png",DURONTO TV
+#EXTINF:-1,DURONTO TV
 http://45.249.187.238:8081/hls/new3.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/hsd251vq24vfr0j/bijoy_tv.png",BIJOY TV HD
+#EXTINF:-1,BIJOY TV HD
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/31k6q9ajx36he7i/ananda-tv-bd.png",ANANDA TV HD
+#EXTINF:-1,ANANDA TV HD
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/59vk3mdm4cl1ojc/channel_s_bd.png",CHANNEL S
+#EXTINF:-1,CHANNEL S
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OS4nrN7.jpg",NTV
+#EXTINF:-1,NTV
 http://103.214.202.218:8081/live/ntv/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d48uZCk.png",CHANNEL S
+#EXTINF:-1,CHANNEL S
 https://channelsbd-hls.telelivebd.com/channelsbd/c2fd3edbd071ef2c15bd39f08d934859.sdp/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg?x91288", Bangla 21 TV
+#EXTINF:-1, Bangla 21 TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg", Alpona TV
+#EXTINF:-1, Alpona TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/04/TIMES-24-TV.jpg?x91288",Times 24 IPTV [BD]
+#EXTINF:-1,Times 24 IPTV [BD]
 ?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2ngv3Y0/71-Bangla-TV.jpg", 71 Bangla TV
+#EXTINF:-1, 71 Bangla TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Cumilla24.jpeg", Cumilla 24
+#EXTINF:-1, Cumilla 24
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/live2web-logo-Converted.jpg?x91288",LIVE2WEB IPTV [BD]
+#EXTINF:-1,LIVE2WEB IPTV
 ?Live-TV™
 
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/digibangla24update.jpg?x91288", Digi Bangla TV
+#EXTINF:-1, Digi Bangla TV
 ?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7YYHYiW.png", Jagoron TV
+#EXTINF:-1, Jagoron TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png", JoyJatra TV
+#EXTINF:-1, JoyJatra TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LqQp9LH.jpg", NAN TV
+#EXTINF:-1, NAN TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CIgayHY.jpg", Nokshi TV
+#EXTINF:-1, Nokshi TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png", NRB TV
