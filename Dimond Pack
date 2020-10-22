@@ -617,6 +617,7 @@ http://103.205.133.50/hls/ruposhibangla.m3u8?Live-TV™
 
 #EXTINF:-1,DD Bangla
 http://three.somee.com/web.php?c=out/v1/2bd41787f3c54bbcbf92ba54190d9e40/&e.m3u8
+https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1,DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8?Live-TV™
