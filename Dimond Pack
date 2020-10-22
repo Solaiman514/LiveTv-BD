@@ -365,6 +365,9 @@ https://streamitv.multitvsolution.in/idvo/khushboo.m3u8?Live-TV™
 #EXTINF:-1,Ekhon Kolkata
 http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8?Live-TV™
 
+#EXTINF:-1,Kolkatta Tv
+http://global.thunderbd.com/46/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,AAJ TAK HD	 				
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8?Live-TV™
 
@@ -432,7 +435,7 @@ http://103.205.133.50/hls/etvbangla.m3u8
 http://198.255.87.59:8080/INDIA_BENGALI/COLORS_BANGLA_HD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1,Colors Bangla HD (1)
-http://185.59.222.236:2200/R-EX/BENGALI_COLORS_BANGLA_HD-in/tracks-v1a1/mono.m3u8?token=
+http://global.thunderbd.com/43/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Colors Bangla HD (2)
 http://randomserver.site:2086/riyad/riyad/91888?checkedby:hlscat.com
@@ -608,15 +611,17 @@ http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8?Live-TV�
 
 #EXTINF:-1,Akash 8 (1)
 http://103.141.66.36/bpk-tv/10112/default/index.m3u8?Live-TV™
-
 #EXTINF:-1,Akash 8 (2)
 https://load.airtel.tv/aakashaath/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8http://three.somee.com/web.php?c=out/v1/2bd41787f3c54bbcbf92ba54190d9e40/&e.m3u8
+#EXTINF:-1,Akash 8 (3)
+https://load.airtelxstream.in/aakashaath/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1,Ruposhi Bangla
 http://103.205.133.50/hls/ruposhibangla.m3u8?Live-TV™
 
-#EXTINF:-1,DD Bangla
+#EXTINF:-1,DD Bangla (1)
 http://three.somee.com/web.php?c=out/v1/2bd41787f3c54bbcbf92ba54190d9e40/&e.m3u8
+#EXTINF:-1,DD Bangla (2)
 https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1,DD National
@@ -732,7 +737,9 @@ http://198.255.87.59:8080/INDIA_ENGLISH/STAR_WORLD_HD/tracks-v1a1/mono.m3u8?toke
 #EXTINF:-1,B4U Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 
-#EXTINF:-1,B4U Movies 
+#EXTINF:-1,B4U Movies (1)
+http://global.thunderbd.com/45/tracks-v1a1/mono.m3u8
+#EXTINF:-1,B4U Movies (2)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.ts
 
 #EXTINF:-1,B4U Kadak
@@ -1450,7 +1457,7 @@ http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:-1,DISNEY jr.
 http://anytv.live:8080/saiful/saiful/368
 #EXTINF:-1,NICK
-http://anytv.live:8080/saiful/saiful/332
+http://global.thunderbd.com/55/tracks-v1a1/mono.m3u8
 #EXTINF:-1",NICK Sonic
 http://anytv.live:8080/saiful/saiful/383
 #EXTINF:-1,Discovery Kids
@@ -1534,7 +1541,7 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8?Live-TV™
 #EXTINF:-1,9x Tashan
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8?Live-TV™
 #EXTINF:-1,Zoom
-http://103.214.202.218:8081/live/zoom-60/playlist.m3u8?Live-TV™
+http://global.thunderbd.com/60/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8?Live-TV™
 #EXTINF:-1,Pop पटाखा
