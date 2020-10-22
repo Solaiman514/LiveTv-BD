@@ -998,46 +998,52 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8?Live-TV™
 http://212.47.252.54/hls/stream.m3u8?Live-TV™
 
 #EXTINF:-1,BEIN SPORT EXTRA
-http://fariszah.myq-see.com:8008/live/demo/demo/1945.ts
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
-#EXTINF:-1,BEIN SPORT HD 1
+#EXTINF:-1,BEIN SPORT 1
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8?Live-TV™
 
-#EXTINF:-1,BEIN SPORT HD 2
+#EXTINF:-1,BEIN SPORT 2
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8?Live-TV™
 
+#EXTINF:-1,BEIN SPORT HD 1
+http://dx4.gcdn.co/UKS1747/index.m3u8
+
+#EXTINF:-1,BEIN SPORT HD 2
+http://dx4.gcdn.co/UKS1748/index.m3u8
+
 #EXTINF:-1,BEIN SPORT HD 3
-http://fariszah.myq-see.com:8008/live/demo/demo/1943.ts
+http://digitalxpress2.gcdn.co/live1/RTMP-bein3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,BEIN SPORT HD 4
-http://fariszah.myq-see.com:8008/live/demo/demo/1944.ts
+http://digitalxpress2.gcdn.co/live1/RTMP-bein4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,BEIN SPORT HD 5
-http://fariszah.myq-see.com:8008/live/demo/demo/1945.ts
+http://digitalxpress2.gcdn.co/live1/RTMP-bein5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,BEIN SPORT HD 6
-http://fariszah.myq-see.com:8008/live/demo/demo/1946.ts
+http://digitalxpress2.gcdn.co/live1/RTMP-bein6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,BEIN SPORT HD 7
-http://fariszah.myq-see.com:8008/live/demo/demo/2261.ts
+http://digitalxpress2.gcdn.co/live1/RTMP-bein7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,BEIN SPORT HD 8
-http://fariszah.myq-see.com:8008/live/demo/demo/2314.ts
+http://digitalxpress2.gcdn.co/live1/RTMP-bein8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,BEIN SPORT HD 9
-http://fariszah.myq-see.com:8008/live/demo/demo/2315.ts
+http://digitalxpress2.gcdn.co/live1/RTMP-bein9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,BEIN SPORT HD 10
-http://fariszah.myq-see.com:8008/live/demo/demo/2316.ts
+http://dx4.gcdn.co/UKS1756/index.m3u8
 
 #EXTINF:-1,BEIN SPORT HD 11
-http://66.northerniptv.ca:8000/live/george/george123/74480.m3u8?checkedby:hlscat.com
+http://dx4.gcdn.co/UKS1757/index.m3u8
 
 #EXTINF:-1,BEIN SPORT HD 12
-http://66.northerniptv.ca:8000/tommy2/123456/74479?checkedby:hlscat.com
+http://dx4.gcdn.co/UKS1758/index.m3u8
 
 #EXTINF:-1,BEIN SPORT HD 13
-http://66.northerniptv.ca:8000/live/george/george123/74478.m3u8?checkedby:hlscat.com
+http://dx4.gcdn.co/UKS1759/index.m3u8
 
 #EXTINF:-1,FOX SPORT 1
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8?Live-TV™
