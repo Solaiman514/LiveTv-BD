@@ -21,11 +21,14 @@ http://103.205.133.50/hls/atnbangla.m3u8?Live-TV™
 #EXTINF:-1,CHANNEL I HD
 http://103.214.202.218:8081/live/channeli/chunks.m3u8?Live-TV™
 
-#EXTINF:-1,EKUSHEY TV 1
+#EXTINF:-1,EKUSHEY TV (1)
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?Live-TV™
-
-#EXTINF:-1,EKUSHEY TV 2
+#EXTINF:-1,EKUSHEY TV (2)
 http://103.214.202.218:8081/live/ekushey/playlist.m3u8
+#EXTINF:-1,EKUSHEY TV (3)
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1,EKUSHEY TV (4)
+http://103.205.133.50/hls/ekushey.m3u8
 
 #EXTINF:-1,NTV
 http://103.214.202.218:8081/live/ntv/chunks.m3u8?Live-TV™
@@ -57,7 +60,7 @@ http://103.102.136.106:8080/cmcltv/channel9.m3u8?Live-TV™
 #EXTINF:-1,GAZI TV HD (1)
 http://103.214.202.218:8081/live/gazi-bd/playlist.m3u8
 #EXTINF:-1,GAZI TV HD (2)
-
+http://103.141.66.36/bpk-tv/10328/default/manifest.mpd
 
 #EXTINF:-1,ASIAN TV HD
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
