@@ -392,11 +392,14 @@ http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8?Live-TV™
 #EXTINF:-1,Star Plus
 http://ccntv.anytv.live:8080/starplus/index.m3u8
 
-#EXTINF:-1,Star Plus HD
+#EXTINF:-1,Star Plus HD (1)
 http://103.205.133.50/hls/chsp.m3u8?Live-TV™
 
-#EXTINF:-1,Star Bharat
-http://anytv.live:8080/saiful/saiful/344
+#EXTINF:-1,Star Plus HD (2)
+http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
+
+#EXTINF:-1,Star Bharat HD
+http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
 
 #EXTINF:-1,Star Gold
 http://89.187.169.204:2200/NL/stargold-uk/tracks-v1a1/mono.m3u8?token=
@@ -405,13 +408,13 @@ http://89.187.169.204:2200/NL/stargold-uk/tracks-v1a1/mono.m3u8?token=
 http://198.255.87.59:8080/INDIA_HINDI/STAR_GOLD_HD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1,Star Gold HD (2)
-http://89.187.169.203:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/mono.m3u8?token=
+http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Star Gold Select HD (1)
 http://198.255.87.59:8080/INDIA_HINDI/STAR_GOLD_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1,Star Gold Select HD (2)
-http://89.187.169.203:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=
+http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
 
 #EXTINF:-1,Star Gold 2
 http://45.249.187.238:8081/hls/tsl-3.m3u8?Live-TV™
@@ -450,7 +453,7 @@ http://anytv.live:8080/saiful/saiful/41
 http://103.205.133.50/hls/chc.m3u8
 
 #EXTINF:-1,Colors HD (2)
-http://103.115.159.38:8080/live/saiful/saiful/289.m3u8
+http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
 
 #EXTINF:-1,COLORS MARATHI HD
 http://89.187.169.203:2200/R-EX/MARATHI_COLORS_MARATHI_HD-in/tracks-v1a1/mono.m3u8?token=
@@ -462,7 +465,7 @@ http://198.255.87.59:8080/INDIA_HINDI/CINEPLEX_HD/tracks-v1a1/mono.m3u8?token=te
 http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87262
 
 #EXTINF:-1,COLORS Rishtey
-http://185.59.222.171:2200/NL/colorsrishtey-in/tracks-v1a1/mono.m3u8?token=
+http://dx3.gcdn.co/hindi-RISHTEY/index.m3u8
 
 #EXTINF:-1,COLORS INFINITY HD
 http://89.187.169.203:2200/R-EX/ENGLISH_COLORS_INFINITY_HD-in/tracks-v1a1/mono.m3u8?token=
@@ -484,22 +487,26 @@ http://103.141.66.36/bpk-tv/10263/default/index.m3u8?Live-TV™
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Zee TV
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/apacsea/index.m3u8
+http://dx3.gcdn.co/hindi-ZEETV/index.m3u8
 
 #EXTINF:-1,Zee Tv HD
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeetvhd/index.m3u8
+http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
 
 #EXTINF:-1,Zee Anmol
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeeanmol/index.m3u8
 
 #EXTINF:-1,Zee Anmol Cinema
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zanmolcnm/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 
 #EXTINF:-1,Zee Cinema
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeecinemame/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
+#EXTINF:-1,Zee Cinema
+https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
+#EXTINF:-1,Zee Cinema
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
 
 #EXTINF:-1,Zee Cinema HD
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeecinemame/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 
 #EXTINF:-1,Zee Smail
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8?Live-TV™
@@ -537,8 +544,11 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?Live-TV™
 #EXTINF:-1,Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?Live-TV™
 
+#EXTINF:-1,Zee Bollywood
+https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
+
 #EXTINF:-1,Zee Action 
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/action/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 
 #EXTINF:-1,Sony Aath (1)
 http://103.205.133.50/hls/sony8.m3u8?Live-TV™
@@ -556,9 +566,9 @@ http://45.249.187.238:8081/hls/new21.m3u8?Live-TV™
 #EXTINF:-1,Sony Intertenment (1)
 http://103.205.133.50/hls/chs.m3u8?Live-TV™
 #EXTINF:-1,Sony Intertenment (2)
-http://anytv.live:8080/saiful/saiful/337
-#EXTINF:-1,Sony Intertenment HD
 http://103.214.202.218:8081/live/sony-40/playlist.m3u8?Live-TV™
+#EXTINF:-1,Sony Intertenment HD
+http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
 
 #EXTINF:-1,Sony Max (1)
 http://otv.ftpbd.net/streams/109/index.m3u8?Live-TV™
@@ -568,22 +578,24 @@ http://103.70.140.27:8080/hls/tcm_sonymax_cm_ip.m3u8
 https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1,Sony Max (4)
 http://106.0.54.6:8080/hls/tcm_sonymax_cm_ip.m3u8
+#EXTINF:-1,Sony Max (5)
+https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1,Sony Max HD
-
+http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 
 #EXTINF:-1,Sony Max 2 (1)
 https://load.airtel.tv/sonymax2/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1,Sony Max 2 (2)
-http://ov100.novacdn.xyz/nmbkxvrteswazx/9780854213567/6525?token=SRJYAhFRRlgVUlQGA1RWU1JUAVEGA1IECgQBBgBVAwAFBVFWUQ8HAA5BHkYSRhRUUFhmW1UWXgIGAVdIEhYVB0BvWQdAA0ZQD1cGUlkQShNFXFRXEw5VAQoEU1EFVlJSHhJACgYbXgxCD15IQ1ceRVRHV1NdawBRRVoBARJZCBdeXBxBDVc7BlIOUwoFEFwTABcVEFhHFBYJXRcIXE9EAFtEQgIWXEZYWRZeCE0QBV5EW01ASBZeFnF3QEgSBh4WV15DCg1XRlgVF0FGTRAPQm5HXEFFRgFVXlYQRgpBVkAeEl0CGmYHDVkNVwcVWwlfQhcDEAAWSBZeXAwNRAwUPUJZVEFYVxEOWx4=
+http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
 
 #EXTINF:-1,Sony Sab
 http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8?Live-TV™
 #EXTINF:-1,Sony Sab HD
-http://198.255.87.59:8080/INDIA_HINDI/SONY_SAB_HD/tracks-v1a1/mono.m3u8?token=test
+http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
 
 #EXTINF:-1,SONY PAL
-http://198.255.87.59:8080/INDIA_HINDI/SONY_PAL/tracks-v1a1/mono.m3u8?token=test
+http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8
 
 #EXTINF:-1,Sony Wah
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8?Live-TV™
@@ -622,16 +634,20 @@ http://three.somee.com/web.php?c=out/v1/78239452a9944713bf0dfd0946a55ad5/&e.m3u8
 http://185.246.210.54:2200/R-EX/BENGLAI_TATA_SKY_BANGLA_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1,&tv
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvsd/index.m3u8
+http://103.205.133.50/hls/andtv.m3u8
 
 #EXTINF:-1,&tv HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/index.m3u8
 
-#EXTINF:-1,& pictures
+#EXTINF:-1,& pictures (1)
 http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8?Live-TV™
+#EXTINF:-1,& pictures (2)
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 
-#EXTINF:-1,& pictures HD
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andpicshd/index.m3u8
+#EXTINF:-1,& pictures HD (1)
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/%26picturehd.m3u8
+#EXTINF:-1,& pictures HD (2)
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 
 #EXTINF:-1,& Xplor HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8
@@ -711,6 +727,9 @@ https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8?Live-TV™
 
 #EXTINF:-1,STAR WORLD HD
 http://198.255.87.59:8080/INDIA_ENGLISH/STAR_WORLD_HD/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1,B4U Plus
+http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 
 #EXTINF:-1,B4U Movies 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.ts
