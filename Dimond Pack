@@ -9,17 +9,25 @@ http://103.205.133.50/hls/btv.m3u8?Live-TV™
 #EXTINF:-1,Sangsad TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8?Live-TV™
 
-#EXTINF:-1,BTV WORLD
+#EXTINF:-1,BTV WORLD (1)
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8?Live-TV™
+#EXTINF:-1,BTV WORLD (2)
+http://103.205.133.50/hls/btvworld.m3u8
 
 #EXTINF:-1,BTV CTG
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8?Live-TV™
 
-#EXTINF:-1,ATN BANGLA
+#EXTINF:-1,ATN BANGLA (1)
 http://103.205.133.50/hls/atnbangla.m3u8?Live-TV™
+#EXTINF:-1,ATN BANGLA (2)
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/live-orgin/atnbanglauk-off.stream/chunks.m3u8
+#EXTINF:-1,ATN BANGLA (3)
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
-#EXTINF:-1,CHANNEL I HD
+#EXTINF:-1,CHANNEL I HD (1)
 http://103.214.202.218:8081/live/channeli/chunks.m3u8?Live-TV™
+#EXTINF:-1,CHANNEL I HD (2)
+http://103.205.133.50/hls/ichannel.m3u8
 
 #EXTINF:-1,EKUSHEY TV (1)
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?Live-TV™
@@ -30,76 +38,127 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,EKUSHEY TV (4)
 http://103.205.133.50/hls/ekushey.m3u8
 
-#EXTINF:-1,NTV
+#EXTINF:-1,NTV (1)
 http://103.214.202.218:8081/live/ntv/chunks.m3u8?Live-TV™
+#EXTINF:-1,NTV (2)
+http://103.205.133.50/hls/ntv.m3u8
 
-#EXTINF:-1,RTV HD
+#EXTINF:-1,RTV HD (1)
 http://103.214.202.218:8081/live/rtv/chunks.m3u8?Live-TV™
+#EXTINF:-1,RTV HD (2)
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1,RTV HD (3)
+http://103.205.133.50/hls/rtv.m3u8
 
-#EXTINF:-1,BOISHAKHI TV
+#EXTINF:-1,BOISHAKHI TV (1)
 http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8?Live-TV™
+#EXTINF:-1,BOISHAKHI TV (2)
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1,BOISHAKHI TV (3)
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 
-#EXTINF:-1,BANGLA VISION
+#EXTINF:-1,BANGLA VISION (1)
 http://103.205.133.50/hls/banglavision.m3u8?Live-TV™
+#EXTINF:-1,BANGLA VISION (2)
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1,DESH TV
 https://ott.bingebd.com/live/ngrp:ott_desh_tv_mobile/chunklist.m3u8
 
-#EXTINF:-1,MY TV HD
+#EXTINF:-1,MY TV HD (1)
 http://103.205.133.50/hls/mytv.m3u8?Live-TV™
+#EXTINF:-1,MY TV HD (2)
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 
-#EXTINF:-1,MOHONA TV
+#EXTINF:-1,MOHONA TV (1)
 http://103.214.202.218:8081/live/mohona/chunks.m3u8?Live-TV™
+#EXTINF:-1,MOHONA TV (2)
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:-1,MOHONA TV (3)
+http://103.205.133.50/hls/mohonatv.m3u8
 
 #EXTINF:-1,MAASRANGA TV HD
 http://103.102.136.106:8080/cmcltv/masranga_th.m3u8
 
-#EXTINF:-1,CHANNEL 9 HD
+#EXTINF:-1,CHANNEL 9 HD (1)
 http://103.102.136.106:8080/cmcltv/channel9.m3u8?Live-TV™
+#EXTINF:-1,CHANNEL 9 HD (2)
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
 #EXTINF:-1,GAZI TV HD (1)
 http://103.214.202.218:8081/live/gazi-bd/playlist.m3u8
 #EXTINF:-1,GAZI TV HD (2)
 http://103.141.66.36/bpk-tv/10328/default/manifest.mpd
+#EXTINF:-1,GAZI TV HD (3)
+http://103.132.180.245:8080/2/index.m3u8?token=f249ee099ac31671f393eab1dd60d1d86ef3c31e-4af8c0a178661db3b32df38ac2f1a11a-1600616751-1600605951&remote=103.66.177.168
 
 #EXTINF:-1,ASIAN TV HD
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 
-#EXTINF:-1,SA TV HD
+#EXTINF:-1,SA TV HD (1)
 http://103.214.202.218:8081/live/satv-22/chunks.m3u8?Live-TV™
+#EXTINF:-1,SA TV HD (2)
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 
-#EXTINF:-1,DEEPTO TV HD
+#EXTINF:-1,DEEPTO TV HD (1)
 http://103.214.202.218:8081/live/deepto/playlist.m3u8?Live-TV™
+#EXTINF:-1,DEEPTO TV HD (2)
+http://103.205.133.50/hls/deeptotv.m3u8
 
-#EXTINF:-1,BANGLA TV HD
+#EXTINF:-1,BANGLA TV HD (1)
 http://103.214.202.218:8081/live/banglatv-19/chunks.m3u8
+#EXTINF:-1,BANGLA TV HD (2)
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1,BANGLA TV HD (3)
+http://103.205.133.50/hls/banglatv.m3u8
 
-#EXTINF:-1,NAGORIK TV HD
+#EXTINF:-1,NAGORIK TV HD (1)
 http://45.249.187.238:8081/hls/new16.m3u8?Live-TV™
+#EXTINF:-1,NAGORIK TV HD (2)
+http://103.205.133.50/hls/nagorik.m3u8
 
-#EXTINF:-1,ATN NEWS
+#EXTINF:-1,ATN NEWS (1)
 http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8?Live-TV™
+#EXTINF:-1,ATN NEWS (2)
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+#EXTINF:-1,ATN NEWS (3)
+http://103.205.133.50/hls/atnnews.m3u8
 
-#EXTINF:-1,INDEPENDENT TV
+#EXTINF:-1,INDEPENDENT TV (1)
 http://103.214.202.218:8081/live/independent/chunks.m3u8?Live-TV™
+#EXTINF:-1,INDEPENDENT TV (2)
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1,INDEPENDENT TV (3)
+http://103.205.133.50/hls/independent.m3u8
 
 #EXTINF:-1,SOMOY TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8?Live-TV™
 
-#EXTINF:-1,CHANNEL 24
+#EXTINF:-1,CHANNEL 24 (1)
 http://103.205.133.50/hls/channel24.m3u8?Live-TV™
+#EXTINF:-1,CHANNEL 24 (2)
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-1,EKATTOR TV HD (1)
 http://otv.ftpbd.net/streams/128/index.m3u8
-
 #EXTINF:-1,EKATTOR TV HD (2)
 http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
+#EXTINF:-1,EKATTOR TV HD (3)
+http://103.102.136.106:8080/cmcltv/ekator_th.m3u8
 
-#EXTINF:-1,JAMUNA TV
+#EXTINF:-1,JAMUNA TV (1)
 http://103.102.136.106:8080/cmcltv/jamuna.m3u8?Live-TV™
+#EXTINF:-1,JAMUNA TV (2)
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1,JAMUNA TV (3)
+http://103.205.133.50/hls/jamunatv.m3u8
 
-#EXTINF:-1,NEWS 24 HD
+#EXTINF:-1,NEWS 24 HD (1)
 http://103.102.136.106:8080/cmcltv/news24.m3u8?Live-TV™
+#EXTINF:-1,NEWS 24 HD (2)
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+#EXTINF:-1,NEWS 24 HD (3)
+http://103.205.133.50/hls/news24.m3u8
 
 #EXTINF:-1,DBC NEWS HD
 http://103.102.136.106:8080/cmcltv/dbcnews.m3u8?Live-TV™
