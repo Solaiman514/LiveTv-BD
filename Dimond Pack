@@ -160,11 +160,15 @@ https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,NEWS 24 HD (3)
 http://103.205.133.50/hls/news24.m3u8
 
-#EXTINF:-1,DBC NEWS HD
+#EXTINF:-1,DBC NEWS HD (1)
 http://103.102.136.106:8080/cmcltv/dbcnews.m3u8?Live-TV™
+#EXTINF:-1,DBC NEWS HD (2)
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+#EXTINF:-1,DBC NEWS HD (3)
+http://103.205.133.50/hls/dbcnews.m3u8
 
 #EXTINF:-1,DURONTO TV
-http://45.249.187.238:8081/hls/new3.m3u8?Live-TV™
+http://103.102.136.106:8080/cmcltv/duronto_th.m3u8
 
 #EXTINF:-1,BIJOY TV HD
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8?Live-TV™
@@ -177,11 +181,13 @@ https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,CHANNEL-S (2)
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 
-#EXTINF:-1,NTV
-http://103.214.202.218:8081/live/ntv/chunks.m3u8?Live-TV™
+#EXTINF:-1,NTV UK
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
 
-#EXTINF:-1,CHANNEL S
+#EXTINF:-1,CHANNEL S (1)
 https://channelsbd-hls.telelivebd.com/channelsbd/c2fd3edbd071ef2c15bd39f08d934859.sdp/chunks.m3u8?Live-TV™
+#EXTINF:-1,CHANNEL S (2)
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 
 #EXTINF:-1,Bangla 21 TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8?Live-TV™
@@ -190,10 +196,10 @@ https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8?Live-TV™
 
 #EXTINF:-1,Times 24 IPTV [BD]
-?Live-TV™
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/times24tv.stream/chunks.m3u8?Live-TV™
 
 #EXTINF:-1,71 Bangla TV
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8?Live-TV™
+?Live-TV™
 
 #EXTINF:-1, Cumilla 24
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8?Live-TV™
@@ -232,7 +238,7 @@ https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8?Live-TV™
 
 #EXTINF:-1,The Channel TV
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/thechanneltv.stream/chunks.m3u8?Live-TV™
+?Live-TV™
 
 #EXTINF:-1,Titas Sports
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8?Live-TV™
@@ -262,40 +268,42 @@ https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 ?Live-TV™
 
 #EXTINF:-1,iON TV UK
-?Live-TV™
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/iontvuk.stream/chunks.m3u8?Live-TV™
 
 #EXTINF:-1,Jhankar TV
-?Live-TV™
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/live-orgin/jhankartv.stream/chunks.m3u8?Live-TV™
 
 #EXTINF:-1,JonmoBhumi TV
-?Live-TV™
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/live-orgin/jonmobhumitv.stream/chunks.m3u8?Live-TV™
 
 #EXTINF:-1,Millennium24
 ?Live-TV™
 
 #EXTINF:-1,Millennium TV
-?Live-TV™
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8?Live-TV™
 
 #EXTINF:-1,PBN TV
-?Live-TV™
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pbntv.stream/live-orgin/pbntv.stream/chunks.m3u8?Live-TV™
 
 #EXTINF:-1,TV ONE
 https://tempe.jagobd.com:441/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tvoneuksni.stream/live-orgin/tvoneuksni.stream/chunks.m3u8?Live-TV™
 
 #EXTINF:-1,Time TV
-?Live-TV™
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/live-orgin/timetvusa.stream/chunks.m3u8?Live-TV™
 
-#EXTINF:-1,AB TV
-?Live-TV™
+#EXTINF:-1,AB TV (1)
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtvusa.stream/live-orgin/abtvusa.stream/chunks.m3u8?Live-TV™
+#EXTINF:-1,AB TV (2)
+https://cdn.priyoiptv.com:444/priyoiptv/rangiptv.stream/chunks.m3u8
 
 #EXTINF:-1,Bongo TV
 http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8?Live-TV™
 
 #EXTINF:-1,Channel H
-?Live-TV™
+https://bds.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelhtv.stream/live-orgin/channelhtv.stream/chunks.m3u8?Live-TV™
 
 #EXTINF:-1,City IPTV
-?Live-TV™
+https://bds.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/citytv.stream/live-orgin/citytv.stream/chunks.m3u8?Live-TV™
 
 #EXTINF:-1,Doyel IPTV
 http://doyeltv1.flashmediacast.com:1935/doyeltv/livestream/chunklist_w2144659225.m3u8?Live-TV™
@@ -318,8 +326,10 @@ http://149.28.147.59/live/onuvhuti/index.m3u8?Live-TV™
 #EXTINF:-1,TV Asia
 ?Live-TV™
 
-#EXTINF:-1,Shopno
+#EXTINF:-1,Shopno (1)
 http://talusafagroup.ddns.net:8080/shopno/shopnotv.m3u8?Live-TV™
+#EXTINF:-1,Shopno (2)
+http://103.81.198.111:8080/shopno/shopnotv.m3u8
 
 #EXTINF:-1,Deshi IPTV
 http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8?Live-TV™
@@ -1276,13 +1286,10 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/38.m3u8?Live-TV™
 
 #EXTINF:-1,NAT GEO HD (1)
 http://otv.ftpbd.net/streams/110/index.m3u8?Live-TV™
-
 #EXTINF:-1,NAT GEO HD (2)
 http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
-
 #EXTINF:-1,NAT GEO HD (3)
 https://www.fanmingming.cn/hls/natlgeo.m3u8
-
 #EXTINF:-1,NAT GEO HD (4)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
@@ -1303,22 +1310,27 @@ https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8?Live-TV™
 https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
 #EXTINF:-1,Discovery (3)
 https://www.fanmingming.cn/hls/discovery.m3u8
+
 #EXTINF:-1,Discovery ID
 https://streamitv.multitvsolution.in/idvo/investigationdiscovery.m3u8
+
 #EXTINF:-1,Discovery Turbo
 https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
+
 #EXTINF:-1,Discovery Science (1)
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8?Live-TV™
 #EXTINF:-1,Discovery Science (2)
 https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
+
 #EXTINF:-1,TLC (1)
 https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8?Live-TV™
 #EXTINF:-1,TLC (2)
 https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
+#EXTINF:-1,TLC (3)
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1,SONY BBC Earth (1)
-http://198.255.87.59:8080/INDIA_ENGLISH/BBC_EARTH_HD/tracks-v1a1/mono.m3u8?token=test
-
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,SONY BBC Earth (2)
 http://198.255.87.59:8080/INDIA_HINDI/BBC_EARTH_HD/tracks-v1a1/mono.m3u8?token=test
 
