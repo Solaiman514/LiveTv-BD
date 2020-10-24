@@ -1243,6 +1243,63 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1,Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 
+#EXTINF:-1,GR SPORT
+http://37.48.86.45:8182/PAOK_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,GR SPORT 1
+http://37.48.86.45:8182/OTEsport1/index.m3u8
+
+#EXTINF:-1,GR SPORT 2
+http://37.48.86.45:8182/OTEsport2/index.m3u8
+
+#EXTINF:-1,GR SPORT 3
+http://37.48.86.45:8182/OTEsport3/index.m3u8
+
+#EXTINF:-1,GR SPORT 4
+http://37.48.86.45:8182/OTEsport4/index.m3u8
+
+#EXTINF:-1,GR SPORT 5
+http://37.48.86.45:8182/OTEsport5/index.m3u8
+
+#EXTINF:-1,GR SPORT 6
+http://37.48.86.45:8182/OTEsport6/index.m3u8
+
+#EXTINF:-1,GR SPORT 7
+http://37.48.86.45:8182/OTEsport7/index.m3u8
+
+#EXTINF:-1,GR SPORT 8
+http://37.48.86.45:8182/OTEsport8/index.m3u8
+
+#EXTINF:-1,GR SPORT 9
+http://37.48.86.45:8182/OTEsport9/index.m3u8
+
+#EXTINF:-1,GR SPORT INFO
+http://37.48.86.45:8182/OTESportHighlights/index.m3u8
+
+#EXTINF:-1,NOVA SPORT 1
+http://37.48.86.45:8182/SUPERSPORT1/index.m3u8
+
+#EXTINF:-1,NOVA SPORT 2
+http://37.48.86.45:8182/SUPERSPORT2/index.m3u8
+
+#EXTINF:-1,NOVA SPORT 3
+http://37.48.86.45:8182/SUPERSPORT3/index.m3u8
+
+#EXTINF:-1,NOVA SPORT 4
+http://37.48.86.45:8182/SUPERSPORT4/index.m3u8
+
+#EXTINF:-1,NOVA SPORT 5
+http://37.48.86.45:8182/SUPERSPORT5/index.m3u8
+
+#EXTINF:-1,SUPER SPORT 1
+http://144.76.91.70:8081/streamrtmp/ss1/playlist.m3u8
+
+#EXTINF:-1,SUPER SPORT 2
+http://144.76.91.70:8081/streamrtmp/ss2/playlist.m3u8
+
+#EXTINF:-1,SUPER SPORT 3
+http://144.76.91.70:8081/streamrtmp/ss3/playlist.m3u8
+
 
 
 
@@ -1526,6 +1583,45 @@ https://sc.id-tv.kz/IDFashion_38_39.m3u8
 
 #EXTINF:-1,HD Fashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1,SINEMA INDONESIA
+http://210.210.155.35/session/00c938c4-0ad3-11eb-ad98-ab26b60fe2f7/x6bnqe/s/s71/S4/mnf.m3u8
+
+#EXTINF:-1,CELESTIAL MOVIES 2
+http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:-1,CINEMA WORLD
+http://210.210.155.35:80/uq2663/h/h04/02.m3u8
+
+#EXTINF:-1,HITS
+http://210.210.155.35:80/uq2663/h/h37/01.m3u8
+
+#EXTINF:-1,EPIC DRAMA
+http://37.48.86.45:8182/epic-drama/mpegts?
+
+#EXTINF:-1,GR CINEMA 1
+http://37.48.86.45:8182/OTEcinema1/index.m3u8
+
+#EXTINF:-1,GR CINEMA 2
+http://37.48.86.45:8182/OTEcinema2/index.m3u8
+
+#EXTINF:-1,GR CINEMA 3
+http://37.48.86.45:8182/OTEcinema3/index.m3u8
+
+#EXTINF:-1,GR SERIES
+http://37.48.86.45:8182/OTEcinema4/index.m3u8
+
+#EXTINF:-1,NOVA CINEMA 1
+http://37.48.86.45:8182/SUPercineMA1/index.m3u8
+
+#EXTINF:-1,NOVA CINEMA 2
+http://37.48.86.45:8182/SUPercineMA2/index.m3u8
+
+#EXTINF:-1,NOVA CINEMA 3
+http://37.48.86.45:8182/SUPercineMA3/index.m3u8
+
+#EXTINF:-1,NOVA CINEMA 4
+http://37.48.86.45:8182/SUPercineMA4/index.m3u8
 
 
 
