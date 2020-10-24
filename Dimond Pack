@@ -703,8 +703,10 @@ http://three.somee.com/web.php?c=out/v1/2bd41787f3c54bbcbf92ba54190d9e40/&e.m3u8
 #EXTINF:-1,DD Bangla (2)
 https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.m3u8
 
-#EXTINF:-1,DD National
+#EXTINF:-1,DD National (1)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8?Live-TV™
+#EXTINF:-1,DD National (2)
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
 
 #EXTINF:-1,Bangla Time
 https://streamitv.multitvsolution.in/idvo/banglatimetv.m3u8?Live-TV™
