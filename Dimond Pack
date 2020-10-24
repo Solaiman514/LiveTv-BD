@@ -95,6 +95,8 @@ http://103.141.66.36/bpk-tv/10328/default/manifest.mpd
 http://103.132.180.245:8080/2/index.m3u8
 #EXTINF:-1,GAZI TV HD (4)
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
+#EXTINF:-1,GAZI TV HD (5)
+https://edge.apigate.pro/channel1/ngrp:myStream_all/playlist.m3u8
 
 #EXTINF:-1,ASIAN TV HD
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
@@ -414,6 +416,8 @@ https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://103.205.133.50/hls/chsj.m3u8
 #EXTINF:-1,Star Jalsha (2)
 http://ccntv.anytv.live:8080/star-jalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Jalsha (3)
+http://criclive.sonarbanglatv.com:8081/livetv/starjalsha/playlist.m3u8
 
 #EXTINF:-1,Star Jalsha HD (1)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
@@ -505,7 +509,7 @@ http://198.255.87.59:8080/INDIA_ENGLISH/STAR_WORLD_HD/tracks-v1a1/mono.m3u8?toke
 #EXTINF:-1,Colors Bangla (1)
 http://103.205.133.50/hls/etvbangla.m3u8
 #EXTINF:-1,Colors Bangla (2)
-http://198.255.87.59:8080/INDIA_BENGALI/COLORS_BANGLA_HD/tracks-v1a1/mono.m3u8?token=test
+http://criclive.sonarbanglatv.com:8081/livetv/colorsbangla/playlist.m3u8
 
 #EXTINF:-1,Colors Bangla HD (1)
 http://global.thunderbd.com/43/tracks-v1a1/mono.m3u8
@@ -547,6 +551,8 @@ http://103.205.133.50/hls/zeebangla.m3u8?Live-TV™
 http://otv.ftpbd.net/streams/107/index.m3u8
 #EXTINF:-1,Zee Bangla (3)
 http://aklivetv.com:8080/zeebangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee Bangla (4)
+http://criclive.sonarbanglatv.com:8081/livetv/zeebangla/playlist.m3u8
 
 #EXTINF:-1,Zee Bangla HD (1)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
@@ -702,6 +708,9 @@ http://103.205.133.50/hls/ruposhibangla.m3u8?Live-TV™
 http://three.somee.com/web.php?c=out/v1/2bd41787f3c54bbcbf92ba54190d9e40/&e.m3u8
 #EXTINF:-1,DD Bangla (2)
 https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.m3u8
+
+#EXTINF:-1,DD Odia
+https://streamitv.multitvsolution.in/idvo/ddodia.m3u8
 
 #EXTINF:-1,DD National (1)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8?Live-TV™
@@ -1042,6 +1051,8 @@ http://103.205.133.50/hls/ten3.m3u8
 http://113.212.111.246:8080/hls/col30.m3u8
 #EXTINF:-1,Star Sports 1 (2)
 http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTINF:-1,Star Sports 1 (3)
+http://113.212.111.246:8080/hls/col2.m3u8
 
 #EXTINF:-1,Star Sports 1 Hindi (1)
 http://103.205.133.50/hls/chss1.m3u8
@@ -1720,8 +1731,14 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/out/v1/9
 http://51.52.156.22:8888/http/003
 #EXTINF:-1,Disney XD
 https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
-#EXTINF:-1,ANIMAX
+
+#EXTINF:-1,ANIMAX (1)
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8?Live-TV™
+#EXTINF:-1,ANIMAX (2)
+http://210.210.155.35/dr9445/h/h144/01.m3u8
+#EXTINF:-1,ANIMAX (30
+https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=1418677106
+
 #EXTINF:-1,AniPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8?Live-TV™
 #EXTINF:-1,NICK Jr.
