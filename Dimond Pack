@@ -736,13 +736,15 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8
 
 #EXTINF:-1,& Prive HD
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andprivehd/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 
 #EXTINF:-1,& Flix HD
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andflixhd/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 
-#EXTINF:-1,Bflix Movie
+#EXTINF:-1,Bflix Movie (1)
 https://dreamtv.livebox.co.in/bflixouthls/live.m3u8?Live-TV™
+#EXTINF:-1,Bflix Movie (2)
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 #EXTINF:-1,Wow Cinema
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_360p/index.m3u8?Live-TV™
@@ -752,6 +754,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?Live-TV™
 
 #EXTINF:-1,Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8?Live-TV™
+
+#EXTINF:-1,Housefull Movies
+https://streamitv.multitvsolution.in/idvo/housefullmovies.m3u8
 
 #EXTINF:-1,Utv Action (1)
 http://45.249.187.238:8081/hls/tsl-7.m3u8?Live-TV™
@@ -769,17 +774,26 @@ http://198.255.87.59:8080/INDIA_HINDI/UTV_MOVIES/tracks-v1a1/mono.m3u8?token=tes
 #EXTINF:-1,UTV HD
 http://198.255.87.59:8080/INDIA_HINDI/UTV_HD/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1,FOX Life HD
+#EXTINF:-1,UTV Edge
+http://81.196.0.126/utvedge/utvlivehls/index.m3u8
+
+#EXTINF:-1,FOX Life HD (1)
 http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8?Live-TV™
+#EXTINF:-1,FOX Life HD (2)
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1,FOX ACTION
 https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8?Live-TV™
 
-#EXTINF:-1,FOX MOVIES PREMIUM
+#EXTINF:-1,FOX MOVIES PREMIUM (1)
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8?Live-TV™
+#EXTINF:-1,FOX MOVIES PREMIUM (2)
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1,FOX FAMILY HD EN
+#EXTINF:-1,FOX FAMILY HD (1)
 https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8?Live-TV™
+#EXTINF:-1,FOX FAMILY HD (2)
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1,HUM TV HD
 http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8?Live-TV™
@@ -990,26 +1004,30 @@ http://uk4.zecast.com:1935/star-live/vijayhd1/playlist.m3u8
 #EXTINF:-1,Sony Six HD (1)
 http://otv.ftpbd.net/streams/106/index.m3u8?Live-TV™
 #EXTINF:-1,Sony Six HD (2)
-http://103.205.133.50/hls/sonysix.m3u8
+https://load.airtelxstream.in/sonysix/smil:common.smil/chunklist.m3u8
+#EXTINF:-1,Sony Six HD (3)
+https://load.airtelxstream.in/sonysixhd/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1,Sony Ten 1 HD (1)
-https://load.airtel.tv/sonyten1hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8?Live-TV™
+https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Sony Ten 1 HD (2)
+https://load.airtelxstream.in/sonyten1/smil:common.smil/chunklist.m3u8
+#EXTINF:-1,Sony Ten 1 HD (3)
 http://otv.ftpbd.net/streams/105/index.m3u8
-#EXTINF:-1,Sony Ten 1 HD (2)
+#EXTINF:-1,Sony Ten 1 HD (4)
 http://103.205.133.50/hls/ten1.m3u8
 
 #EXTINF:-1,Sony Ten 2 HD (1)
-https://load.airtel.tv/sonyten2hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8?Live-TV™
+https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Sony Ten 2 HD (2)
 http://otv.ftpbd.net/streams/112/index.m3u8
 #EXTINF:-1,Sony Ten 2 HD (3)
 http://103.205.133.50/hls/ten2.m3u8
 
 #EXTINF:-1,Sony Ten 3 HD (1)
-https://load.airtel.tv/sonyten3hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8?Live-TV™
+https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Sony Ten 3 HD (2)
-
+https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Sony Ten 3 HD (3)
 http://103.205.133.50/hls/ten3.m3u8
 
@@ -1017,7 +1035,7 @@ http://103.205.133.50/hls/ten3.m3u8
 
 
 #EXTINF:-1,Star Sports 1 (1)
-http://45.249.187.238:8081/hls/new1.m3u8?Live-TV™
+http://113.212.111.246:8080/hls/col30.m3u8
 #EXTINF:-1,Star Sports 1 (2)
 http://otv.ftpbd.net/streams/104/index.m3u8
 
@@ -1036,6 +1054,8 @@ http://otv.ftpbd.net/streams/127/index.m3u8?Live-TV™
 http://otv.ftpbd.net/streams/116/index.m3u8?Live-TV™
 #EXTINF:-1,Star Sports 2 (2)
 http://103.205.133.50/hls/chss2.m3u8
+#EXTINF:-1,Star Sports 2 (3)
+http://global.thunderbd.com/26/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Star Sports 3
 http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/tracks-v1a1/mono.m3u8?token=Live-TV™.live
@@ -1045,15 +1065,15 @@ http://103.214.202.218:8081/live/starsports2/chunks.m3u8?Live-TV™
 
 #EXTINF:-1,Star S 1 Sel. (1)
 http://otv.ftpbd.net/streams/113/index.m3u8?Live-TV™
-
 #EXTINF:-1,Star S 1 Sel. (2)
-http://89.187.169.203:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=
+http://global.thunderbd.com/27/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Star S 2 Sel. (1)
 http://otv.ftpbd.net/streams/114/index.m3u8?Live-TV™
-
 #EXTINF:-1,Star S 2 Sel. (2)
-http://89.187.169.203:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/tracks-v1a1/mono.m3u8?token=
+http://global.thunderbd.com/28/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star S 2 Sel. (3)
+http://103.102.136.106:8080/cmcltv/livesports.m3u8
 
 #EXTINF:-1,Titas Sports
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/live-orgin/titash.stream/chunks.m3u8?Live-TV™
@@ -1091,35 +1111,55 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8?Live-TV™
 #EXTINF:-1,BEIN SPORT 2
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8?Live-TV™
 
-#EXTINF:-1,BEIN SPORT HD 1
+#EXTINF:-1,BEIN SPORT HD 1 (1)
 http://dx4.gcdn.co/UKS1747/index.m3u8
+#EXTINF:-1,BEIN SPORT HD 1 (2)
+http://cdn1.52dvb.xyz:80/5000/playlist.m3u8
 
-#EXTINF:-1,BEIN SPORT HD 2
+#EXTINF:-1,BEIN SPORT HD 2 (1)
 http://dx4.gcdn.co/UKS1748/index.m3u8
+#EXTINF:-1,BEIN SPORT HD 2 (2)
+http://cdn1.52dvb.xyz:80/5001/playlist.m3u8
 
-#EXTINF:-1,BEIN SPORT HD 3
+#EXTINF:-1,BEIN SPORT HD 3 (1)
 http://digitalxpress2.gcdn.co/live1/RTMP-bein3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BEIN SPORT HD 3 (2)
+http://cdn1.52dvb.xyz:80/5002/playlist.m3u8
 
-#EXTINF:-1,BEIN SPORT HD 4
+#EXTINF:-1,BEIN SPORT HD 4 (1)
 http://digitalxpress2.gcdn.co/live1/RTMP-bein4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BEIN SPORT HD 4 (2)
+http://cdn1.52dvb.xyz:80/5003/playlist.m3u8
 
-#EXTINF:-1,BEIN SPORT HD 5
+#EXTINF:-1,BEIN SPORT HD 5 (1)
 http://digitalxpress2.gcdn.co/live1/RTMP-bein5/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BEIN SPORT HD 5 (2)
+http://cdn1.52dvb.xyz:80/5004/playlist.m3u8
 
-#EXTINF:-1,BEIN SPORT HD 6
+#EXTINF:-1,BEIN SPORT HD 6 (1)
 http://digitalxpress2.gcdn.co/live1/RTMP-bein6/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BEIN SPORT HD 6 (2)
+http://cdn1.52dvb.xyz:80/5005/playlist.m3u8
 
-#EXTINF:-1,BEIN SPORT HD 7
+#EXTINF:-1,BEIN SPORT HD 7 (1)
 http://digitalxpress2.gcdn.co/live1/RTMP-bein7/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BEIN SPORT HD 7 (2)
+http://cdn1.52dvb.xyz:80/5006/playlist.m3u8
 
-#EXTINF:-1,BEIN SPORT HD 8
+#EXTINF:-1,BEIN SPORT HD 8 (1)
 http://digitalxpress2.gcdn.co/live1/RTMP-bein8/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BEIN SPORT HD 8 (2)
+http://cdn1.52dvb.xyz:80/5007/playlist.m3u8
 
-#EXTINF:-1,BEIN SPORT HD 9
+#EXTINF:-1,BEIN SPORT HD 9 (1)
 http://digitalxpress2.gcdn.co/live1/RTMP-bein9/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BEIN SPORT HD 9 (2)
+http://cdn1.52dvb.xyz:80/5008/playlist.m3u8
 
-#EXTINF:-1,BEIN SPORT HD 10
+#EXTINF:-1,BEIN SPORT HD 10 (1)
 http://dx4.gcdn.co/UKS1756/index.m3u8
+#EXTINF:-1,BEIN SPORT HD 10 (2)
+http://cdn1.52dvb.xyz:80/5009/playlist.m3u8
 
 #EXTINF:-1,BEIN SPORT HD 11
 http://dx4.gcdn.co/UKS1757/index.m3u8
@@ -1130,14 +1170,20 @@ http://dx4.gcdn.co/UKS1758/index.m3u8
 #EXTINF:-1,BEIN SPORT HD 13
 http://dx4.gcdn.co/UKS1759/index.m3u8
 
-#EXTINF:-1,FOX SPORT 1
+#EXTINF:-1,FOX SPORT 1 (1)
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8?Live-TV™
+#EXTINF:-1,FOX SPORT 1 (2)
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
-#EXTINF:-1,FOX SPORT 2
+#EXTINF:-1,FOX SPORT 2 (1)
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8?Live-TV™
+#EXTINF:-1,FOX SPORT 2 (2)
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 
-#EXTINF:-1,FOX SPORT 3
+#EXTINF:-1,FOX SPORT 3 (1)
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8?Live-TV™
+#EXTINF:-1,FOX SPORT 3 (2)
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 #EXTINF:-1,Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?Live-TV™
@@ -1154,21 +1200,31 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_
 #EXTINF:-1,Abu Dhabi Sports 4
 http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?Live-TV™
 
-#EXTINF:-1,Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?Live-TV™
+#EXTINF:-1,Olympic Channel (1)
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1,Olympic Channel (2)
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 
-#EXTINF:-1,Euro Sports 1
+#EXTINF:-1,Euro Sports 1 (1)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
+#EXTINF:-1,Euro Sports 1 (2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600
 
 #EXTINF:-1,WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?Live-TV™
 
+#EXTINF:-1,Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
 #EXTINF:-1,Rai Sport
 http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8?Live-TV™
+
 #EXTINF:-1,RTV Sports
 http://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?@amarnettv.live?fluxustv.m3u8?Live-TV™
+
 #EXTINF:-1,Super Tennis
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?Live-TV™
+
 #EXTINF:-1,Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?Live-TV™
 
