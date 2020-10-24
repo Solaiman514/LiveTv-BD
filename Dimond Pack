@@ -1127,6 +1127,8 @@ http://cdn1.52dvb.xyz:80/5000/playlist.m3u8
 http://dx4.gcdn.co/UKS1748/index.m3u8
 #EXTINF:-1,BEIN SPORT HD 2 (2)
 http://cdn1.52dvb.xyz:80/5001/playlist.m3u8
+#EXTINF:-1,BEIN SPORT HD 2 (3)
+http://116.203.182.40:80/hls/bein2.m3u8
 
 #EXTINF:-1,BEIN SPORT HD 3 (1)
 http://digitalxpress2.gcdn.co/live1/RTMP-bein3/tracks-v1a1/mono.m3u8
