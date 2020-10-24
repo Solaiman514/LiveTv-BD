@@ -92,7 +92,9 @@ http://criclive.sonarbanglatv.com:8081/livetv/gtv/chunks.m3u8
 #EXTINF:-1,GAZI TV HD (2)
 http://103.141.66.36/bpk-tv/10328/default/manifest.mpd
 #EXTINF:-1,GAZI TV HD (3)
-http://103.132.180.245:8080/2/index.m3u8?token=f249ee099ac31671f393eab1dd60d1d86ef3c31e-4af8c0a178661db3b32df38ac2f1a11a-1600616751-1600605951&remote=103.66.177.168
+http://103.132.180.245:8080/2/index.m3u8
+#EXTINF:-1,GAZI TV HD (4)
+http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 
 #EXTINF:-1,ASIAN TV HD
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
@@ -1096,6 +1098,9 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,Ptv Sports 
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8?Live-TV™
 
+#EXTINF:-1,JIO Sports
+http://global.thunderbd.com/120/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,DSPORT
 http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8?Live-TV™
 
@@ -1227,6 +1232,12 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?Live-TV™
 
 #EXTINF:-1,Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?Live-TV™
+
+#EXTINF:-1,Racing TV
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+#EXTINF:-1,Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 
 
 
