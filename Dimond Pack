@@ -687,8 +687,10 @@ http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
 #EXTINF:-1,SONY PAL
 http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8
 
-#EXTINF:-1,Sony Wah
+#EXTINF:-1,Sony Wah (1)
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8?Live-TV™
+#EXTINF:-1,Sony Wah (2)
+https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1,Enter 10
 http://iptv.kitv.live:1935/live/Shari/MTV-P/37.m3u8?Live-TV™
@@ -1050,6 +1052,8 @@ http://103.205.133.50/hls/ten3.m3u8
 
 #EXTINF:-1,Sony ESPN HD
 
+#EXTINF:-1,Fox Cricket HD
+http://85.203.33.15:25461/GG3R15rlPW/ZOHnfpIDcV/202376?play_token=yrHyGev4sb&token=ShdcBRFREglDAQcHWwpYB1dVAFMKAAEFBQdcUFEHCFNUAlBSAF8JVgRGHxERR0tSUF5mClwbCQVWVwoCAU4bRUJQRjsLXRIJQ1ABC1YEChUdEU0KVVwRDVdTCQcDUwoDAw0YRhJQVBFbRgIBVgYNFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCgYGABtPGlpcQggRS0wVWBt5fxcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUACCwMAChse
 
 #EXTINF:-1,Star Sports 1 (1)
 http://113.212.111.246:8080/hls/col30.m3u8
