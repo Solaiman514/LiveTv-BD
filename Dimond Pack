@@ -154,7 +154,7 @@ http://otv.ftpbd.net/streams/128/index.m3u8
 #EXTINF:-1,EKATTOR TV HD (2)
 http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
 #EXTINF:-1,EKATTOR TV HD (3)
-http://103.102.136.106:8080/cmcltv/ekator_th.m3u8
+http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
 
 #EXTINF:-1,JAMUNA TV (1)
 http://103.102.136.106:8080/cmcltv/jamuna.m3u8?Live-TV™
@@ -189,6 +189,8 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1,CHANNEL-S (1)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8?Live-TV™
 #EXTINF:-1,CHANNEL-S (2)
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
+#EXTINF:-1,Channel-S (3)
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 
 #EXTINF:-1,NTV UK
@@ -379,8 +381,14 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8?Live-TV™
 #EXTINF:-1,Channel T1 IPTV
 http://128.199.212.160/channelt1/1080/index.m3u8?Live-TV™
 
+#EXTINF:-1,Torongo TV
+http://stream.telelivebd.com/Torongotv/Torongotv.m3u8
+
+#EXTINF:-1,QTV Bangla
+http://stream.telelivebd.com/Qtvbangla/Qtvbangla.m3u8
+
 #EXTINF:-1,Channel TT IPTV
-?Live-TV™
+https://2-fss-2.themediacdn.com/pl_118/amlst:201982-1318992/playlist.m3u8?Live-TV™
 
 #EXTINF:-1,Artv Network
 https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp1/chunks.m3u8?Live-TV™
@@ -436,11 +444,20 @@ http://otv.ftpbd.net/streams/115/index.m3u8?Live-TV™
 #EXTINF:-1,Jalsha Movies HD
 http://global.thunderbd.com/31/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Jonakk Tv
+http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+
+#EXTINF:-1,Assam Talks
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+
 #EXTINF:-1,Orange Bangla
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8?Live-TV™
 
 #EXTINF:-1,R Plus Gold
 https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8?Live-TV™
+
+#EXTINF:-1,Tollywood
+http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 
 #EXTINF:-1,Khusbo Bangla (1)
 http://103.141.66.36/bpk-tv/10139/default/index.m3u8?Live-TV™
@@ -457,7 +474,7 @@ http://global.thunderbd.com/46/tracks-v1a1/mono.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8?Live-TV™
 
 #EXTINF:-1,Wion TV
-?Live-TV™
+http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8?Live-TV™
 
 #EXTINF:-1,NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?Live-TV™
@@ -568,6 +585,9 @@ http://103.141.66.36/bpk-tv/10263/default/index.m3u8?Live-TV™
 
 #EXTINF:-1,Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Zee TV HD USA
+http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Zee TV
 http://dx3.gcdn.co/hindi-ZEETV/index.m3u8
@@ -814,11 +834,26 @@ https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8?Live-TV™
 #EXTINF:-1,FOX FAMILY HD (2)
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1,PakUs TV
+https://livestream.5centscdn.com/pakustv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Tag TV
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1,HUM TV HD
 http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8?Live-TV™
 
-#EXTINF:-1,Ary Family 
+#EXTINF:-1,Hum News
+http://95.211.211.168/live/humnews0189/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Ary Family
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8?Live-TV™
+
+#EXTINF:-1,Tag TV (1)
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+
+#EXTINF:-1,Tag TV (2)
+https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 
 #EXTINF:-1,HUMRAZ TV
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8?Live-TV™
@@ -828,6 +863,18 @@ https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?Live-T
 
 #EXTINF:-1,Khyber TV 
 https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/index_150_av-p.m3u8?Live-TV™
+
+#EXTINF:-1,Khyber News TV
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+
+#EXTINF:-1,92 News
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1,Manoranjan Tv
 https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8?Live-TV™
@@ -1660,8 +1707,11 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_s
 #EXTINF:-1,Peace TV
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8?Live-TV™
 
-#EXTINF:-1,Madani TV Bangla
+#EXTINF:-1,Madani TV Bangla (1)
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madanitvbangla.stream/live-orgin/madanitvbangla.stream/chunks.m3u8?Live-TV™
+
+#EXTINF:-1,Madani TV Bangla (2)
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 
 #EXTINF:-1,ATN Islam
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8?Live-TV™
