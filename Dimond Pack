@@ -10,6 +10,7 @@ http://103.205.133.50/hls/btv.m3u8?Live-TV™
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8?Live-TV™
 #EXTINF:-1,Sangsad TV (2)
 http://103.141.66.36/bpk-tv/10036/default/index.m3u8
+
 #EXTINF:-1,BTV WORLD (1)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8?Live-TV™
 #EXTINF:-1,BTV WORLD (2)
@@ -92,6 +93,8 @@ http://103.205.133.50/hls/mohonatv.m3u8
 http://103.102.136.106:8080/cmcltv/masranga_th.m3u8
 #EXTINF:-1,MAASRANGA TV HD (2)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
+#EXTINF:-1,MAASRANGA TV HD (3)
+http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/1.m3u8
 
 #EXTINF:-1,CHANNEL 9 HD (1)
 http://103.141.66.36/bpk-tv/10080/default/index.m3u8
@@ -587,13 +590,13 @@ http://103.205.133.50/hls/zeebangla.m3u8?Live-TV™
 http://otv.ftpbd.net/streams/107/index.m3u8
 #EXTINF:-1,Zee Bangla (3)
 http://aklivetv.com:8080/zeebangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zee Bangla (4)
-http://criclive.sonarbanglatv.com:8081/livetv/zeebangla/playlist.m3u8
 
 #EXTINF:-1,Zee Bangla HD (1)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
 #EXTINF:-1,Zee Bangla HD (2)
 http://ctgiptv.kitv.live:1935/live/test/test1/26.ts
+#EXTINF:-1,Zee Bangla HD (3)
+http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 
 #EXTINF:-1,Zee Bangla Cinema HD
 http://103.141.66.36/bpk-tv/10263/default/index.m3u8?Live-TV™
@@ -1119,6 +1122,7 @@ http://85.203.33.15:25461/GG3R15rlPW/ZOHnfpIDcV/202376?play_token=yrHyGev4sb&tok
 
 #EXTINF:-1,Star Sports 1 (1)
 http://113.212.111.246:8080/hls/col30.m3u8
+http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1,Star Sports 1 (2)
 http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTINF:-1,Star Sports 1 (3)
@@ -1719,8 +1723,11 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 #EXTINF:-1,Saudi Sunnah
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?Live-TV™
 
-#EXTINF:-1,Peace TV
+#EXTINF:-1,Peace TV Bangla
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8?Live-TV™
+
+#EXTINF:-1,Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
 #EXTINF:-1,Madani TV Bangla (1)
 https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madanitvbangla.stream/live-orgin/madanitvbangla.stream/chunks.m3u8?Live-TV™
