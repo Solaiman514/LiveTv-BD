@@ -151,7 +151,7 @@ http://103.141.66.36/bpk-tv/10240/default/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_jalsha_movies_in.jpg" group-title="* BDIX02",Star Jalsha HD
 http://103.141.66.36/bpk-tv/10234/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Express_News_logo.png" group-title="* BDIX02",Express News
-http://103.141.66.36/bpk-tv/10225/default/index.m3u8
+http://103.141.66.36/bpk-tv/10235/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe.png" group-title="* BDIX02",Zee Café
 http://103.141.66.36/bpk-tv/10229/default/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ptv_home.jpg" group-title="* BDIX02",PTV Home
@@ -232,3 +232,43 @@ http://103.141.66.36/bpk-tv/10004/default/index.m3u8
 http://103.141.66.36/bpk-tv/10041/default/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="* BDIX02",National Geographic
 http://103.141.66.36/bpk-tv/10061/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvwish.com/img/channel/727.jpg" group-title="* BDIX02",Abzy Movies 
+http://103.141.66.36/bpk-tv/10076/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/376-3765470_aplus-plus-tv-logo-png-transparent-png.png" group-title="* BDIX02",A Plus
+http://103.141.66.36/bpk-tv/10079/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="* BDIX02",Saudi Makka
+http://103.141.66.36/bpk-tv/10201/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="* BDIX02",Saudi Hazz
+http://103.141.66.36/bpk-tv/10204/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/986254823501811713/z4a_0YLk.jpg" group-title="* BDIX02",Rai Italia
+http://103.141.66.36/bpk-tv/10209/default/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="* BDIX02",No Signal
+http://103.141.66.36/bpk-tv/10230/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1417.1443114332.png" group-title="* BDIX02",France 24
+http://103.141.66.36/bpk-tv/10232/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://smartsightseeing.pt/wp-content/uploads/2020/09/rtp-logo.jpg" group-title="* BDIX02",RTP Channel 
+http://103.141.66.36/bpk-tv/10233/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3238184238/a3dcce0a99210285a81aa917b37e687b.jpeg" group-title="* BDIX02",ZEE Salaam
+http://103.141.66.36/bpk-tv/10108/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3d/cb/97/3dcb97ee63bea0757f7ba84cb4b55237.jpg" group-title="* BDIX02",
+http://103.141.66.36/bpk-tv/10261/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://etimg.etb2bimg.com/photo/76032752.cms" group-title="* BDIX02",MTV India
+http://103.141.66.36/bpk-tv/10110/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png" group-title="* BDIX02",CGTN
+http://103.141.66.36/bpk-tv/10131/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Public_Music_Kannada_Channel_Logo.jpg" group-title="* BDIX02",Public Music
+http://103.141.66.36/bpk-tv/10134/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/ManoranjanTVLogo.jpg/220px-ManoranjanTVLogo.jpg" group-title="* BDIX02",Manoranjan TV
+http://103.141.66.36/bpk-tv/10136/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://etimg.etb2bimg.com/photo/73431306.cms" group-title="* BDIX02",Nick Bangla 
+http://103.141.66.36/bpk-tv/10152/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCu9ozi_wk-cO8W5xgZwtqLhWHJk9Ci1j2Zmw=s240-mo-c-c0xffffffff-rj-k-no" group-title="* BDIX02",Imayam TV
+http://103.141.66.36/bpk-tv/10166/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/republic-bharat-tv-channel-logo-150x150.jpg" group-title="* BDIX02",Republic Bharat TV
+http://103.141.66.36/bpk-tv/10184/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvfgVj_Iz9-4Km0oJdhkMevme_bHFgdniKaQ&usqp=CAU" group-title="* BDIX02",Zee Bangla
+http://103.141.66.36/bpk-tv/10185/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2017/02/colorshdlogo002.jpg" group-title="* BDIX02",Colors TV HD
+http://103.141.66.36/bpk-tv/10189/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Abzy_Dhakad.jpg/revision/latest/scale-to-width-down/340?cb=20191221163311" group-title="* BDIX02",Abzy Dhakad
+http://103.141.66.36/bpk-tv/10191/default/index.m3u8
