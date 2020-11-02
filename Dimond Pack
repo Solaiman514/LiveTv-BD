@@ -589,7 +589,7 @@ http://dx3.gcdn.co/hindi-RISHTEY/index.m3u8
 https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
 
 #EXTINF:-1,Rishtey Cineplex
-
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 
 #EXTINF:-1,COLORS INFINITY HD
 ?Live-TV™
@@ -623,11 +623,18 @@ http://dx3.gcdn.co/hindi-ZEETV/index.m3u8
 #EXTINF:-1,Zee Tv HD
 http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
 
-#EXTINF:-1,Zee Anmol
+#EXTINF:-1,Zee Anmol (1)
 https://z5ams.akamaized.net/out/v1/6bcef04f1d0f4207b4c8f98525ccd37f/index.m3u8?hdnts=st=1604300836~exp=1604303836~acl=/*~hmac=7e5543cd428dca82d1b212df65714fde109417fdfc79a22265116229bd13dc7e
+#EXTINF:-1,Zee Anmol (2)
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeeanmol/index.m3u8
 
-#EXTINF:-1,Zee Anmol Cinema
+#EXTINF:-1,Zee Anmol Cinema (1)
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+#EXTINF:-1,Zee Anmol Cinema (2)
+https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-176/list/386x386/09176zeeclassic.png",Zee Classic 
+https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/index.m3u8?hdnts=st=1604306145~exp=1604309145~acl=/*~hmac=68b30d852d1fdbc49f2873e744736b94402c438896217da918178d4bb24b3043
 
 #EXTINF:-1,Zee Cinema (1)
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
@@ -636,8 +643,13 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
 #EXTINF:-1,Zee Cinema (3)
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
 
-#EXTINF:-1,Zee Cinema HD
+#EXTINF:-1,Zee Cinema HD (1)
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
+#EXTINF:-1,Zee Cinema HD (2)
+https://z5ams.akamaized.net/zcinemahd/index.m3u8?hdnts=st=1604305436~exp=1604308436~acl=/*~hmac=9751c8309eedc7fb8cebec1f28e5c12d7fc7941904f5b6b05732435d4812ab1c
+
+#EXTINF:-1 group-title="" tvg-logo="https://image3.mouthshut.com/images/imagesp/925933400s.png",Zee5 Theatre
+https://z5ams.akamaized.net/out/v1/9b9f434518cc489f9260e24b5768ef55/index.m3u8?hdnts=st=1604305707~exp=1604308707~acl=/*~hmac=febae52cceab164c076b59a68db6bf0e7cbc15d0a19e4011814f61bb6f42f7ee
 
 #EXTINF:-1,Zee Smail
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8?Live-TV™
@@ -647,6 +659,12 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/08/Zee-Zest-16-9.jpg",Zee Zest
+https://z5ams.akamaized.net/zzesthd/index.m3u8?hdnts=st=1604309031~exp=1604312031~acl=/*~hmac=b7964c058a402d56d66752283ebb3e2ed83a5520f282487825c7bee7c627e0ff
+
+#EXTINF:-1 group-title="" tvg-logo="http://namahshivaystarconnection.com/img/channel-logos/movies/25-Cinema%20TV.jpg",Cinema TV
+https://load.airtelxstream.in/cinematvindia/smil:common.smil/chunklist_b896000_sleng.m3u8
 
 #EXTINF:-1,WARNER TV HD
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8?Live-TV™
@@ -679,11 +697,18 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?Live-TV™
 #EXTINF:-1,Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?Live-TV™
 
-#EXTINF:-1,Zee Bollywood
+#EXTINF:-1 group-title="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png",Zee Bollywood (1)
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png",Zee Bollywood (2)
+http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8
 
-#EXTINF:-1,Zee Action 
+#EXTINF:-1,Zee Action (1)
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
+#EXTINF:-1,Zee Action (2)
+https://z5ams.akamaized.net/action/index.m3u8?hdnts=st=1604306808~exp=1604309808~acl=/*~hmac=ce05e140fdb370b7fdd1b63fa94c38cd15338bd0dbf32a538f14cb00fff33e0d
+
+#EXTINF:-1 group-title="" tvg-logo="https://www.mobilfreetv.com/static/front/images/channel_logo/43ac8a41c04d70b1604e6799e03635b4_r.jpg",Humdard Laughter
+http://ldt.ddns.me:8081/live/tadka/playlist.m3u8
 
 #EXTINF:-1,Sony Aath (1)
 http://103.205.133.50/hls/sony8.m3u8?Live-TV™
@@ -697,6 +722,7 @@ http://aklivetv.com:8080/sony8/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Pix
 http://45.249.187.238:8081/hls/new21.m3u8?Live-TV™
 #EXTINF:-1,Sony Pix HD
+
 
 #EXTINF:-1,Sony Intertenment (1)
 http://103.205.133.50/hls/chs.m3u8?Live-TV™
@@ -741,7 +767,7 @@ https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8?Liv
 https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1,Enter 10
-http://iptv.kitv.live:1935/live/Shari/MTV-P/37.m3u8?Live-TV™
+https://load.airtelxstream.in/enterr10/smil:common.smil/chunklist_b896000_sleng.m3u8
 
 #EXTINF:-1,Enter 10 Bangla (1)
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8?Live-TV™
@@ -797,7 +823,7 @@ http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8?Live-TV™
 #EXTINF:-1,& pictures (2)
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1,& pictures (3)
-https://z5ams.akamaized.net/out/v1/81b68c3858bf4481ad93679fd4253cf6/index.m3u8?hdnts=st=1604300129~exp=1604303129~acl=/*~hmac=e0d0158b96710da39777faf37d5bcb83141302a12f2e0cf3b92e8960c339c535
+https://z5ams.akamaized.net/andpicshd/index.m3u8?hdnts=st=1604305867~exp=1604308867~acl=/*~hmac=d9f0597d974554141c6188c8f7a1d848ea2b36f0a728ce810df9eaeead9f2014
 
 #EXTINF:-1,& pictures HD (1)
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/%26picturehd.m3u8
@@ -805,7 +831,7 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 
 #EXTINF:-1,& Xplor HD
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8
+https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8?hdnts=st=1604305867~exp=1604308867~acl=/*~hmac=d9f0597d974554141c6188c8f7a1d848ea2b36f0a728ce810df9eaeead9f2014
 
 #EXTINF:-1,& Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
@@ -884,7 +910,6 @@ http://95.211.211.168/live/aryfamily0071/playlist.m3u8?Live-TV™
 
 #EXTINF:-1,Tag TV (1)
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-
 #EXTINF:-1,Tag TV (2)
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 
@@ -1027,7 +1052,7 @@ http://mhdworld.fun/delta/yuppp.m3u8?id=25796565&e=.m3u8
 #EXTINF:-1,Surya TV 
 https://load.airtel.tv/suryatv/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1,ZEE TELUGU HD
-http://three.somee.com/web.php?e.m3u8&c=zeeteleguhd&q=v1a1
+http://z5amshls.akamaized.net/zeeteleguhd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,ZEE 24 GHANTA
 http://three.somee.com/web.php?e.m3u8&c=24ghanta&q=v1a1
 #EXTINF:-1,ZEE 24 TAAS
