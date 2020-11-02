@@ -565,7 +565,7 @@ http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87262
 #EXTINF:-1,COLORS (1)
 http://45.249.187.238:8081/hls/live2.m3u8?Live-TV™
 #EXTINF:-1,COLORS (2)
-http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
+https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 #EXTINF:-1,COLORS (3)
 http://103.205.133.50/hls/chc.m3u8
 
@@ -578,13 +578,18 @@ http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
 ?Live-TV™
 
 #EXTINF:-1,Colors Cineplex HD (1)
-?Live-TV™
+https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
 
 #EXTINF:-1,Colors Cineplex HD (2)
 http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87262
 
-#EXTINF:-1,COLORS Rishtey
+#EXTINF:-1,COLORS Rishtey (1)
 http://dx3.gcdn.co/hindi-RISHTEY/index.m3u8
+#EXTINF:-1,COLORS Rishtey (2)
+https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
+
+#EXTINF:-1,Rishtey Cineplex
+
 
 #EXTINF:-1,COLORS INFINITY HD
 ?Live-TV™
@@ -619,7 +624,7 @@ http://dx3.gcdn.co/hindi-ZEETV/index.m3u8
 http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
 
 #EXTINF:-1,Zee Anmol
-?Live-TV™
+https://z5ams.akamaized.net/out/v1/6bcef04f1d0f4207b4c8f98525ccd37f/index.m3u8?hdnts=st=1604300836~exp=1604303836~acl=/*~hmac=7e5543cd428dca82d1b212df65714fde109417fdfc79a22265116229bd13dc7e
 
 #EXTINF:-1,Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
@@ -743,6 +748,9 @@ http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8?Live-TV�
 #EXTINF:-1,Enter 10 Bangla (2)
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/enter10.m3u8
 
+#EXTINF:-1 tvg-id="701" group-title="" tvg-logo="https://yt3.ggpht.com/a/AATXAJxXTkc1RTZEVA6BJ3lI-6-kuDkFtDhqFzSUX7Qy6A=s900-c-k-c0xffffffff-no-rj-mo",Dangal
+https://streamitv.multitvsolution.in/idvo/dangal_360p/index.m3u8
+
 #EXTINF:-1,Akash 8 (1)
 http://103.141.66.36/bpk-tv/10112/default/index.m3u8?Live-TV™
 #EXTINF:-1,Akash 8 (2)
@@ -788,6 +796,8 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/
 http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8?Live-TV™
 #EXTINF:-1,& pictures (2)
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
+#EXTINF:-1,& pictures (3)
+https://z5ams.akamaized.net/out/v1/81b68c3858bf4481ad93679fd4253cf6/index.m3u8?hdnts=st=1604300129~exp=1604303129~acl=/*~hmac=e0d0158b96710da39777faf37d5bcb83141302a12f2e0cf3b92e8960c339c535
 
 #EXTINF:-1,& pictures HD (1)
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/%26picturehd.m3u8
@@ -1899,7 +1909,7 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8?Live-TV™
 #EXTINF:-1,B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8?Live-TV™
 #EXTINF:-1,Zee ETC
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/etc/tracks-v1a1/index.m3u8?Live-TV™
+http://dx3.gcdn.co/hindi-ZEEETC/index.m3u8
 #EXTINF:-1,Zing
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zing/tracks-v1a1/playlist.m3u8?Live-TV™
 #EXTINF:-1,9x Jalwa
