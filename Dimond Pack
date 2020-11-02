@@ -1515,14 +1515,20 @@ http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
 https://www.fanmingming.cn/hls/natlgeo.m3u8
 #EXTINF:-1,NAT GEO HD (4)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1,NAT GEO HD (5)
+https://oxoo.lk21tvonlineid.com/m3u/natgeo.m3u8
 
 #EXTINF:-1,NAT GEO WILD HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?Live-TV™
-#EXTINF:-1,NAT GEO WILD
+#EXTINF:-1,NAT GEO WILD (1)
 https://cdnmdc1.useetv.com/dass/15/natgeowild/chunklist_w834124031_b894100_sleng_308176.m3u8
+#EXTINF:-1,NAT GEO WILD (2)
+https://oxoo.lk21tvonlineid.com/m3u/natgeowild.m3u8
 
-#EXTINF:-1,NAT PEOPLE HD
+#EXTINF:-1,NAT PEOPLE HD (1)
 https://cdnmdc1.useetv.com/dass/15/natgeopeople/chunklist_w147764089_b684100_sleng_536479.m3u8
+#EXTINF:-1,NAT PEOPLE HD (2)
+https://oxoo.lk21tvonlineid.com/m3u/natgeopeople.m3u8
 
 #EXTINF:-1,ANIMAL PLANET HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8?Live-TV™
