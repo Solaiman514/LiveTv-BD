@@ -1196,6 +1196,8 @@ http://103.214.202.218:8081/live/starsports2/chunks.m3u8?Live-TV™
 http://otv.ftpbd.net/streams/113/index.m3u8?Live-TV™
 #EXTINF:-1,Star S 1 Sel. (2)
 http://global.thunderbd.com/27/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star S 1 Sel. (3)
+http://bdvisioniptv.ddns.net:25461/live/sajeeb33/P288/212.m3u8
 
 #EXTINF:-1,Star S 2 Sel. (1)
 http://otv.ftpbd.net/streams/114/index.m3u8?Live-TV™
@@ -1203,6 +1205,8 @@ http://otv.ftpbd.net/streams/114/index.m3u8?Live-TV™
 http://global.thunderbd.com/28/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star S 2 Sel. (3)
 http://103.102.136.106:8080/cmcltv/livesports.m3u8
+#EXTINF:-1,Star S 2 Sel. (4)
+http://bdvisioniptv.ddns.net:25461/live/sajeeb33/P288/198.m3u8
 
 #EXTINF:-1,Titas Sports
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/live-orgin/titash.stream/chunks.m3u8?Live-TV™
@@ -1764,6 +1768,60 @@ http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8
 http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8
 
 
+
+
+
+
+                                              *Word*
+                                              
+                                              
+                                              
+                                              
+                                              
+                                              #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png" group-title="Myanmar TV",Mahar Bhawdi
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png" group-title="Myanmar TV",MRTV-4
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel7_mm.png" group-title="Myanmar TV",Channel-7
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTXYfGY87W5Ler3DMfRILKFq3I2PYe-d3vENw&usqp=CAU" group-title="Myanmar TV",Mahar TV
+https://live.mahar.tv/channel/mahar-web.smil/chunklist_w1446203491_b800000.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIwIDE6NTI6MDIgUE0maGFzaF92YWx1ZT1tTEpQa1NjbkFtNWZ1MEF0UmQreGV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9NQ%3D%3D
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-k-mm.png" group-title="Myanmar TV",Channel K
+https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png" group-title="Myanmar TV",Fortune TV
+http://live-aec.sky-cdn.com/aec_live/Fortune.stream_360p/chunklist_w1408103827.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-tv-mm.png" group-title="Myanmar TV",Mizzima TV
+http://220.158.149.28:8180/TV00000000000000000170@HHZT?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/democratic_voice_of_burma.png" group-title="Myanmar TV",DVB
+https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_movies.png" group-title="Myanmar TV",MWD Movie
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_variety.png" group-title="Myanmar TV",MWD Variety
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_mm_tv.png" group-title="Myanmar TV",MWD
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_mm_tv.png" group-title="Myanmar TV",MWD FAMILY
+http://203.81.84.130/hls/mwd_family/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_documentary.png" group-title="Myanmar TV",MWD Document
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd-shopping-mm.png" group-title="Myanmar TV",MWD Shopping
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mn_tv_mm.png" group-title="Myanmar TV",MNTV
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm.png" group-title="Myanmar TV",MRTV
+http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-farmer-mm.png" group-title="Myanmar TV",MRTV FARMERS
+http://220.158.149.28:8180/live/TV00000000000000000168@HHZT
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-hluttaw-mm.png" group-title="Myanmar TV",HUTTAW
+http://220.158.149.28:8180/live/TV00000000000000000167@HHZT
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_9_mm.png" group-title="Myanmar TV",Channel-9
+http://220.158.149.28:8180/live/TV00000000000000000169@HHZT
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/mm/mv_tv_th.png" group-title="Myanmar TV",MVTV MYANMAR
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
+                                              
+                                              
+                                              
+                                              
 
 
 
