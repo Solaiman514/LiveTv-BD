@@ -457,7 +457,7 @@ http://criclive.sonarbanglatv.com:8081/livetv/starjalsha/playlist.m3u8
 #EXTINF:-1,Star Jalsha HD (1)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
 #EXTINF:-1,Star Jalsha HD (2)
-http://103.102.136.106:8080/cmcltv/tcm_starjalshacm.m3u8?Live-TV™
+https:\\ott.bingebd.com\live\ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_star_jalsha_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH\chunklist_b8096761.m3u8
 #EXTINF:-1,Star Jalsha HD (3)
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
@@ -600,6 +600,7 @@ http://103.205.133.50/hls/zeebangla.m3u8?Live-TV™
 http://otv.ftpbd.net/streams/107/index.m3u8
 #EXTINF:-1,Zee Bangla (3)
 http://aklivetv.com:8080/zeebangla/tracks-v1a1/mono.m3u8
+https:\\ott.bingebd.com\live\ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_zee_banglaPQRT_98sdfhs0_f36erxty_forsgst63_DH\chunklist_b6107607.m3u8
 
 #EXTINF:-1,Zee Bangla HD (1)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
@@ -722,7 +723,7 @@ http://aklivetv.com:8080/sony8/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Pix
 http://45.249.187.238:8081/hls/new21.m3u8?Live-TV™
 #EXTINF:-1,Sony Pix HD
-
+https:\\ott.bingebd.com\live\ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_pixPQRT_98sdfhs0_f36erxty_forsgst63_DH\chunklist_b6850950.m3u8
 
 #EXTINF:-1,Sony Intertenment (1)
 http://103.205.133.50/hls/chs.m3u8?Live-TV™
@@ -1912,15 +1913,15 @@ http://anytv.live:8080/saiful/saiful/368
 #EXTINF:-1,NICK
 http://global.thunderbd.com/55/tracks-v1a1/mono.m3u8
 #EXTINF:-1",NICK Sonic
-http://anytv.live:8080/saiful/saiful/383
+https:\\ott.bingebd.com\live\ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sonicPQRT_98sdfhs0_f36erxty_forsgst63_DH\chunklist_b2128000.m3u8
 #EXTINF:-1,Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?Live-TV™
 #EXTINF:-1,Sony YAY (1)
 http://198.255.87.59:8080/INDIA_HINDI/SONY_YAY/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,Sony YAY (2)
-http://66.northerniptv.ca:8000/live/george/george123/59815.m3u8
-#EXTINF:-1,Sony YAY (3)
-http://66.northerniptv.ca:8000/live/george/george123/59816.m3u8
+https:\\ott.bingebd.com\live\ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_yayPQRT_98sdfhs0_f36erxty_forsgst63_DH\chunklist_b2128000.m3u8
+#EXTINF:-1,POGO
+https:\\ott.bingebd.com\live\ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_pogoPQRT_98sdfhs0_f36erxty_forsgst63_DH\chunklist_b2128000.m3u8
 #EXTINF:-1,ZEE5 Kids
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/out/v1/9b05285c38c54549a5afd04473bdd65c/index.m3u8
 #EXTINF:-1,BBC Cbeebies
