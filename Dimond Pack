@@ -497,7 +497,7 @@ http://global.thunderbd.com/46/tracks-v1a1/mono.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8?Live-TV™
 
 #EXTINF:-1,Wion TV
-http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8?Live-TV™
+http://z5amshls.akamaized.net/wion/tracks-v2a1/playlist.m3u8
 
 #EXTINF:-1,NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?Live-TV™
@@ -689,6 +689,9 @@ http://z5amshls.akamaized.net/bigganga/tracks-v1a1/index.m3u8
 #EXTINF:-1,Shemaroo TV
 https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8?Live-TV™
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Shemaroo_Logo.png" group-title="movie",shemaroome 
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1280x720_cf.m3u8
+
 #EXTINF:-1,Dabaang
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8?Live-TV™
 
@@ -831,8 +834,10 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/
 #EXTINF:-1,& pictures HD (2)
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 
-#EXTINF:-1,& Xplor HD
+#EXTINF:-1,& Xplor HD (1)
 https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8?hdnts=st=1604305867~exp=1604308867~acl=/*~hmac=d9f0597d974554141c6188c8f7a1d848ea2b36f0a728ce810df9eaeead9f2014
+#EXTINF:-1,& Xplor HD (2)
+http://z5amshls.akamaized.net/action/tracks-v2a1/playlist.m3u8
 
 #EXTINF:-1,& Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
@@ -914,6 +919,12 @@ http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1,Tag TV (2)
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/arBu6Kj.jpg" group-title="NEWS",Geo News 
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="NEWS",Dunya News 
+https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
+
 #EXTINF:-1,HUMRAZ TV
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8?Live-TV™
 
@@ -928,6 +939,9 @@ https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checke
 
 #EXTINF:-1,5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+
+#EXTINF:-1,Wion Channel
+http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8?Live-TV™
 
 #EXTINF:-1,92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.com
