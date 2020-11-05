@@ -3,8 +3,11 @@
 #EXTINF:-1,Live-TV™
 http://103.205.133.50/hls/btv.m3u8
 
-#EXTINF:-1. tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQiIQcb4iHT2VeNeFZPZF7hIo5nf4ePqxid7w&usqp=CAU" group-title="Bangladesh",BTV
+#EXTINF:-1. tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQiIQcb4iHT2VeNeFZPZF7hIo5nf4ePqxid7w&usqp=CAU" group-title="Bangladesh",BTV (1)
 http://103.205.133.50/hls/btv.m3u8?Live-TV™
+#EXTINF:-1. tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQiIQcb4iHT2VeNeFZPZF7hIo5nf4ePqxid7w&usqp=CAU" group-title="Bangladesh",BTV (2)
+http://master.beeiptv.com:8081/MB/btv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladesh",Sangsad TV (1)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8?Live-TV™
@@ -106,7 +109,7 @@ http://criclive.sonarbanglatv.com:8081/livetv/gtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladesh",GAZI TV HD (2)
 http://103.141.66.36/bpk-tv/10328/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladesh",GAZI TV HD (3)
-http://103.132.180.245:8080/2/index.m3u8
+http://master.beeiptv.com:8081/MB/gtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladesh",GAZI TV HD (4)
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladesh",GAZI TV HD (5)
@@ -126,6 +129,8 @@ http://163.172.29.246:8081/globalbd/satv/chunks.m3u8
 http://103.214.202.218:8081/live/deepto/playlist.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://tbsnews.net/sites/default/files/styles/big_3/public/images/2020/04/17/deepto_tv_logo.jpg?itok=UV9LPjcP" group-title="Bangladesh",DEEPTO TV HD (2)
 http://103.205.133.50/hls/deeptotv.m3u8
+#EXTINF:-1 tvg-logo="https://tbsnews.net/sites/default/files/styles/big_3/public/images/2020/04/17/deepto_tv_logo.jpg?itok=UV9LPjcP" group-title="Bangladesh",DEEPTO TV HD (3)
+http://master.beeiptv.com:8081/MB/deeptotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/d6BV4smUn_21_NPrLBWfgCV2-4MahdEXkZLJMSuuE1PxEeCqznE2xGUih7vOgKi_PDmNKReabc4TiqNgB3ZQGgbGUYSKSYf_8c8TkGNMhz8D9Wah" group-title="Bangladesh",BANGLA TV HD (1)
 http://103.141.66.36/bpk-tv/10032/default/index.m3u8
@@ -438,6 +443,45 @@ https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 
  tvg-logo="" group-title="India"
+ 
+ 
+ 
+ 
+                                                                   *******Assamese*******
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Jonack_logo.png/revision/latest/smart/width/200/height/200?cb=20191219100522" group-title="Assamese",Jonakk Tv
+http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Jonack_logo.png/revision/latest/smart/width/200/height/200?cb=20191219100522" group-title="Assamese",Jonack
+https://load.airtelxstream.in/jonack/smil:common.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/rang-tv-channel-logo-300x300.jpg" group-title="Assamese",Rang TV Assam
+https://load.airtelxstream.in/rang/smil:common.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTo2XXhXHYVwrXK6PuR8T8IfxLq53dIEnbPHw&usqp=CAU" group-title="Assamese",Ramdhenu TV
+https://load.airtelxstream.in/ramdhenu/smil:common.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.satiitv.com/wp-content/uploads/2020/08/ddassam.jpg" group-title="Assamese",DD Assam
+https://load.airtelxstream.in/ddnortheast/smil:common.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Assam_Talks_logo.png" group-title="Assamese",Assam Talk
+https://load.airtelxstream.in/assamtalks/smil:common.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Assam_Talks_logo.png" group-title="Assamese",Assam Talks
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.dy365.in/images/dy365.jpg" group-title="Assamese",dy365
+https://load.airtelxstream.in/dy365/smil:common.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/News18_AssamNE_logo.jpeg/220px-News18_AssamNE_logo.jpeg" group-title="Assamese",News18 Assam
+https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YRtMbC/newstimeassam.jpg" group-title="Assamese",News Time Assam
+http://rtmp.smartstream.video:1935/globalherald/globalherald/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Pratidin_Time_logo.jpeg" group-title="Assamese",Pratidin Time
+https://load.airtelxstream.in/pratidintime/smil:common.smil/chunklist.m3u8
+ 
+
+
+
+
+
 
                                             *India (Bangla+Hindi)*
                                             
@@ -456,21 +500,17 @@ http://criclive.sonarbanglatv.com:8081/livetv/starjalsha/playlist.m3u8
 #EXTINF:-1,Star Jalsha HD (1)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
 #EXTINF:-1,Star Jalsha HD (2)
-https:\\ott.bingebd.com\live\ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_star_jalsha_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH\chunklist_b8096761.m3u8
+http://master.beeiptv.com:8081/MB/starjalsha/playlist.m3u8
 #EXTINF:-1,Star Jalsha HD (3)
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
 #EXTINF:-1,Jalsha Movies
 http://otv.ftpbd.net/streams/115/index.m3u8?Live-TV™
 
-#EXTINF:-1,Jalsha Movies HD
+#EXTINF:-1,Jalsha Movies HD (1)
 http://global.thunderbd.com/31/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Jonakk Tv
-http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-
-#EXTINF:-1,Assam Talks
-http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+#EXTINF:-1,Jalsha Movies HD (2)
+http://master.beeiptv.com:8081/MB/starjalshamovies/playlist.m3u8
 
 #EXTINF:-1,Orange Bangla
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8?Live-TV™
@@ -559,7 +599,7 @@ http://global.thunderbd.com/43/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Colors Bangla HD (2)
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1,Colors Bangla HD (3)
-http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87262
+http://master.beeiptv.com:8081/MB/colorsbangla/playlist.m3u8
 
 #EXTINF:-1,COLORS (1)
 http://45.249.187.238:8081/hls/live2.m3u8?Live-TV™
@@ -567,6 +607,8 @@ http://45.249.187.238:8081/hls/live2.m3u8?Live-TV™
 https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 #EXTINF:-1,COLORS (3)
 http://103.205.133.50/hls/chc.m3u8
+#EXTINF:-1,COLORS (4)
+http://master.beeiptv.com:8081/MB/colorsbdtv/playlist.m3u8
 
 #EXTINF:-1,Colors HD (1)
 http://103.205.133.50/hls/chc.m3u8
@@ -593,13 +635,14 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1,COLORS INFINITY HD
 ?Live-TV™
 
-#EXTINF:-1,Zee Bangla (1)
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="",Zee Bangla (1)
 http://103.205.133.50/hls/zeebangla.m3u8?Live-TV™
-#EXTINF:-1,Zee Bangla (2)
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="",Zee Bangla (2)
 http://otv.ftpbd.net/streams/107/index.m3u8
-#EXTINF:-1,Zee Bangla (3)
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="",Zee Bangla (3)
 http://aklivetv.com:8080/zeebangla/tracks-v1a1/mono.m3u8
-https:\\ott.bingebd.com\live\ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_zee_banglaPQRT_98sdfhs0_f36erxty_forsgst63_DH\chunklist_b6107607.m3u8
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="",Zee Bangla HD (4)
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Zee Bangla HD (1)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
@@ -607,6 +650,8 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
 http://ctgiptv.kitv.live:1935/live/test/test1/26.ts
 #EXTINF:-1,Zee Bangla HD (3)
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
+#EXTINF:-1,Zee Bangla HD (4)
+http://master.beeiptv.com:8081/MB/zeebangla/playlist.m3u8
 
 #EXTINF:-1,Zee Bangla Cinema HD
 http://103.141.66.36/bpk-tv/10263/default/index.m3u8?Live-TV™
@@ -1866,7 +1911,7 @@ https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 
 #EXTINF:-1,ATN Islam
-https://bds.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8?Live-TV™
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8?Live-TV™
 
 #EXTINF:-1,Iqra Bangla TV
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8?Live-TV™
@@ -1988,15 +2033,15 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1,RTV Music
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8?Live-TV™
 #EXTINF:-1,ATN Music
-http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8?Live-TV™
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8?Live-TV™
 #EXTINF:-1,Punjabi Tv
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 #EXTINF:-1,Music Choice TV
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/musicchoice.stream/live-orgin/musicchoice.stream/chunks.m3u8?Live-TV™
 #EXTINF:-1,Sangeet Bangla
-http://45.249.187.238:8081/hls/new7.m3u8?Live-TV™
+http://master.beeiptv.com:8081/MB/sangeetbangla/playlist.m3u8
 #EXTINF:-1,Dhoom Music
-http://103.49.168.172:8081/ebox/in_dhoom/chunks.m3u8?Live-TV™
+https://load.airtelxstream.in/dhoommusic/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,9xM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?Live-TV™
 #EXTINF:-1,Music India
