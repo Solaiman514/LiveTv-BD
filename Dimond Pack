@@ -638,11 +638,15 @@ https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 http://103.205.133.50/hls/chc.m3u8
 #EXTINF:-1,COLORS (4)
 http://master.beeiptv.com:8081/MB/colorsbdtv/playlist.m3u8
+#EXTINF:-1,Colors (5)
+http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 
 #EXTINF:-1,Colors HD (1)
 http://103.205.133.50/hls/chc.m3u8
 #EXTINF:-1,Colors HD (2)
 http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
+#EXTINF:-1,Colors HD (3)
+http://208.115.215.42/Colors_TV_HD/index.m3u8
 
 #EXTINF:-1,COLORS MARATHI HD
 ?Live-TV™
@@ -721,6 +725,8 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:-1,Zee Cinema HD (2)
 https://z5ams.akamaized.net/zcinemahd/index.m3u8?hdnts=st=1604305436~exp=1604308436~acl=/*~hmac=9751c8309eedc7fb8cebec1f28e5c12d7fc7941904f5b6b05732435d4812ab1c
+#EXTINF:-1,Zee Cinema HD (3)
+http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://image3.mouthshut.com/images/imagesp/925933400s.png",Zee5 Theatre
 https://z5ams.akamaized.net/out/v1/9b9f434518cc489f9260e24b5768ef55/index.m3u8?hdnts=st=1604305707~exp=1604308707~acl=/*~hmac=febae52cceab164c076b59a68db6bf0e7cbc15d0a19e4011814f61bb6f42f7ee
@@ -788,6 +794,8 @@ http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1,Zee Action (2)
 https://z5ams.akamaized.net/action/index.m3u8?hdnts=st=1604306808~exp=1604309808~acl=/*~hmac=ce05e140fdb370b7fdd1b63fa94c38cd15338bd0dbf32a538f14cb00fff33e0d
+#EXTINF:-1,Zee Action (3)
+http://z5amshls.akamaized.net/action/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://www.mobilfreetv.com/static/front/images/channel_logo/43ac8a41c04d70b1604e6799e03635b4_r.jpg",Humdard Laughter
 http://ldt.ddns.me:8081/live/tadka/playlist.m3u8
@@ -1111,6 +1119,14 @@ http://otv.ftpbd.net/streams/121/index.m3u8?Live-TV™
 https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
 #EXTINF:-1,ZEE HINDUSTAN
 http://three.somee.com/web.php?e.m3u8&c=hindustan&q=v1a1
+#EXTINF:-1,Zee World
+http://z5amshls.akamaized.net/world/tracks-v1a1/index.m3u8
+#EXTINF:-1,SHEMAROO CLASSIC
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1,Bollywood Premier
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1,Shemaroo Hindi TV
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 
 
 
@@ -2158,8 +2174,10 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8?Live-TV™
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8?Live-TV™
 #EXTINF:-1,Zee ETC
 http://dx3.gcdn.co/hindi-ZEEETC/index.m3u8
-#EXTINF:-1,Zing
+#EXTINF:-1,Zing (1)
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zing/tracks-v1a1/playlist.m3u8?Live-TV™
+#EXTINF:-1,Zing (2)
+http://z5amshls.akamaized.net/zing/tracks-v1a1/index.m3u8
 #EXTINF:-1,9x Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8?Live-TV™
 #EXTINF:-1,9x Tashan
@@ -2208,3 +2226,5 @@ http://103.141.66.36/bpk-tv/10081/default/index.m3u8
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1, Only Music
 http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
+#EXTINF:-1,POP LIFE
+https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w1932655832.m3u8
