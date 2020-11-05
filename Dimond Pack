@@ -731,8 +731,10 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8?Live-TV™
 #EXTINF:-1,Zee Cafe
 https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,Zee Cafe HD
+#EXTINF:-1,Zee Cafe HD (1)
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Cafe HD (2)
+http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/08/Zee-Zest-16-9.jpg",Zee Zest
 https://z5ams.akamaized.net/zzesthd/index.m3u8?hdnts=st=1604309031~exp=1604312031~acl=/*~hmac=b7964c058a402d56d66752283ebb3e2ed83a5520f282487825c7bee7c627e0ff
@@ -909,17 +911,23 @@ https://z5ams.akamaized.net/andpicshd/index.m3u8?hdnts=st=1604305867~exp=1604308
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/%26picturehd.m3u8
 #EXTINF:-1,& pictures HD (2)
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
+#EXTINF:-1,& Pictures HD (3)
+http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,& Xplor HD (1)
 https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8?hdnts=st=1604305867~exp=1604308867~acl=/*~hmac=d9f0597d974554141c6188c8f7a1d848ea2b36f0a728ce810df9eaeead9f2014
 #EXTINF:-1,& Xplor HD (2)
 http://z5amshls.akamaized.net/action/tracks-v2a1/playlist.m3u8
 
-#EXTINF:-1,& Prive HD
+#EXTINF:-1,& Prive HD (1)
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
+#EXTINF:-1,& Prive HD (2)
+http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,& Flix HD
+#EXTINF:-1,& Flix HD (1)
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
+#EXTINF:-1,& Flix HD (2)
+http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Bflix Movie (1)
 https://dreamtv.livebox.co.in/bflixouthls/live.m3u8?Live-TV™
@@ -974,6 +982,25 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8?Live-TV™
 #EXTINF:-1,FOX FAMILY HD (2)
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1,FOX Movies
+http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28676?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
+#EXTINF:-1,FOX Action Movies
+http://62.210.127.9:25461/p9JJJ9g9TY/f7HrN449rs/28775?token=QhVcUhcJRggXVwMAUFIHBQBUAQdRUgVWVl0MVFBWBFgLDgQBVQMGAQRGGURBEkJRAFtpWgVEXlFdUwJUSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWV1BXABsWQw0FRggXVgRTC1YSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAgRXFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRANfCQVUFEs=
+#EXTINF:-1,FOX Family Movies
+http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28678?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
+#EXTINF:-1,FOX PREMIUM
+http://ts.ec.cx:8080/a/hls1/foxpremium1.m3u8
+#EXTINF:-1,Fox HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:-1,Paramount HD
+http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
+#EXTINF:-1,Fox
+https://chama.ml/channelgratisan-FOX
+#EXTINF:-1,Fox Crime (1)
+http://194.54.183.122:8000/play/a01m
+#EXTINF:-1,Fox Crime (2)
+http://136.243.177.164/FOXCRIME/playlist.m3u8
 
 #EXTINF:-1,PakUs TV
 https://livestream.5centscdn.com/pakustv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8?checkedby:iptvcat.com
@@ -1570,8 +1597,15 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?Live
 #EXTINF:-1,Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?Live-TV™
 
-#EXTINF:-1,Cinemax 
+#EXTINF:-1,Cinemax (3)
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8?Live-TV™
+#EXTINF:-1,Cinemax (1)
+http://me.zichannels.my.id/ch/max.m3u8
+#EXTINF:-1,Cinemax (2)
+https://rebrand.ly/CIN-62
+
+#EXTINF:-1,Sony Movies Action
+http://51.52.156.22:8888/http/009
 
 #EXTINF:-1,24 Box TV
 http://51.158.190.97/hls/stream.m3u8?@amarnettv.live
@@ -1872,6 +1906,8 @@ http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
 http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 4 Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 4 Family
 http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8
+
+
 
 
 
