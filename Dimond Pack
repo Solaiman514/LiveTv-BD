@@ -1468,6 +1468,141 @@ http://dx4.gcdn.co/UKS1758/index.m3u8
 #EXTINF:-1,BEIN SPORT HD 13
 http://dx4.gcdn.co/UKS1759/index.m3u8
 
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Sports_HD1
+http://185.71.66.115:8080/live/ammar/ammar/120586.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Sports_HD2
+http://185.71.66.115:8080/live/ammar/ammar/120587.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Sports_HD3
+http://185.71.66.115:8080/live/ammar/ammar/120588.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Sports_HD4
+http://185.71.66.115:8080/live/ammar/ammar/120589.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Sports_HD5
+http://185.71.66.115:8080/live/ammar/ammar/120590.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Sports_HD6
+http://185.71.66.115:8080/live/ammar/ammar/120591.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Sports_HD7
+http://185.71.66.115:8080/live/ammar/ammar/120592.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Sports_HD8
+http://185.71.66.115:8080/live/ammar/ammar/120593.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Sports_HD9
+http://185.71.66.115:8080/live/ammar/ammar/120594.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Sports_HD10
+http://185.71.66.115:8080/live/ammar/ammar/120595.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Sport_HD11_EN
+http://185.71.66.115:8080/live/ammar/ammar/120596.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Sport_HD12_EN
+http://185.71.66.115:8080/live/ammar/ammar/120597.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Sport_HD13
+http://185.71.66.115:8080/live/ammar/ammar/120598.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Sport_HD14
+http://185.71.66.115:8080/live/ammar/ammar/120599.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Sport_HD15
+http://185.71.66.115:8080/live/ammar/ammar/120600.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Sport_HD16
+http://185.71.66.115:8080/live/ammar/ammar/120601.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Sport_NBA_HD
+http://185.71.66.115:8080/live/ammar/ammar/120602.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",Bein Sports SD 1
+http://185.71.66.115:8080/live/ammar/ammar/120603.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",Bein Sports SD 2
+http://185.71.66.115:8080/live/ammar/ammar/120604.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",Bein Sports SD 3
+http://185.71.66.115:8080/live/ammar/ammar/120605.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",Bein Sports SD 4
+http://185.71.66.115:8080/live/ammar/ammar/120606.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",Bein Sports SD 5
+http://185.71.66.115:8080/live/ammar/ammar/120607.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",Bein Sports SD 6
+http://185.71.66.115:8080/live/ammar/ammar/120608.m3u8
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",Bein Sports SD 7
+http://185.71.66.115:8080/live/ammar/ammar/120609.m3u8
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="Channels",Bein Sports SD 8
+http://185.71.66.115:8080/live/ammar/ammar/120610.m3u8
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="Channels",Bein Sports SD 9
+http://185.71.66.115:8080/live/ammar/ammar/120611.m3u8
+#EXTINF:0 tvg-id="bein10hd.jsc" group-title="Channels",Bein Sports SD 10
+http://185.71.66.115:8080/live/ammar/ammar/120612.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",Bein Sports 01 HD
+http://185.71.66.115:8080/live/ammar/ammar/120613.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",Bein Sports 02 HD
+http://185.71.66.115:8080/live/ammar/ammar/120614.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",Bein Sports 03 HD
+http://185.71.66.115:8080/live/ammar/ammar/120615.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",Bein Sports 04 HD
+http://185.71.66.115:8080/live/ammar/ammar/120616.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",Bein Sports 05 HD
+http://185.71.66.115:8080/live/ammar/ammar/120617.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",Bein Sports 06 HD
+http://185.71.66.115:8080/live/ammar/ammar/120618.m3u8
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",Bein Sports 07 HD
+http://185.71.66.115:8080/live/ammar/ammar/120619.m3u8
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="Channels",Bein Sports 08 HD
+http://185.71.66.115:8080/live/ammar/ammar/120620.m3u8
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="Channels",Bein Sports 09 HD
+http://185.71.66.115:8080/live/ammar/ammar/120621.m3u8
+#EXTINF:0 tvg-id="bein10hd.jsc" group-title="Channels",Bein Sports 10 HD
+http://185.71.66.115:8080/live/ammar/ammar/120622.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HEVC 01
+http://185.71.66.115:8080/live/ammar/ammar/120623.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HEVC 02
+http://185.71.66.115:8080/live/ammar/ammar/120624.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HEVC 03
+http://185.71.66.115:8080/live/ammar/ammar/120625.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HEVC 04
+http://185.71.66.115:8080/live/ammar/ammar/120626.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HEVC 05
+http://185.71.66.115:8080/live/ammar/ammar/120627.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HEVC 06
+http://185.71.66.115:8080/live/ammar/ammar/120628.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HEVC 07
+http://185.71.66.115:8080/live/ammar/ammar/120629.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HEVC 08
+http://185.71.66.115:8080/live/ammar/ammar/120630.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HEVC 09
+http://185.71.66.115:8080/live/ammar/ammar/120631.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HEVC 10
+http://185.71.66.115:8080/live/ammar/ammar/120632.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HEVC 11
+http://185.71.66.115:8080/live/ammar/ammar/120633.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HEVC 12
+http://185.71.66.115:8080/live/ammar/ammar/120634.m3u8
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Channels",Bein Sport HD
+http://185.71.66.115:8080/live/ammar/ammar/120635.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport News HD
+http://185.71.66.115:8080/live/ammar/ammar/120636.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 4K 1
+http://185.71.66.115:8080/live/ammar/ammar/120637.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 4K 2
+http://185.71.66.115:8080/live/ammar/ammar/120638.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 4K 3
+http://185.71.66.115:8080/live/ammar/ammar/120639.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 4K 4
+http://185.71.66.115:8080/live/ammar/ammar/120640.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 4K 5
+http://185.71.66.115:8080/live/ammar/ammar/120641.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 4K 6
+http://185.71.66.115:8080/live/ammar/ammar/120642.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 4K 7
+http://185.71.66.115:8080/live/ammar/ammar/120643.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 4K 8
+http://185.71.66.115:8080/live/ammar/ammar/120644.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 4K 9
+http://185.71.66.115:8080/live/ammar/ammar/120645.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 4K 10
+http://185.71.66.115:8080/live/ammar/ammar/120646.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1,FOX SPORT 1 (1)
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8?Live-TV™
 #EXTINF:-1,FOX SPORT 1 (2)
