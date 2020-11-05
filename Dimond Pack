@@ -585,8 +585,23 @@ https://feeds.intoday.in/hltapps/api/master.m3u8?Live-TV™
 #EXTINF:-1,DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8?Live-TV™
 
-#EXTINF:-1,Star Plus
+#EXTINF:-1,DD Kisan
+https://load.airtelxstream.in/ddkisan/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+
+#EXTINF:-1,Star Life
+http://ms-azure-video.gslb.startimestv.com/live/STAR_LIFE_1034_500_480x360_277468/playlist.m3u8
+
+#EXTINF:-1,Abzy Dhakad
+https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
+
+#EXTINF:-1,Star Plus (1)
 http://ccntv.anytv.live:8080/starplus/index.m3u8
+#EXTINF:-1,Star Plus (2)
+http://global.thunderbd.com/67/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Plus India
+http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Plus UK
+http://208.115.215.42/Star_Plus_HD_UK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Star Plus HD (1)
 http://103.205.133.50/hls/chsp.m3u8?Live-TV™
@@ -2177,8 +2192,10 @@ http://dx3.gcdn.co/hindi-ZEEETC/index.m3u8
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zing/tracks-v1a1/playlist.m3u8?Live-TV™
 #EXTINF:-1,Zing (2)
 http://z5amshls.akamaized.net/zing/tracks-v1a1/index.m3u8
-#EXTINF:-1,9x Jalwa
+#EXTINF:-1,9x Jalwa (1)
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8?Live-TV™
+#EXTINF:-1,9x Jalwa (2)
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1,9x Tashan
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8?Live-TV™
 #EXTINF:-1,Zoom
@@ -2199,6 +2216,8 @@ https://stream.arylive.com/MusikLive/index.m3u8?Live-TV™
 https://www.fanmingming.cn/hls/channelv.m3u8?Live-TV™
 #EXTINF:-1,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?Live-TV™
+#EXTINF:-1,MTV India
+http://dx3.gcdn.co/hindi-MTVINDIA/index.m3u8
 #EXTINF:-1,VH1 Italia
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?Live-TV™
 #EXTINF:-1,1HD Music
@@ -2227,3 +2246,13 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 #EXTINF:-1,POP LIFE
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w1932655832.m3u8
+#EXTINF:-1,MUSIC 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1,DJing Live
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1,DJing Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1,DJing HITS
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:-1,DJing Underground
+https://www.djing.com/tv/underground.m3u8
