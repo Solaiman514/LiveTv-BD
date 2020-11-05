@@ -476,6 +476,32 @@ https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
 http://rtmp.smartstream.video:1935/globalherald/globalherald/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Pratidin_Time_logo.jpeg" group-title="Assamese",Pratidin Time
 https://load.airtelxstream.in/pratidintime/smil:common.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/News_live_logo_.png" group-title="Assamese",News Live
+https://load.airtelxstream.in/newslive/smil:common.smil/chunklist.m3u8
+
+
+
+
+
+                                                           ********Odia********
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJw3_xqyR7EWuIdTi4_YH3CThaaN1tsYeTmJhnQW=s900-c-k-c0x00ffffff-no-rj" group-title="Odia",Prag News
+https://load.airtelxstream.in/pragnews/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/DD_Odia.png" group-title="Odia",DD Odia
+https://streamitv.multitvsolution.in/idvo/ddodia.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyw_roXq4XySiDUSelWTyx1K_WYJdvY5L3hm5Hweg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Odia",MBC TV
+https://load.airtelxstream.in/mbctv/smil:common.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TARANG_TV.jpg" group-title="Odia",Tarang TV
+https://load.airtelxstream.in/tarangtv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.livetvmesh.com/wp-content/uploads/2018/11/Naxatra-News.png" group-title="Odia",Naxatra News
+http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
+#EXTINF:-1 tvg-logo="http://kanaknews.com/wp-content/uploads/2018/12/K-LOGO-SMALL-1.png" group-title="Odia",Kanak News
+https://load.airtelxstream.in/kanaknews/smil:common.smil/chunklist.m3u8
  
 
 
@@ -537,6 +563,9 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8?Live-TV™
 
 #EXTINF:-1,Wion TV
 http://z5amshls.akamaized.net/wion/tracks-v2a1/playlist.m3u8
+
+#EXTINF:-1,LOK SABHA TV
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 
 #EXTINF:-1,NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?Live-TV™
@@ -707,6 +736,9 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/08/Zee-Zest-16-9.jpg",Zee Zest
 https://z5ams.akamaized.net/zzesthd/index.m3u8?hdnts=st=1604309031~exp=1604312031~acl=/*~hmac=b7964c058a402d56d66752283ebb3e2ed83a5520f282487825c7bee7c627e0ff
+
+#EXTINF:-1,Zee Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="http://namahshivaystarconnection.com/img/channel-logos/movies/25-Cinema%20TV.jpg",Cinema TV
 https://load.airtelxstream.in/cinematvindia/smil:common.smil/chunklist_b896000_sleng.m3u8
@@ -1199,6 +1231,9 @@ https://load.airtelxstream.in/sonyten1/smil:common.smil/chunklist.m3u8
 http://otv.ftpbd.net/streams/105/index.m3u8
 #EXTINF:-1,Sony Ten 1 HD (4)
 http://103.205.133.50/hls/ten1.m3u8
+#EXTINF:-1,Sony Ten 1 HD (5)
+http://dx3.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1,Sony Ten 2 HD (1)
 https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
@@ -1206,6 +1241,8 @@ https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
 http://otv.ftpbd.net/streams/112/index.m3u8
 #EXTINF:-1,Sony Ten 2 HD (3)
 http://103.205.133.50/hls/ten2.m3u8
+#EXTINF:-1,Sony Ten 2 HD (4)
+http://dx3.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Sony Ten 3 HD (1)
 https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8
@@ -1213,8 +1250,15 @@ https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8
 https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Sony Ten 3 HD (3)
 http://103.205.133.50/hls/ten3.m3u8
+#EXTINF:-1,Sony Ten 3 HD (4)
+http://dx3.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Sony ESPN HD
+http://nodemaster.homelinux.com/ESPN-HD/mpegts?token=cOAOwU8SC2
+#EXTINF:-1,ESPN Brazil (1)
+http://189.91.128.150:5555/udp/227.10.20.81:1234
+#EXTINF:-1,ESPN Brazil (2)
+http://nodemaster.homelinux.com/ESPNBRASIL-HD/mpegts?token=cOAOwU8SC2
 
 #EXTINF:-1,Fox Cricket HD
 http://85.203.33.15:25461/GG3R15rlPW/ZOHnfpIDcV/202376?play_token=yrHyGev4sb&token=ShdcBRFREglDAQcHWwpYB1dVAFMKAAEFBQdcUFEHCFNUAlBSAF8JVgRGHxERR0tSUF5mClwbCQVWVwoCAU4bRUJQRjsLXRIJQ1ABC1YEChUdEU0KVVwRDVdTCQcDUwoDAw0YRhJQVBFbRgIBVgYNFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCgYGABtPGlpcQggRS0wVWBt5fxcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUACCwMAChse
@@ -1286,7 +1330,7 @@ http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8?Live-TV™
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8?Live-TV™
 
 #EXTINF:-1,Ptv Sports 
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8?Live-TV™
+https://live-kcs.cdnvideo.ru/shaamtv/superleag/chunklist.m3u8
 
 #EXTINF:-1,JIO Sports
 http://global.thunderbd.com/120/tracks-v1a1/mono.m3u8
@@ -1295,7 +1339,7 @@ http://global.thunderbd.com/120/tracks-v1a1/mono.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8?Live-TV™
 
 #EXTINF:-1,RTA Sports
-http://212.47.252.54/hls/stream.m3u8?Live-TV™
+http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
 
 #EXTINF:-1,BEIN SPORT EXTRA
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
@@ -1592,6 +1636,9 @@ http://45.249.187.238:8081/hls/new13.m3u8?Live-TV™
 http://45.249.187.238:8081/hls/tsl-8.m3u8?Live-TV™
 #EXTINF:-1,Star Movies HD
 http://otv.ftpbd.net/streams/125/index.m3u8
+
+#EXTINF:-1,Star Movies Select HD
+http://master.beeiptv.com:8081/MB/starmovies/playlist.m3u8
 
 #EXTINF:-1,Lotus Macau
 http://45.249.187.238:8081/hls/new22.m3u8?Live-TV™
@@ -1960,18 +2007,28 @@ http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b110
 
 #EXTINF:-1,Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?Live-TV™
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:-1,CARTOON NETWORK IND
 http://otv.ftpbd.net/streams/123/index.m3u8?Live-TV™
+#EXTINF:-1,Cartoon Network
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+#EXTINF:-1,CN Arabic
+http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3
 #EXTINF:-1,DISNEY (1)
 http://otv.ftpbd.net/streams/122/index.m3u8?Live-TV™
 #EXTINF:-1,DISNEY (2)
 http://45.249.187.238:8081/hls/live0.m3u8
+#EXTINF:-1,Disney Channel
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/50129
 #EXTINF:-1,DISNEY jr.
 http://anytv.live:8080/saiful/saiful/368
+#EXTINF:-1,KETNET JUNIOR
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1,NICK
 http://global.thunderbd.com/55/tracks-v1a1/mono.m3u8
 #EXTINF:-1",NICK Sonic
 https:\\ott.bingebd.com\live\ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sonicPQRT_98sdfhs0_f36erxty_forsgst63_DH\chunklist_b2128000.m3u8
+#EXTINF:-1,Nickelodeon
+http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 #EXTINF:-1,Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?Live-TV™
 #EXTINF:-1,Sony YAY (1)
@@ -1997,8 +2054,8 @@ https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=14186771
 #EXTINF:-1,AniPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8?Live-TV™
 #EXTINF:-1,NICK Jr.
-http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28747?play_token=P3gFhmfB5T&token=QhVcUhcJRggXBlMCBV9UDABTUwZXB1MCBgIFVwVRBwUIBQ1QXAJcB1dGGURBEkJRAFtpWgVEXlFdUwZYSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deW1ZSCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-#EXTINF:-1,Stchannel
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1,Spacetoon
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?Live-TV™
 #EXTINF:-1,POGO
 http://45.249.187.238:8081/hls/new18.m3u8
@@ -2012,6 +2069,19 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?Live-TV�
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8?Live-TV™
 #EXTINF:-1,SPACETOON KIDS
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?Live-TV™
+sonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1,TRT Cocuk
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1,GEM Kids
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1,PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:-1,Ketnet Junior
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1,CARTOON RETRO
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1,Da Vinci
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 
 
 
