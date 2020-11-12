@@ -7,7 +7,7 @@
 **Zeroflix Stuffs:**
 - 🔭 We're currently working on Zeroflix platform
 - ✨ Interested in backend & mobile development
-- 📫 Reach us via [twitter](https://twitter.com/zeroflix) or [facebook](https://www.facebook.com/zeroflix/)
+- 📫 Reach us via [twitter](https://www.facebook.com/groups/1322616741198617) or [facebook](https://www.facebook.com/sitechnology.net)
 
 ### 🌱 Current Research :   
 - Machine Learning  
