@@ -14,4 +14,4 @@
 - Artificial Intelligence
 - Tools development
 
-[![🦉 Zeroflix's github stats](https://github-readme-stats.vercel.app/api?username=zeroflixxyz&show_icons=true)](https://github.com/zeroflixxyz)
+[![🦉 Zeroflix's github stats](https://github-readme-stats.vercel.app/api?username=zeroflixxyz&show_icons=true)](https://github.com/Solaiman514)
