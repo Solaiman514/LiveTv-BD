@@ -9,6 +9,13 @@
 <img align="right" alt="GIF" height="100px" src="https://www.athmin.com/img/hiredeveloper/gif/java.gif" />
 
 
+
+
+
+
+
+
+
 **Zeroflix Stuffs:**
 - 🔭 We're currently working on Zeroflix platform
 - ✨ Interested in backend & mobile development
