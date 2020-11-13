@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-name="Sun TV(Airtel)" tvg-id="1" group-title="Tamil Entertainment" tvg-logo="https://assets.wxca.cf/images/a/ekrncsWjpm.png",Sun TV(Airtel)
 https://load.airtelxstream.in/suntv/smil:common.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-name="Sun TV HD(Airtel)" tvg-id="2" group-title="Tamil Entertainment" tvg-logo="https://assets.wxca.cf/images/a/elSathbZuJ.png",Sun TV HD(Airtel)
