@@ -4,16 +4,9 @@
 <img align="right" alt="GIF" height="100px" src="https://i.imgur.com/iPJ2KkS.png" />
 <img align="right" alt="GIF" height="100px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
-<img align="right" alt="GIF" height="100px" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" />
+<img align="right" alt="GIF" height="100px" src="https://miro.medium.com/max/1600/1*gReLR6hZjwyBxHmfLN1AVw.gif" />
 <img align="right" alt="GIF" height="100px" src="https://cdn57.androidauthority.net/wp-content/uploads/2019/08/New-Android-Logo-evolution.gif" />
 <img align="right" alt="GIF" height="100px" src="https://www.athmin.com/img/hiredeveloper/gif/java.gif" />
-
-
-
-
-
-
-
 
 
 **Zeroflix Stuffs:**
