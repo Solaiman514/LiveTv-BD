@@ -695,7 +695,7 @@ http://208.115.215.42/Colors_TV_HD/index.m3u8
 ?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png" group-title="IND HINDI",Colors Cineplex HD (1)
-https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
+https://wxca.cf/j/Colors_Cineplex_HD/master.m3u8?signature=71c563eadccd82f5b77c1591d7986d5c3c803709&unique=83d1402d58a19879145815c8257d9598
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png" group-title="IND HINDI",Colors Cineplex HD (2)
 http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/index.m3u8
 
