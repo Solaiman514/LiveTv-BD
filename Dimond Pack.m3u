@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png",Live-TV™
 https://youtu.be/LwlZk_qZybc
 
-#EXTINF:-1. tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQiIQcb4iHT2VeNeFZPZF7hIo5nf4ePqxid7w&usqp=CAU" group-title="Bangladesh",BTV (1)
+#EXTINF:-1. tvg-logo="https://lh3.googleusercontent.com/proxy/aqbEju0TzDDE8Gik6P2mXHGeRAPJ0353EOhB6NZEgI5OhEwKZcIQEf54O-zcLG68Kt_huRWStqiQWQy5MXAgc6ke7GU0g2KlzTzpigh8Z4Qjj3qvjD9bXKj-gbEn9Sadb8DGpQPUo0hWJSzv7-kDcPg" group-title="Bangladesh",BTV (1)
 http://103.205.133.50/hls/btv.m3u8?Live-TV™
-#EXTINF:-1. tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQiIQcb4iHT2VeNeFZPZF7hIo5nf4ePqxid7w&usqp=CAU" group-title="Bangladesh",BTV (2)
+#EXTINF:-1. tvg-logo="https://lh3.googleusercontent.com/proxy/aqbEju0TzDDE8Gik6P2mXHGeRAPJ0353EOhB6NZEgI5OhEwKZcIQEf54O-zcLG68Kt_huRWStqiQWQy5MXAgc6ke7GU0g2KlzTzpigh8Z4Qjj3qvjD9bXKj-gbEn9Sadb8DGpQPUo0hWJSzv7-kDcPg" group-title="Bangladesh",BTV (2)
 http://master.beeiptv.com:8081/MB/btv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladesh",Sangsad TV (1)
@@ -818,7 +818,7 @@ http://z5amshls.akamaized.net/bigganga/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IND HINDI",Shemaroo TV
 https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Shemaroo_Logo.png" group-title="movie",shemaroome 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Shemaroo_Logo.png" group-title="IND HINDI",shemaroome 
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1280x720_cf.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="IND HINDI",Dabaang
@@ -1152,10 +1152,10 @@ http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PAKISTANI",Tag TV (2)
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/arBu6Kj.jpg" group-title=" tvg-logo="" group-title="PAKISTANI"",Geo News 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/arBu6Kj.jpg" group-title="PAKISTANI"",Geo News 
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title=" tvg-logo="" group-title="PAKISTANI"",Dunya News 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="PAKISTANI"",Dunya News 
 https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="PAKISTANI",HUMRAZ TV
