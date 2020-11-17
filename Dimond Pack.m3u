@@ -488,9 +488,9 @@ https://load.airtelxstream.in/ddnortheast/smil:common.smil/chunklist.m3u8
 https://load.airtelxstream.in/assamtalks/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Assam_Talks_logo.png" group-title="Assamese",Assam Talks
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.dy365.in/images/dy365.jpg" group-title="Assamese",dy365
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1254683172526120961/IrgdRGNg_400x400.jpg" group-title="Assamese",dy365
 https://load.airtelxstream.in/dy365/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/News18_AssamNE_logo.jpeg/220px-News18_AssamNE_logo.jpeg" group-title="Assamese",News18 Assam
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/News18_AssamNE_logo.jpeg" group-title="Assamese",News18 Assam
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3YRtMbC/newstimeassam.jpg" group-title="Assamese",News Time Assam
 http://rtmp.smartstream.video:1935/globalherald/globalherald/playlist.m3u8
@@ -537,90 +537,90 @@ https://load.airtelxstream.in/kanaknews/smil:common.smil/chunklist.m3u8
                                             
                                             
                                             
-#EXTINF:-1 tvg-logo="" group-title="IND BAN",Star Jalsha (1)
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND BAN",Star Jalsha (1)
 http://103.205.133.50/hls/chsj.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND BAN",Star Jalsha (2)
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND BAN",Star Jalsha (2)
 http://master.beeiptv.com:8081/MB/starjalsha/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND BAN",Star Jalsha (3)
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND BAN",Star Jalsha (3)
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND BAN",Star Jalsha HD (1)
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-jalsha-hd-logo-300x300.jpg" group-title="IND BAN",Star Jalsha HD (1)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND BAN",Star Jalsha HD (2)
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-jalsha-hd-logo-300x300.jpg" group-title="IND BAN",Star Jalsha HD (2)
 http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND BAN",Star Jalsha HD (3)
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-jalsha-hd-logo-300x300.jpg" group-title="IND BAN",Star Jalsha HD (3)
 
 
-#EXTINF:-1 tvg-logo="" group-title="IND BAN",Jalsha Movies (1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" group-title="IND BAN",Jalsha Movies (1)
 http://otv.ftpbd.net/streams/115/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="" group-title="IND BAN",Jalsha Movies (2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" group-title="IND BAN",Jalsha Movies (2)
 http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND BAN",Jalsha Movies HD (1)
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180623/qf/kisspng-jalsha-movies-star-jalsha-television-show-star-ind-5b2dddcfb0e485.0005089815297325597246.jpg" group-title="IND BAN",Jalsha Movies HD (1)
 http://global.thunderbd.com/31/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND BAN",Jalsha Movies HD (2)
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180623/qf/kisspng-jalsha-movies-star-jalsha-television-show-star-ind-5b2dddcfb0e485.0005089815297325597246.jpg" group-title="IND BAN",Jalsha Movies HD (2)
 http://master.beeiptv.com:8081/MB/starjalshamovies/playlist.m3u8
 
-#EXTINF:-1  tvg-id="48" group-title="IND HINDI" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png",Star Utsav
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png",Star Utsav
 http://dx3.gcdn.co/hindi-STARUTSAVHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND BAN",Orange Bangla
+#EXTINF:-1 tvg-logo="https://images-vod.wixmp.com/ceb800c0-c2cc-4726-8014-162eec7e4e04/images/e22df72ff92643f6890df7a483359eac~mv2/v1/fill/w_330,h_330/file.png" group-title="IND BAN",Orange Bangla
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND BAN",R Plus Gold
+#EXTINF:-1 tvg-logo="https://images.jdmagicbox.com/comp/kolkata/m8/033p1228459399q4i2m8/catalogue/r-plus-bengali-channel-park-street-kolkata-satellite-channels-0ne4fbj81z.jpg?clr=#333333" group-title="IND BAN",R Plus Gold
 https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND BAN",Tollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="IND BAN",Tollywood
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND BAN",Khusbo Bangla (1)
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/khushboo-bangla-tv-channel-logo-150x150.jpg" group-title="IND BAN",Khusbo Bangla (1)
 http://103.141.66.36/bpk-tv/10139/default/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="" group-title="IND BAN",Khusboo Bangla (2)
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/khushboo-bangla-tv-channel-logo-150x150.jpg" group-title="IND BAN",Khusboo Bangla (2)
 https://streamitv.multitvsolution.in/idvo/khushboo.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND BAN",Ekhon Kolkata
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-movu8hXt938/UH_QigkyqNI/AAAAAAAAAJI/lh9GXGMFauc/s1600/logo.png" group-title="IND BAN",Ekhon Kolkata
 http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="http://calcuttanews.tv/wp-content/uploads/2017/04/ctvnlogo-1.png" group-title="IND BAN",Calcutta News
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND BAN",Kolkatta Tv
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJz4OSukoMq-88pT7gpASWgzilQBnduj3quPfaP9=s900-c-k-c0x00ffffff-no-rj" group-title="IND BAN",Kolkatta Tv
 http://global.thunderbd.com/46/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",AAJ TAK HD	 				
+#EXTINF:-1 tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg" group-title="IND HINDI",AAJ TAK HD	 				
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",Wion TV
+#EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2016/12/WION-logo-top.jpg" group-title="IND HINDI",Wion TV
 http://z5amshls.akamaized.net/wion/tracks-v2a1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",LOK SABHA TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/773843085637873664/Vrh0PiLl_400x400.jpg" group-title="IND HINDI",LOK SABHA TV
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",NDTV India
+#EXTINF:-1 tvg-logo="https://i.ndtvimg.com/i/2016-11/ndtv-india-logo_650x400_61478501691.jpg" group-title="IND HINDI",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",NDTV 24x7
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/ndtv-24x7-logo-300x300.jpg" group-title="IND HINDI",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",ABP NEWS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/ABP_News_2017.png/revision/latest/scale-to-width-down/340?cb=20200623085843" group-title="IND HINDI",ABP NEWS
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",Amar Ujala
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Inagq3TJ1nZQsigQLu9BU5MddSE2a7CNqvUV1vbHx7PcUPx55G8EBUhwowWatAjzXA" group-title="IND HINDI",Amar Ujala
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",INDIA TODAY
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJw1tiOO2vkI4bCR8JgtUcB56-Nzz5tE1vPuegxP5Q=s900-c-k-c0x00ffffff-no-rj" group-title="IND HINDI",INDIA TODAY
 https://feeds.intoday.in/hltapps/api/master.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",DD News
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhV-IBVhPPnG3sFZxNMAUXqVKRNAJCrnL4uEpttAA=s900-c-k-c0x00ffffff-no-rj" group-title="IND HINDI",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",DD Kisan
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJygjEOViYrf1v_f5c2vTbSaQjqDuylMhjYbWwIkPg=s900-c-k-c0x00ffffff-no-rj" group-title="IND HINDI",DD Kisan
 https://load.airtelxstream.in/ddkisan/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",Star Life
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DlmS8q4WwAA_iom.jpg" group-title="IND HINDI",Star Life
 http://ms-azure-video.gslb.startimestv.com/live/STAR_LIFE_1034_500_480x360_277468/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",Abzy Dhakad
+#EXTINF:-1 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/3548638c9e35adea.jpg" group-title="IND HINDI",Abzy Dhakad
 https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="IND HINDI",Star Plus (1)
