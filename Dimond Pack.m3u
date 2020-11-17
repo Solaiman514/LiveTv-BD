@@ -747,7 +747,7 @@ http://dx3.gcdn.co/hindi-ZEETV/index.m3u8
 http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/202006/zee-anmol.jpeg" group-title="IND HINDI",Zee Anmol (1)
-https://z5ams.akamaized.net/out/v1/6bcef04f1d0f4207b4c8f98525ccd37f/index.m3u8?hdnts=st=1604300836~exp=1604303836~acl=/*~hmac=7e5543cd428dca82d1b212df65714fde109417fdfc79a22265116229bd13dc7e
+http://dx3.gcdn.co/hindi-ZEEANMOL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/202006/zee-anmol.jpeg" group-title="IND HINDI",Zee Anmol (2)
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeeanmol/index.m3u8
 
@@ -1307,6 +1307,43 @@ http://89.187.169.203:2200/R-EX/KANNADA_STAR_SUVARNA_HD-in/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR VIJAY FHD BEST
 http://uk4.zecast.com:1935/star-live/vijayhd1/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Raj_TV_Tamil.png/250px-Raj_TV_Tamil.png" group-title="Airtel",RajTV
+https://load.airtelxstream.in/rajtv/smil:common.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.behindwoods.com/tamil-movies/slideshow/complete-list-of-tamil-tv-channels-price/images/jaya-max.jpg" group-title="Airtel",Jaya MAX
+https://load.airtelxstream.in/jayamax/smil:common.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/jayaplus.jpg" group-title="Airtel",Jaya Plus
+https://load.airtelxstream.in/jayaplus/smil:common.smil/index.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn.freedocast.com/yupptv/roku/images/polimer_tv_roku.jpg" group-title="Airtel",Polimer TV
+https://load.airtelxstream.in/polimertv/smil:common.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/raj_digitalplus.jpg" group-title="Airtel",Raj Digital Plus
+https://load.airtelxstream.in/rajdigitalplus/smil:common.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/200px-Sun_TV_logo.svg.png" group-title="Airtel",Sun TV SD
+https://load.airtelxstream.in/suntv/smil:common.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/200px-Sun_TV_logo.svg.png" group-title="Airtel",Sun TV SD NXT
+https://mhdtvworld.live/delta/snxt/snxt.php?id=9016&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg" group-title="Airtel",Sun Life
+https://load.airtelxstream.in/sunlife/smil:common.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/ADITHYA.png" group-title="Airtel",Adithya TV
+https://load.airtelxstream.in/adithyatv/smil:common.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/discoverytamil-1.png" group-title="Airtel",Discovey Tamil
+https://streamitv.multitvsolution.in/idvo/discoverytamil_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/sun_kondattam_tv.png" group-title="Airtel",K TV
+https://load.airtelxstream.in/ktv/smil:common.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/sun_music.png" group-title="Airtel",Sun Music
+https://load.airtelxstream.in/sunmusic/smil:common.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/kalaignar_new_roku.jpg" group-title="Airtel",Kalaignar TV
+https://load.airtelxstream.in/kalaignartv/smil:common.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/sirippoli_new_roku.jpg" group-title="Airtel",Sirippoli
+https://load.airtelxstream.in/sirippoli/smil:common.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/isaiaruvi_new_roku.jpg" group-title="Airtel",Isaiaruvi
+https://load.airtelxstream.in/isaiaruvi/smil:common.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/moon.png" group-title="Airtel",Moon TV
+https://streamitv.multitvsolution.in/idvo/moontv_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/ibc-1.png" group-title="Airtel",IBC Tamil
+https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/45232.png" group-title="Airtel",IBC Comedy
+https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8
 
 
 
