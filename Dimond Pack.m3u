@@ -1479,6 +1479,9 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="" group-title="Sports",Ptv Sports 
 https://live-kcs.cdnvideo.ru/shaamtv/superleag/chunklist.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png",S Cricket
+https://tivimateplaylists.live/scricketnn
+
 #EXTINF:-1 tvg-logo="" group-title="Sports",JIO Sports
 http://global.thunderbd.com/120/tracks-v1a1/mono.m3u8
 
