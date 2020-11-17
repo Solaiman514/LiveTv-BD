@@ -2244,9 +2244,9 @@ https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t
 #EXTINF:-1 tvg-logo="" group-title="Kids",Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="" group-title="Kids",Sony YAY (1)
-https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_yayPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
 #EXTINF:-1 tvg-logo="" group-title="Kids",Sony YAY (2)
-
+https://load.airtelxstream.in/sonyyaytelugu/smil:common.smil/playlist.m3u8?@asfaiptv
 #EXTINF:-1 tvg-logo="" group-title="Kids",POGO
 https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_pogoPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",ZEE5 Kids
@@ -2291,7 +2291,8 @@ http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Tom & Jerry
+http://vod.tsvipsmart.eu/turkishcinemamovies/Cocuk/Tom.and.Jerry.Willy.Wonka.and.the.Chocolate.Factory.2017.720p.WEB-DL.TR.mkv
 
 
 
