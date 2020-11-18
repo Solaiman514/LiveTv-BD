@@ -950,8 +950,10 @@ http://dreamsmart.me:2082/ip20_227367/EMW2DTDi/86068
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GrNnchK2f5s/WEPX5r2ph5I/AAAAAAAAKvU/cxunO6HOWMI-gDTLBNBYClQ5emKhpnrhwCLcB/w680/hoshiyar-sahi-waqt-sahi-kadam-mt-wiki.jpg" group-title="IND HINDI",&tv
 http://103.205.133.50/hls/andtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/2136-And_TV_HD.png" group-title="IND HINDI",&tv HD
+#EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/2136-And_TV_HD.png" group-title="IND HINDI",&tv HD (1)
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/2136-And_TV_HD.png" group-title="IND HINDI",&tv HD (2)
+http://103.141.66.36/bpk-tv/10182/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tellyshowupdates.com/wp-content/uploads/2018/03/38322_1_home_big-2.jpg" group-title="IND HINDI",& pictures (1)
 http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8?Live-TV™
@@ -1307,7 +1309,8 @@ http://89.187.169.203:2200/R-EX/KANNADA_STAR_SUVARNA_HD-in/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR VIJAY FHD BEST
 http://uk4.zecast.com:1935/star-live/vijayhd1/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png" group-title="Airtel",Amrita TV (ASHRU TV)
+http://mhdworld.fun/delta/yupp.m3u8?id=53595397611&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Raj_TV_Tamil.png/250px-Raj_TV_Tamil.png" group-title="Airtel",RajTV
 https://load.airtelxstream.in/rajtv/smil:common.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.behindwoods.com/tamil-movies/slideshow/complete-list-of-tamil-tv-channels-price/images/jaya-max.jpg" group-title="Airtel",Jaya MAX
@@ -1344,7 +1347,8 @@ https://streamitv.multitvsolution.in/idvo/moontv_540p/index.m3u8
 https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/45232.png" group-title="Airtel",IBC Comedy
 https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="Airtel",Akaram Mix
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
 
 
 
@@ -1841,7 +1845,7 @@ https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3
 #EXTINF:-1 tvg-logo="" group-title="English",SONY BBC Earth (1)
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English",SONY BBC Earth (2)
-http://198.255.87.59:8080/INDIA_HINDI/BBC_EARTH_HD/tracks-v1a1/mono.m3u8?token=test
+http://dx3.gcdn.co/hindi-SONYBBCEARTHHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English",BBC Lifestyle
 http://iptv.kitv.live:1935/live/Shari/MTV-P/46.m3u8?Live-TV™
