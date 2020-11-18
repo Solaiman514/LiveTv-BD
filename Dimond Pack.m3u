@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png",Live-TV™
 https://youtu.be/LwlZk_qZybc
 
-#EXTINF:-1. tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="Bangladesh",BTV (1)
+#EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="Bangladesh",BTV (1)
 http://103.205.133.50/hls/btv.m3u8?Live-TV™
-#EXTINF:-1. tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="Bangladesh",BTV (2)
+#EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="Bangladesh",BTV (2)
 http://master.beeiptv.com:8081/MB/btv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladesh",Sangsad TV (1)
