@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NA" group-title="Telugu प्रसाद.TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg",Star Maa Movies HD
-https://tivimateplaylists.live/starmaamoviesn
-
 #EXTINF:-1  tvg-id="429" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",Colors Tamil
 https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd
 #EXTINF:-1  tvg-id="603" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png",Nambikkai
