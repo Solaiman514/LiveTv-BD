@@ -942,7 +942,7 @@ https://streamitv.multitvsolution.in/idvo/banglatimetv.m3u8?Live-TV™
 https://streamitv.multitvsolution.in/idvo/newstimebangla.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b0/bb/50/b0bb507caa0a22ef3b062f74f5482168.jpg" group-title="IND HINDI",E24
-http://three.somee.com/web.php?c=out/v1/78239452a9944713bf0dfd0946a55ad5/&e.m3u8&I=2
+http://103.103.32.106:9981/stream/channelid/930958032
 
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND BAN",Sun Bangla
 http://dreamsmart.me:2082/ip20_227367/EMW2DTDi/86068
