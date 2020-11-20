@@ -2343,7 +2343,7 @@ http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_1916
 #EXTINF:-1 tvg-logo="" group-title="Kids",NICK Jr. (1)
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",NICK Jr. (2)
-https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_nick_jrPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+http://dx3.gcdn.co/kids-NICKJR/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="" group-title="Kids",Sony YAY (1)
@@ -2351,7 +2351,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
 #EXTINF:-1 tvg-logo="" group-title="Kids",Sony YAY (2)
 https://load.airtelxstream.in/sonyyaytelugu/smil:common.smil/playlist.m3u8?@asfaiptv
 #EXTINF:-1 tvg-logo="" group-title="Kids",POGO
-https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_pogoPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+http://dx3.gcdn.co/kids-POGO/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",ZEE5 Kids
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/out/v1/9b05285c38c54549a5afd04473bdd65c/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",BBC Cbeebies
@@ -2370,8 +2370,6 @@ https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=14186771
 http://210.210.155.35/dr9445/h/h02/01.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="" group-title="Kids",Spacetoon
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="" group-title="Kids",POGO
-http://45.249.187.238:8081/hls/new18.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",3ABN KIDS TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="" group-title="Kids",karusel TV
