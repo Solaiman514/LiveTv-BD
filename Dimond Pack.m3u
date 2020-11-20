@@ -1111,6 +1111,14 @@ http://198.255.87.59:8080/INDIA_HINDI/UTV_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/UTV_Software_Communications/UTV_Software_Communications-Logo.wine.png" group-title="IND HINDI",UTV Edge
 http://81.196.0.126/utvedge/utvlivehls/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/dth-images/2015/11/10/Untitled-2.jpg" group-title="IND HINDI",Miniplex HD
+http://dx3.gcdn.co/hindi-MINIPLEXHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="IND HINDI",BBO
+https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/BBO-Classic-white.png" group-title="IND HINDI",BBO Classic
+https://yuppcatchup.akamaized.net/preview/bboclassic/2500.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/FOX-LIFE-HD.png" group-title="IND HINDI",FOX Life HD (1)
 http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/FOX-LIFE-HD.png" group-title="IND HINDI",FOX Life HD (2)
