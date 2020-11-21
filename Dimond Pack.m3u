@@ -1052,20 +1052,24 @@ http://103.103.32.106:9981/stream/channelid/930958032
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND BAN",Sun Bangla
 http://dreamsmart.me:2082/ip20_227367/EMW2DTDi/86068
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GrNnchK2f5s/WEPX5r2ph5I/AAAAAAAAKvU/cxunO6HOWMI-gDTLBNBYClQ5emKhpnrhwCLcB/w680/hoshiyar-sahi-waqt-sahi-kadam-mt-wiki.jpg" group-title="IND HINDI",&tv
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GrNnchK2f5s/WEPX5r2ph5I/AAAAAAAAKvU/cxunO6HOWMI-gDTLBNBYClQ5emKhpnrhwCLcB/w680/hoshiyar-sahi-waqt-sahi-kadam-mt-wiki.jpg" group-title="IND HINDI",&tv (1)
 http://103.205.133.21/hls/andtv.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GrNnchK2f5s/WEPX5r2ph5I/AAAAAAAAKvU/cxunO6HOWMI-gDTLBNBYClQ5emKhpnrhwCLcB/w680/hoshiyar-sahi-waqt-sahi-kadam-mt-wiki.jpg" group-title="IND HINDI",&tv (2)
+https://load.airtelxstream.in/andtv/smil:common.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/2136-And_TV_HD.png" group-title="IND HINDI",&tv HD (1)
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/2136-And_TV_HD.png" group-title="IND HINDI",&tv HD (2)
 http://103.141.66.36/bpk-tv/10182/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/2136-And_TV_HD.png" group-title="IND HINDI",&tv HD (3)
+https://load.airtelxstream.in/tvhd/smil:common.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tellyshowupdates.com/wp-content/uploads/2018/03/38322_1_home_big-2.jpg" group-title="IND HINDI",& pictures (1)
 http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://tellyshowupdates.com/wp-content/uploads/2018/03/38322_1_home_big-2.jpg" group-title="IND HINDI",& pictures (2)
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-logo="https://tellyshowupdates.com/wp-content/uploads/2018/03/38322_1_home_big-2.jpg" group-title="IND HINDI",& pictures (3)
-https://z5ams.akamaized.net/andpicshd/index.m3u8?hdnts=st=1604305867~exp=1604308867~acl=/*~hmac=d9f0597d974554141c6188c8f7a1d848ea2b36f0a728ce810df9eaeead9f2014
+https://load.airtelxstream.in/andpictures/smil:common.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_696/PORTRAIT/288dmSbW.png?o=production" group-title="IND HINDI",& pictures HD (1)
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/%26picturehd.m3u8
@@ -1073,6 +1077,8 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_696/PORTRAIT/288dmSbW.png?o=production" group-title="IND HINDI",& Pictures HD (3)
 http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_696/PORTRAIT/288dmSbW.png?o=production" group-title="IND HINDI",& Pictures HD (4)
+https://load.airtelxstream.in/pictureshd/smil:common.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/98204-xplore.jpg" group-title="IND HINDI",& Xplor HD (1)
 https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8?hdnts=st=1604305867~exp=1604308867~acl=/*~hmac=d9f0597d974554141c6188c8f7a1d848ea2b36f0a728ce810df9eaeead9f2014
@@ -1111,13 +1117,13 @@ http://45.249.187.238:8081/hls/tsl-7.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/amp_metadata_content_image_min_696px_wide/public/images/story/2011/12/01/UTV.jpg?itok=NVaX2Q5V" group-title="IND HINDI",Utv Action (2)
 http://otv.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/amp_metadata_content_image_min_696px_wide/public/images/story/2011/12/01/UTV.jpg?itok=NVaX2Q5V" group-title="IND HINDI",Utv Action (3)
-http://89.187.169.204:2200/R-EX/HINDI_UTV_ACTION-in/tracks-v1a1/mono.m3u8?token=
+http://dx3.gcdn.co/hindi-UTVACTION/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2F20160517212023858398_20110425021810_UTV_bindass_whatIM_460.gif&h=630&w=1200&q=75&v=20170226&c=1" group-title="IND HINDI",Utv Bindass
 http://185.59.222.234:2200/R-EX/HINDI_BINDAS_MOVIES-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2017/09/UTV_MOVIES_LOGO_7.jpg&w=620&h=350&zc=1&q=100" group-title="IND HINDI",Utv Movies 
-http://198.255.87.59:8080/INDIA_HINDI/UTV_MOVIES/tracks-v1a1/mono.m3u8?token=test
+http://dx3.gcdn.co/hindi-UTVMOVIES/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/utv-hd-logo-300x300.jpg" group-title="IND HINDI",UTV HD
 http://198.255.87.59:8080/INDIA_HINDI/UTV_HD/tracks-v1a1/mono.m3u8?token=test
@@ -1170,73 +1176,74 @@ http://194.54.183.122:8000/play/a01m
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/z1x8j5OWyBbl7YNLeJUK3uKn5B4=/filters:quality(90)/vidio-web-prod-channel/uploads/channel/image/219201/fox-crime-035db1.jpg" group-title="IND HINDI",Fox Crime (2)
 http://136.243.177.164/FOXCRIME/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",Manoranjan Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="IND HINDI",Manoranjan Tv
 https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",Manoranjan Movie 
+#EXTINF:-1 tvg-logo="https://ihut.live/wp-content/uploads/2020/03/Monoronjon-Movies-768x456.jpg" group-title="IND HINDI",Manoranjan Movie 
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",Care World
+#EXTINF:-1 tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/display_665x429/public/images/story/2013/05/17/care1.jpg?itok=seCVjHsw" group-title="IND HINDI",Care World
 http://103.204.164.136:1935/live/smil:careworld.smil/playlist.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",AXN
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/870/870885.png" group-title="IND HINDI",AXN
 https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",STAR WORLD HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="IND HINDI",STAR WORLD HD
 http://198.255.87.59:8080/INDIA_ENGLISH/STAR_WORLD_HD/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",B4U Plus
+#EXTINF:-1 tvg-logo="https://b4uplus.com/images/logo.png" group-title="IND HINDI",B4U Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",B4U Movies (1)
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjngTaLAtfJjrOY-PiSWYzOR6ND5S5FTIWLjs36=s900-c-k-c0x00ffffff-no-rj" group-title="IND HINDI",B4U Movies (1)
 http://global.thunderbd.com/45/tracks-v1a1/mono.m3u8
-#EXTINF:-1,B4U Movies (2)
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjngTaLAtfJjrOY-PiSWYzOR6ND5S5FTIWLjs36=s900-c-k-c0x00ffffff-no-rj" group-title="IND HINDI",B4U Movies (2)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.ts
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",B4U Kadak
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="IND HINDI",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",BTV KADAK 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy5gj72S5WbAoyO5b9tgJPX-Yddw3Xfq9N-aTGp=s900-c-k-c0x00ffffff-no-rj" group-title="IND HINDI",BTV KADAK 
 https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvkadak.stream/live-orgin/btvkadak.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",Jhanjar HD
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjz91fksDZ5Ix_yDu9kcuj8t4gngY8_nWg32ICD9g=s900-c-k-c0x00ffffff-no-rj" group-title="IND HINDI",Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",Kappa TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_Omw-rW8O2kqFU-pOBq8at2OoRjP3cO557X2g=s900-c-k-c0x00ffffff-no-rj" group-title="IND HINDI",Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",ABZY MOVIES
+#EXTINF:-1 tvg-logo="https://www.knowledgeskey.com/wp-content/uploads/2020/11/ABZY-Movie-1024x576.jpg" group-title="IND HINDI",ABZY MOVIES
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",BOLLYWOOD HD
+#EXTINF:-1 tvg-logo="https://stvron.com/canale/512/bollywood-tv.png" group-title="IND HINDI",BOLLYWOOD HD
 https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",Bollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="IND HINDI",Bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",Lollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="IND HINDI",Lollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",Kollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="IND HINDI",Kollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in_480p/index.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",Mollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="IND HINDI",Mollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8004.Mollywood.in_480p/index.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="IND BAN",Discovery Bangla (1)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Rm61MgMX0UY/hqdefault.jpg" group-title="IND BAN",Discovery Bangla (1)
 http://otv.ftpbd.net/streams/121/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="" group-title="IND BAN",Discovery Bangla (2)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Rm61MgMX0UY/hqdefault.jpg" group-title="IND BAN",Discovery Bangla (2)
 https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",ZEE HINDUSTAN
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhFd-Hr2Khtqa6gdcu9OGnK6wX6sknaDKTepVky6A=s900-c-k-c0x00ffffff-no-rj" group-title="IND HINDI",ZEE HINDUSTAN
 http://three.somee.com/web.php?e.m3u8&c=hindustan&q=v1a1
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",Zee World
+#EXTINF:-1 tvg-logo="https://trendingmediaafrica.com/wp-content/uploads/2018/05/Zee-World.jpg" group-title="IND HINDI",Zee World
 http://z5amshls.akamaized.net/world/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",SHEMAROO CLASSIC
+#EXTINF:-1 tvg-logo="https://images.assettype.com/afaqs/import/all/news/images/news_story_grfx/2018/54153_1_home_big.jpg?w=1200&h=750" group-title="IND HINDI",SHEMAROO CLASSIC
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",Bollywood Premier
+#EXTINF:-1 tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood-Premiere/5d790527a609d2a47a000004/large_16_9.jpg" group-title="IND HINDI",Bollywood Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI",Shemaroo Hindi TV
+#EXTINF:-1 tvg-logo="https://etimg.etb2bimg.com/photo/75450246.cms" group-title="IND HINDI",Shemaroo Hindi TV
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+
 
 
 
@@ -1247,55 +1254,53 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="PAKISTANI",PakUs TV
+#EXTINF:-1 tvg-logo="https://secureservercdn.net/198.71.233.141/27r.eed.myftpupload.com/wp-content/uploads/2018/03/cropped-PAKUSTV-1-2-300x300.jpg" group-title="PAKISTANI",PakUs TV
 https://livestream.5centscdn.com/pakustv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="" group-title="PAKISTANI",Tag TV
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="" group-title="PAKISTANI",HUM TV HD
+#EXTINF:-1 tvg-logo="https://d3cj74lp9272r8.cloudfront.net/channels/thumbnails/000/000/001/original/hum_channel_icon.png?1505470330" group-title="PAKISTANI",HUM TV HD
 http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="PAKISTANI",Hum News
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029819158622560257/IX7fTqWA_400x400.jpg" group-title="PAKISTANI",Hum News
 http://95.211.211.168/live/humnews0189/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="" group-title="PAKISTANI",Ary Family
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7VHK_YpLdONxi0cwfWKiNziDYu-jtMcTQw&usqp=CAU" group-title="PAKISTANI",Ary Family
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="PAKISTANI",Tag TV (1)
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/77b4eeb83d65677094a11e2b52abd64cfc537ef63286cc111dd0f2f389b4fc0c.png" group-title="PAKISTANI",Tag TV (1)
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PAKISTANI",Tag TV (2)
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/77b4eeb83d65677094a11e2b52abd64cfc537ef63286cc111dd0f2f389b4fc0c.png" group-title="PAKISTANI",Tag TV (2)
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/arBu6Kj.jpg" group-title="PAKISTANI"",Geo News 
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="PAKISTANI"",Dunya News 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="PAKISTANI"",Dunya News (1)
 https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg" group-title="PAKISTANI",Dunya News (2)
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="PAKISTANI",HUMRAZ TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-fIoMzOs7RsWZ1g9Gu_VcXkIqtMca-pbOw&usqp=CAU" group-title="PAKISTANI",HUMRAZ TV
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="PAKISTANI",AVT KHYBER
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/400x300/eb/58/85/eb5885097ebc2302169d7d2dd4153e5b.jpg" group-title="PAKISTANI",AVT KHYBER
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="PAKISTANI",Khyber TV 
+#EXTINF:-1 tvg-logo="https://avtchannels.com/wp-content/uploads/2014/02/khyberme-300x300.png" group-title="PAKISTANI",Khyber TV 
 https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/index_150_av-p.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="PAKISTANI",Khyber News TV
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pk-khyber-news-tv-4017.jpg" group-title="PAKISTANI",Khyber News TV
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="" group-title="PAKISTANI",5aab TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhX0alEEP9E3MKOPrXSJAJtmYtjtF0TaNOkIwdAIA=s900-c-k-c0x00ffffff-no-rj" group-title="PAKISTANI",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="PAKISTANI",Wion Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/WION_news_Logo.svg/1200px-WION_news_Logo.svg.png" group-title="PAKISTANI",Wion Channel
 http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="PAKISTANI",92 News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="PAKISTANI",92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="" group-title="PAKISTANI",Dunya News
-http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8?checkedby:iptvcat.com
+
 
 
 
