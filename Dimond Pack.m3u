@@ -1315,41 +1315,39 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.c
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",Asianet HD
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-LFshxm0LCAo/WIyO8AFq_NI/AAAAAAAADP0/317sR41hbGw5qEP2eQEEY5Jdiwzp3Kx7gCLcB/s1600/1hd.png" group-title="IND TA+TE",Asianet HD
 http://185.246.210.55:2200/R-EX/MALAYALAM_ASIANET_HD-in/tracks-v1a1/mono.m3u8?token=RED_7d1RcuqFGLnmeAAh84SX8w%3D%3D%2C1598036698.0316535914
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",Mazhavil Manorama HD
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/mazhavil-manorama-hd-logo-300x300.jpg" group-title="IND TA+TE",Mazhavil Manorama HD
 https://load.airtelxstream.in/mazhavilmanoramahd/smil:common.smil/chunklist_b896000_sleng.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",Zee Keralam HD
+#EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/uploads/2018/12/Zee-Channel-Logo_Zee-Keralam-HD_280-X-200.jpg" group-title="IND TA+TE",Zee Keralam HD
 http://z5amshls.akamaized.net/livingfoodzhd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",Amrita TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Amrita_TV.svg/1200px-Amrita_TV.svg.png" group-title="IND TA+TE",Amrita TV
 https://load.airtelxstream.in/amritatv/smil:common.smil/chunklist_b364000_sleng.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",Kairali We 
+#EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2008/07/Kairali-We-Tv-Logo.jpg" group-title="IND TA+TE",Kairali We 
 https://load.airtelxstream.in/kairaliwe/smil:common.smil/chunklist_b896000_sleng.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",UBL TV
+#EXTINF:-1 tvg-logo="https://ubltv.ae/images/logo/logo.png" group-title="IND TA+TE",UBL TV
 https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",Darshana TV
+#EXTINF:-1 tvg-logo="https://images.jdmagicbox.com/comp/kozhikode/q1/0495px495.x495.120822153602.s4q1/catalogue/darshana-tv-eranhipalam-kozhikode-satellite-channels-1mt61b3j6q.jpg?clr=#09335d" group-title="IND TA+TE",Darshana TV
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",Kite-Victers
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniSJu-vgWfI1Yoo-jqZhutyzMqBShUCeCA_voYW=s900-c-k-c0x00ffffff-no-rj" group-title="IND TA+TE",Kite-Victers
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",Kaumudy TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwlhJBFXl-VJcUixYc4fYKsoBQHDdbWRTpQKD2TTw=s900-c-k-c0x00ffffff-no-rj" group-title="IND TA+TE",Kaumudy TV
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",Kalaignar TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg" group-title="IND TA+TE",Kalaignar TV
 https://load.airtelxstream.in/kalaignartv/smil:common.smil/chunklist_b364000_sleng.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",Mazhavil Manorama
-http://mhdworld.fun/delta/yuppp.m3u8?id=25796565&e=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",Surya TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Surya_Tv_2014.png" group-title="IND TA+TE",Surya TV 
 https://load.airtelxstream.in/suryatv/smil:common.smil/chunklist_b896000_sleng.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",ZEE TELUGU HD
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-telugu-hd-logo-300x300.jpg" group-title="IND TA+TE",ZEE TELUGU HD
 http://z5amshls.akamaized.net/zeeteleguhd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",MAA GOLD
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyOk_m9dNMS1Vi--94JmJZpA_lY2KqsfsziyQ2w1w=s900-c-k-c0xffffffff-no-rj-mo" group-title="IND TA+TE",MAA GOLD
 http://89.187.169.203:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",MAA HD
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/7322698_preview.png" group-title="IND TA+TE",MAA HD
 http://89.187.169.203:2200/R-EX/TELUGU_STAR_MAA_HD-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",MAA MOVIES
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1302647757048406016/sY_DW9EO_400x400.jpg" group-title="IND TA+TE",MAA MOVIES
 http://89.187.169.203:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",STAR SUVARNA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/StarSuvarnaLogo.jpg" group-title="IND TA+TE",STAR SUVARNA
 http://89.187.169.203:2200/R-EX/KANNADA_STAR_SUVARNA_HD-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",STAR VIJAY FHD BEST
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngnCsyxEU0Q55ltYo7o3143D2plIzbPS0JuRbNpy8w=s900-c-k-c0x00ffffff-no-rj" group-title="IND TA+TE",STAR VIJAY FHD BEST
 http://uk4.zecast.com:1935/star-live/vijayhd1/playlist.m3u8
 
 
@@ -1391,9 +1389,9 @@ http://fastway.ddns.net:6421/fastway/alive/index.m3u8
 http://live.streamplay.in:1935/gospeltv/gospeltv/chunklist_w263209864.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IND TA+TE",IBC Bakthi
 https://ibcbakthi-origin.ibctamil.com/transcode/ibcbakthi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",IBC Comedy
+#EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/45232.png" group-title="IND TA+TE",IBC Comedy
 https://ibccomedy-live.ibctamil.com/transcode/ibccomedy.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND TA+TE",IBC Comedy
+#EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/45232.png" group-title="IND TA+TE",IBC Comedy
 https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IND TA+TE",IBC Kids
 https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8
@@ -1433,46 +1431,41 @@ http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Raj_TV_Tamil.png/250px-Raj_TV_Tamil.png" group-title="Airtel",RajTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Raj_TV_Tamil.png/250px-Raj_TV_Tamil.png" group-title="IND TA+TE",RajTV
 https://load.airtelxstream.in/rajtv/smil:common.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.behindwoods.com/tamil-movies/slideshow/complete-list-of-tamil-tv-channels-price/images/jaya-max.jpg" group-title="Airtel",Jaya MAX
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.behindwoods.com/tamil-movies/slideshow/complete-list-of-tamil-tv-channels-price/images/jaya-max.jpg" group-title="IND TA+TE",Jaya MAX
 https://load.airtelxstream.in/jayamax/smil:common.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/jayaplus.jpg" group-title="Airtel",Jaya Plus
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/jayaplus.jpg" group-title="IND TA+TE",Jaya Plus
 https://load.airtelxstream.in/jayaplus/smil:common.smil/index.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="http://cdn.freedocast.com/yupptv/roku/images/polimer_tv_roku.jpg" group-title="Airtel",Polimer TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn.freedocast.com/yupptv/roku/images/polimer_tv_roku.jpg" group-title="IND TA+TE",Polimer TV
 https://load.airtelxstream.in/polimertv/smil:common.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/raj_digitalplus.jpg" group-title="Airtel",Raj Digital Plus
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/raj_digitalplus.jpg" group-title="IND TA+TE",Raj Digital Plus
 https://load.airtelxstream.in/rajdigitalplus/smil:common.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/200px-Sun_TV_logo.svg.png" group-title="Airtel",Sun TV SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/200px-Sun_TV_logo.svg.png" group-title="IND TA+TE",Sun TV SD
 https://load.airtelxstream.in/suntv/smil:common.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/200px-Sun_TV_logo.svg.png" group-title="Airtel",Sun TV SD NXT
-https://mhdtvworld.live/delta/snxt/snxt.php?id=9016&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg" group-title="Airtel",Sun Life
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg" group-title="IND TA+TE",Sun Life
 https://load.airtelxstream.in/sunlife/smil:common.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/ADITHYA.png" group-title="Airtel",Adithya TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/ADITHYA.png" group-title="IND TA+TE",Adithya TV
 https://load.airtelxstream.in/adithyatv/smil:common.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/discoverytamil-1.png" group-title="Airtel",Discovey Tamil
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/discoverytamil-1.png" group-title="IND TA+TE",Discovey Tamil
 https://streamitv.multitvsolution.in/idvo/discoverytamil_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/sun_kondattam_tv.png" group-title="Airtel",K TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/sun_kondattam_tv.png" group-title="IND TA+TE",K TV
 https://load.airtelxstream.in/ktv/smil:common.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/sun_music.png" group-title="Airtel",Sun Music
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/sun_music.png" group-title="IND TA+TE",Sun Music
 https://load.airtelxstream.in/sunmusic/smil:common.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/kalaignar_new_roku.jpg" group-title="Airtel",Kalaignar TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/kalaignar_new_roku.jpg" group-title="IND TA+TE",Kalaignar TV
 https://load.airtelxstream.in/kalaignartv/smil:common.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/sirippoli_new_roku.jpg" group-title="Airtel",Sirippoli
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/sirippoli_new_roku.jpg" group-title="IND TA+TE",Sirippoli
 https://load.airtelxstream.in/sirippoli/smil:common.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/isaiaruvi_new_roku.jpg" group-title="Airtel",Isaiaruvi
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/isaiaruvi_new_roku.jpg" group-title="IND TA+TE",Isaiaruvi
 https://load.airtelxstream.in/isaiaruvi/smil:common.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/moon.png" group-title="Airtel",Moon TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/moon.png" group-title="IND TA+TE",Moon TV
 https://streamitv.multitvsolution.in/idvo/moontv_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/ibc-1.png" group-title="Airtel",IBC Tamil
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/ibc-1.png" group-title="IND TA+TE",IBC Tamil
 https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/45232.png" group-title="Airtel",IBC Comedy
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/45232.png" group-title="IND TA+TE",IBC Comedy
 https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="Airtel",Akaram Mix
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="IND TA+TE",Akaram Mix
 http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
 
 
