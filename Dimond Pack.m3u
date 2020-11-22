@@ -1236,7 +1236,7 @@ http://otv.ftpbd.net/streams/121/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Rm61MgMX0UY/hqdefault.jpg" group-title="IND BAN",Discovery Bangla (2)
 https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhFd-Hr2Khtqa6gdcu9OGnK6wX6sknaDKTepVky6A=s900-c-k-c0x00ffffff-no-rj" group-title="IND HINDI",ZEE HINDUSTAN
-http://three.somee.com/web.php?e.m3u8&c=hindustan&q=v1a1
+https://load.airtelxstream.in/zeehindustan/smil:common.smil/chunklist.smil.m3u8
 #EXTINF:-1 tvg-logo="https://trendingmediaafrica.com/wp-content/uploads/2018/05/Zee-World.jpg" group-title="IND HINDI",Zee World
 http://z5amshls.akamaized.net/world/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.assettype.com/afaqs/import/all/news/images/news_story_grfx/2018/54153_1_home_big.jpg?w=1200&h=750" group-title="IND HINDI",SHEMAROO CLASSIC
@@ -1273,10 +1273,10 @@ http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/77b4eeb83d65677094a11e2b52abd64cfc537ef63286cc111dd0f2f389b4fc0c.png" group-title="PAKISTANI",Tag TV (2)
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/arBu6Kj.jpg" group-title="PAKISTANI"",Geo News 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/arBu6Kj.jpg" group-title="PAKISTANI",Geo News 
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="PAKISTANI"",Dunya News (1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="PAKISTANI",Dunya News (1)
 https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg" group-title="PAKISTANI",Dunya News (2)
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
@@ -2552,7 +2552,7 @@ http://vod.tsvipsmart.eu/turkishcinemamovies/Cocuk/Tom.and.Jerry.Willy.Wonka.and
 #EXTINF:-1 tvg-logo="" group-title="Music",Jhankar TV
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/live-orgin/jhankartv.stream/chunks.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="" group-title="Music",RTV Music
-http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8?Live-TV™
+http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="" group-title="Music",ATN Music
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="" group-title="Music",Punjabi Tv
@@ -2573,8 +2573,10 @@ http://103.205.133.50/hls/9xm.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="" group-title="Music",Music Mastii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="" group-title="Music",B4U Music
+#EXTINF:-1 tvg-logo="" group-title="Music",B4U Music (1)
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8?Live-TV™
+#EXTINF:-1 tvg-logo="" group-title="Music",B4U Music (2)
+http://dx3.gcdn.co/hindi-B4UMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Zee ETC
 http://dx3.gcdn.co/hindi-ZEEETC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Zing (1)
@@ -2591,8 +2593,12 @@ https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8?Live-TV™
 http://global.thunderbd.com/60/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq-4r-ZuNu9rzP0P95YJ_-glDatM1VqLZiGpgpBqA9dWWZmIb1&usqp=CAU" group-title="Music",Joo Music
 https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",128.Bhojpuri Hungama
+#EXTINF:-1 tvg-logo="" group-title="Music",Bhojpuri Hungama
 https://live.hungama.com/linear/dhamaal/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Sangeet Bhojpuri
+https://m-c01-j2apps.s.llnwi.net/hls/0432.SangeetBhojpuri.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Sangeet Marathi 
+http://103.141.66.36/bpk-tv/10334/default/manifest.mpd?=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="" group-title="Music",Pop पटाखा
