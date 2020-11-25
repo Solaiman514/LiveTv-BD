@@ -1,1 +1,1852 @@
-ajj
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7"lang=en>
+   <![endif]--><!--[if IE 7]>
+   <html class="no-js lt-ie9 lt-ie8"lang=en>
+      <![endif]--><!--[if IE 8]>
+      <html class="no-js lt-ie9"lang=en>
+         <![endif]--><!--[if gt IE 8]><!-->
+         <html class=no-js lang=zxx>
+			<head>
+            <meta charset=utf-8>
+            <meta content="ie=edge" http-equiv=x-ua-compatible>
+            <title>C1Live Stream | Watch TV Online</title>
+            <meta content="" name=description>
+            <meta content="width=device-width,initial-scale=1" name=viewport>
+			<meta property="og:title" content="Live Stream | Watch TV Online">
+			<meta property="og:site_name" content="BDIX Live">
+			<meta property="og:url" content="http://bdiptv.com">
+			<meta property="og:description" content="Your Ultimate Entertainer">
+			<meta property="og:type" content="website">
+			<meta property="og:image" content="logo.png">
+            <link href=favicon.ico rel="shortcut icon" type=image/x-icon>
+            <link href=favicon.ico rel=icon type=image/x-icon>
+            <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700" rel=stylesheet>
+            <link href=css/icofont.css rel=stylesheet>
+            <link href=css/bootstrap.min.css rel=stylesheet>
+			<link href=css/owl.carousel.min.css rel=stylesheet>
+            <link href=css/style.css rel=stylesheet>
+            <link href=css/responsive.css rel=stylesheet>
+
+			</script>
+            <!--[if lt IE 9 ]><script src=js/modernizr-3.5.0.min.js></script><![endif]-->
+			</head>
+            <body class="bg-img body-bg">
+               <!--[if lte IE 9]>
+               <p class=browserupgrade>
+                  You are using an <strong>outdated</strong> browser. Please <a href=https://browsehappy.com/ >upgrade your browser</a> to improve your experience and security.<![endif]-->
+               <div class=preloader-wrap>
+                  <div class=preloader><span></span> <span></span> <span></span> <span></span></div>
+               </div>
+               <div class="line-effect line-bg-1"></div>
+               <div class="line-effect line-bg-2"></div>
+               <div class="line-effect line-bg-3"></div>
+               <div class="bg-img color-blue main-container">
+                  <header class="main-header" style="margin-bottom: 15px;">
+                     <div class=container>
+                        <div class="clearfix row">
+                           <div class="pull-right clearfix col-xs-2 exs-full-width">
+                              </div>
+                           </div>
+                           <div class="col-xs-3 exs-full-width">
+					<div class=logo><a href="index.html"><img alt=Logo src=img/logo.png></a></div>
+                           </div>
+                     
+							<div class="col-xs-9 exs-full-width">
+
+
+                           </div>
+                     </div>
+                  </header>
+                  <div class="main-body">
+                     <div class=container>					 
+                        
+                          <div class=col-md-12>
+                              <div class="col-md-3 hidden-xs noleftpadding">
+							  
+
+               <div class="panel panel-default" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); ">
+                <div class="panel-heading c-list">
+                    
+                    <span class="title" >Channel List - (130)</span>					
+				<input type="text" class="search-hover pull-right" name="" placeholder="search..."></div><ul class="list-group" id="contact-list" style="overflow-y: scroll;">
+				
+				
+		
+<!-------------------------------------------||| BD Channel Web |||---------------------------------------------------->
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/ipl/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/Live.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Live Sports</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+               
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-gazitv.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/gtv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Gazi TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+	
+	
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-somoy.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/somoytv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Somoy TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+               
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-channeli.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/channeli.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Channel I</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>              
+               
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-ekattor.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/ekattortv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Ekattor</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+               
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-ntv.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/ntv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">NTV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-channel9.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/channel9.jpg" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Channel 9</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-independent.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/independent.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Independent</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-rtv.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/rtv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">RTV Bangla</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-deepto.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/deeptotv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Deepto TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-dbc.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/dbcnews.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">DBC News</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-nagorik.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/nagoriktv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Nagorik TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-bnvision.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/banglavision.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Bangla Vision</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-atnnews.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/atnnews.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">ATN News</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-satv.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/satv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">SA TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-btv.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/btvworld.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">BTV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>					
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-banglatv.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/banglatv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Bangla TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-jamuna.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/jamunatv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Jamuna TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-channel24.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/channel24.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Channel 24</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-news24.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/news24.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">News 24</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-atnbn.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/atnbangla.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">ATN Bangla</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-boishakhi.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/boishakhitv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Boishakhi</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-ekushey.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/ekushey.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Ekushey TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-gaanban.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/gannbangla.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Gaan Bangla</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-asiantv.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/asiantv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Asian TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+               
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-Maasranga.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/maasranga.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Maasranga</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-duronto.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/duronto.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Duronto TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-deshtv.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/deshtv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Desh TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-mytv.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/mytv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">MY TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-mohona.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/mohonatv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Mohona TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/bd-peacetv.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/peacetv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Peace TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+<!-------------------------------------------||| Kolkata TV Web |||---------------------------------------------------->
+
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/kb-zeebangla.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/zeebangla.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Zee Bangla</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/kb-starjalsa.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/starjalsha.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Star Jalsa</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/kb-jalshamovies.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/jalshamovies.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Jalsha Movies</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/kb-colorsbangla.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/colorsbangla.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Colors Bangla</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/kb-sangeetbangla.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/sangeetbangla.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Sangeet Bangla</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/kb-zeebanglacinema.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/zeebanglacinema.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Zee Bangla Cinema</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/kb-dhoom.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/dhoom.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Dhoom Music</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+<!-------------------------------------------||| Sports TV Web |||---------------------------------------------------->
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/sp-sonysix.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/sonysix.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Sony Six</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/sp-sonyespn.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/sonyespn.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Sony Espn</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/sp-ten1.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/ten1.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Ten 1</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/sp-ten2.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/ten2.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Ten 2</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/sp-ten3.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/ten3hd.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Ten 3</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/sp-starsports1.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/starsports1.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Star Sports</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/sp-ptv.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/ptvsports.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">PTV Sports</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+<!-------------------------------------------||| Hindi TV Web |||---------------------------------------------------->
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-mtunes.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/mtunes.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Music Xpress</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-bindass.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/bollywood.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Hungama Music</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-b4u.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/b4u.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">B4u Music</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-zoom.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/zoom.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Zoom Music</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-zetc.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/zeeetc.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Zee Etc</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-mtv.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/musicmasti.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Music Masti</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-9xm.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/9xo.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">9x Music</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-zeecinema.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/zeecinemahd.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Zee Cinema</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-andpics.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/andpic.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">And Pictures</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+										
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-starplus.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/starplus.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Star Plus</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+										
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-colors.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/colors.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Colors TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-sony.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/sonytv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Sony TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-zeetv.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/zeetv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Zee TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-lifeok.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/starbharat.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Star Bharat</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-zing.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/zing.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Zing</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-andtv.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/andtv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">And TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>						
+										
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-zeeclassic.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/zeeclassic.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Zee Classic</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>					
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-sonymax.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/sonymaxhd.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Sony Max</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>		
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-stargold.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/stargold.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Star Gold</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-rishteycineplex.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/rishteycineplex.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Rishtey Cineplex</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-b4umovies.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/b4umovies.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">B4U Movies</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-moviesok.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/bflix.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">BFlix Movies</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/in-9xjalwa.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/9xjalwa.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">9x Jalwa</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+
+<!-------------------------------------------||| English TV Web |||---------------------------------------------------->
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/en-discovery.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/discovery.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Discovery</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/en-starmovies.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/starmovies.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Star Movies</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>					
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/en-andflix.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/andflix.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">And Flix</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/en-andprive.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/andprive.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">And Prive</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/en-hbo.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/hbo.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">HBO</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/en-sonypix.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/sonypix.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Sony Pix</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/en-starworld.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/starworld.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Star World</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/en-animalplanet.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/animalplanet.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Animal Planet</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/en-natgeo.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/natgeo.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Nat Geo</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>						
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/en-nick.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/nick.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Nick</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/en-cn.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/cartoonnetwork.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Cartoon Network</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="tv/en-aljajira.php">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/aljazeera.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">AlJazeera News</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>					
+
+<!-------------------------------------------||| New Channel |||---------------------------------------------------->
+
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/deshbideshe/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/deshebideshe.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Deshe Bideshe</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>                   
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/nandan/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/nandan.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Nandan TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+               
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/nrb/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/nrb.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">NRB Bangla</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>  
+
+               	   <li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/atnislamic/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/atnislamic.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">ATN Islamic</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+               
+               	   <li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/channels/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/channels.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Channel S</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+               
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/iqra/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/iqra.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Iqra TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>                   
+ 
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/timestv/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/timestv.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Times TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>       
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/moviebangla/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/moviebangla.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Movie Bangla</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/sonyaath/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/sonyaath.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Sony Aath</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/skycricket/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/skycricket.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Sky Cricket</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>						
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/skymain/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/skymain.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Sky Sports</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/willow/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/willow.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Willow HD</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/skyfootball/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/skyfootball.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Sky Football 1</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/sky-football/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/skypremier.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Sky Football 2</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>					
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/bein-usa/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/bein.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Bein Sports</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/BeinSports1/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/bein1.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Bein Sports 1</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/BeinSports2/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/bein2.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Bein Sports 2</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/BeinSports3/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/bein3.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Bein Sports 3</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>					
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/BeinSports4/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/bein4.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Bein Sports 4</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>		
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/bein-laliga/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/bein5.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Bein Sports 5</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>									
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/osn-cricket/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/osn.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Osn Cricket</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/starselect1/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/starsportsselect1.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Star Select 1</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/geosuper/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/geosuper.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Geo super</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/dsports/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/dsports.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">D Sport</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>						
+
+<!-------------------------------------------------------------------------
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/starselect2/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/starsportsselect2.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Star Select 2</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	
+
+---------------------------------------------------------------------------->
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/history/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/history.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">History Channel</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>					
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/mnx/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/mnx.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">MNX Movies</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/moviesnow/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/moviesnow.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Movies Now</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	
+
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/romedy/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/romedy.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Romedy</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/dubaione/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/dubaione.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Dubai One</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	
+               
+ 					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/lotustv/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/lotus.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Lotus TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+					
+					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/foxmovies/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/fox-movies.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">Fox Movies</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>
+               
+ 					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/CGNTnews/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/cgtn.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">CGTN TV</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	               
+               
+ 					<li class="list-group-item"><a class="playignitor vertical-align" target="play" href="player.php?http://c1live.com:8081/c1-play/dwnews/playlist.m3u8">
+                        <div class="col-xs-12 col-sm-6">
+                            <img src="img/channels/dwnews.png" alt="tvlogo" class="img-responsive" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <span class="name">DW News</span><img class="playicon" src="img/play.gif">                      
+                        </div>
+                        <div class="clearfix"></div>
+                        </a>
+                    </li>	 
+     
+					
+				</ul>
+            </div>
+		</div>				 
+ 						  
+<div id="playerholder" class="col-md-9 embed-responsive embed-responsive-16by9" style="background: black; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);padding: 0;"> 
+
+<iframe class="embed-responsive-item" name="play" src="tv/bd-gazi.php" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen="yes">Browser not supported! Please check from different browser or change device. Thanks</iframe>
+								 
+          </div>
+		</div>
+		
+						   
+<div class='col-md-12'>
+      <div class="owl-carousel" style="box-shadow: 0 -6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); ">  
+	  	  
+	  
+<!---------------------------------------- Channel Logo Part 2 | Mobile User -------------------------------------------------------->	  
+         
+                  
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/ipl/playlist.m3u8"><img alt="" src="img/channels/ipl.png"></a>                  
+                        </div>
+      
+     				<div class="item"><a target="play" class="thumbnail" href="tv/bd-gazitv.php"><img alt="" src="img/channels/gtv.png"></a>                  
+                        </div>						
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-somoy.php"><img alt="" src="img/channels/somoytv.png"></a>
+                        </div>
+						
+						
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-channel9.php"><img alt="" src="img/channels/channel9.jpg"></a>
+                        </div>
+						
+						
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-independent.php"><img alt="" src="img/channels/independent.png"></a>
+                        </div>
+						
+						
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-Maasranga.php"><img alt="" src="img/channels/maasranga.png"></a>
+                        </div>
+						
+						
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-rtv.php"><img alt="" src="img/channels/rtv.png"></a>
+                        </div>
+						
+						
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-channeli.php"><img alt="" src="img/channels/channeli.png"></a>
+                        </div>
+						
+						
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-deepto.php"><img alt="" src="img/channels/deeptotv.png"></a>
+                        </div>
+						
+						
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-dbc.php"><img alt="" src="img/channels/dbcnews.png"></a>
+                        </div>
+						
+						
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-nagorik.php"><img alt="" src="img/channels/nagoriktv.png"></a>
+                        </div>
+						
+						
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-bnvision.php"><img alt="" src="img/channels/banglavision.png"></a>
+                        </div>
+						
+						
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-ntv.php"><img alt="" src="img/channels/ntv.png"></a>
+                        </div>
+						
+						
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-atnnews.php"><img alt="" src="img/channels/atnnews.png"></a>
+                        </div>
+						
+						
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-ekattor.php"><img alt="" src="img/channels/ekattortv.png"></a>
+                        </div>
+						
+						
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-satv.php"><img alt="" src="img/channels/satv.png"></a>
+                        </div>
+						
+						
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-btv.php"><img alt="" src="img/channels/btvworld.png"></a>
+                        </div>									
+						
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-banglatv.php"><img alt="" src="img/channels/banglatv.png"></a>
+                        </div>
+						
+						
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-jamuna.php"><img alt="" src="img/channels/jamunatv.png"></a>
+                        </div>
+						
+						
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-channel24.php"><img alt="" src="img/channels/channel24.png"></a>
+                        </div>
+						
+						
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-news24.php"><img alt="" src="img/channels/news24.png"></a>
+                        </div>
+						
+						
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-atnbn.php"><img alt="" src="img/channels/atnbangla.png"></a>
+                        </div>
+						
+						
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-boishakhi.php"><img alt="" src="img/channels/boishakhitv.png"></a>
+                        </div>
+						
+						
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-ekushey.php"><img alt="" src="img/channels/ekushey.png"></a>
+                        </div>
+						
+						
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-gaanban.php"><img alt="" src="img/channels/gannbangla.png"></a>
+                        </div>
+						
+						
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-asiantv.php"><img alt="" src="img/channels/asiantv.png"></a>
+                        </div>
+						
+						
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-duronto.php"><img alt="" src="img/channels/duronto.png"></a>
+                        </div>
+						
+						
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-deshtv.php"><img alt="" src="img/channels/deshtv.png"></a>
+                          </div>
+						
+						
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-mytv.php"><img alt="" src="img/channels/mytv.png"></a>
+                        </div>
+						
+						
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-mohona.php"><img alt="" src="img/channels/mohonatv.png"></a>
+                        </div>
+						
+						
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/bd-peacetv.php"><img alt="" src="img/channels/peacetv.png"></a>
+                        </div>
+						
+
+<!-------------------------------------------||| Kolkata TV Mob |||---------------------------------------------------->
+
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/kb-zeebangla.php"><img alt="" src="img/channels/zeebangla.png"></a>                  
+                        </div>
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/kb-starjalsa.php"><img alt="" src="img/channels/starjalsha.png"></a>                  
+                        </div>
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/kb-jalshamovies.php"><img alt="" src="img/channels/jalshamovies.png"></a>                  
+                        </div>
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/kb-colorsbangla.php"><img alt="" src="img/channels/colorsbangla.png"></a>                  
+                        </div>
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/kb-sangeetbangla.php"><img alt="" src="img/channels/sangeetbangla.png"></a>                  
+                        </div>
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/kb-zeebanglacinema.php"><img alt="" src="img/channels/zeebanglacinema.png"></a>                  
+                        </div>
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/kb-dhoom.php"><img alt="" src="img/channels/dhoom.png"></a>                  
+                        </div>
+
+
+
+<!-------------------------------------------||| Sports TV Mob |||---------------------------------------------------->
+
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/sp-sonysix.php"><img alt="" src="img/channels/sonysix.png"></a>                  
+                        </div>	
+						
+					<div class="item"><a target="play" class="thumbnail" href="tv/sp-sonyespn.php"><img alt="" src="img/channels/sonyespn.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/sp-ten1.php"><img alt="" src="img/channels/ten1.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/sp-ten2.php"><img alt="" src="img/channels/ten2.png"></a>                  
+                        </div>	
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/sp-ten3.php"><img alt="" src="img/channels/ten3hd.png"></a>                  
+                        </div>	
+						
+					<div class="item"><a target="play" class="thumbnail" href="tv/sp-starsports1.php"><img alt="" src="img/channels/starsports1.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/sp-ptv.php"><img alt="" src="img/channels/ptvsports.png"></a>                  
+                        </div>	
+					
+<!-------------------------------------------||| Hindi TV Mob |||---------------------------------------------------->
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-mtunes.php"><img alt="" src="img/channels/mtunes.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-bindass.php"><img alt="" src="img/channels/bollywood.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-b4u.php"><img alt="" src="img/channels/b4u.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-zoom.php"><img alt="" src="img/channels/zoom.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-zetc.php"><img alt="" src="img/channels/zeeetc.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-mtv.php"><img alt="" src="img/channels/musicmasti.png"></a>                  
+                        </div>	
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-9xm.php"><img alt="" src="img/channels/9xo.png"></a>                  
+                        </div>	
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-zeecinema.php"><img alt="" src="img/channels/zeecinemahd.png"></a>                  
+                        </div>	
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-andpics.php"><img alt="" src="img/channels/andpic.png"></a>                  
+                        </div>	
+										
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-starplus.php"><img alt="" src="img/channels/starplus.png"></a>                  
+                        </div>	
+										
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-colors.php"><img alt="" src="img/channels/colors.png"></a>                  
+                        </div>	
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-sony.php"><img alt="" src="img/channels/sonytv.png"></a>                  
+                        </div>							
+						
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-zeetv.php"><img alt="" src="img/channels/zeetv.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-lifeok.php"><img alt="" src="img/channels/starbharat.png"></a>                  
+                        </div>	
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-zing.php"><img alt="" src="img/channels/zing.png"></a>                  
+                        </div>	
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-andtv.php"><img alt="" src="img/channels/andtv.png"></a>                  
+                        </div>					
+										
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-zeeclassic.php"><img alt="" src="img/channels/zeeclassic.png"></a>                  
+                        </div>	
+						
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-sonymax.php"><img alt="" src="img/channels/sonymaxhd.png"></a>                  
+                        </div>	
+						
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-stargold.php"><img alt="" src="img/channels/stargold.png"></a>                  
+                        </div>	
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-rishteycineplex.php"><img alt="" src="img/channels/rishteycineplex.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-b4umovies.php"><img alt="" src="img/channels/b4umovies.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-moviesok.php"><img alt="" src="img/channels/bflix.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/in-9xjalwa.php"><img alt="" src="img/channels/9xjalwa.png"></a>                  
+                        </div>	
+						
+<!-------------------------------------------||| English TV Mobile |||---------------------------------------------------->
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/en-discovery.php"><img alt="" src="img/channels/discovery.png"></a>                  
+                        </div>	
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/en-starmovies.php"><img alt="" src="img/channels/starmovies.png"></a>                  
+                        </div>	
+						
+					<div class="item"><a target="play" class="thumbnail" href="tv/en-andflix.php"><img alt="" src="img/channels/andflix.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/en-andprive.php"><img alt="" src="img/channels/andprive.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/en-hbo.php"><img alt="" src="img/channels/hbo.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/en-sonypix.php"><img alt="" src="img/channels/sonypix.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/en-starworld.php"><img alt="" src="img/channels/starworld.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/en-animalplanet.php"><img alt="" src="img/channels/animalplanet.png"></a>                  
+                        </div>	
+					
+					<div class="item"><a target="play" class="thumbnail" href="tv/en-natgeo.php"><img alt="" src="img/channels/natgeo.png"></a>                  
+                        </div>					
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/en-nick.php"><img alt="" src="img/channels/nick.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/en-cn.php"><img alt="" src="img/channels/cartoonnetwork.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/en-bbc.php"><img alt="" src="img/channels/bbcnews.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="tv/en-aljajira.php"><img alt="" src="img/channels/aljazeera.png"></a>                  
+                        </div>							
+
+						
+<!-------------------------------------------||| New Channel |||---------------------------------------------------->
+
+										
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/nrb/playlist.m3u8"><img alt="" src="img/channels/nrb.png"></a>                  
+                        </div>	       
+
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/deshbideshe/playlist.m3u8"><img alt="" src="img/channels/deshebideshe.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/nandan/playlist.m3u8"><img alt="" src="img/channels/nandan.png"></a>                  
+                        </div>	
+					
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/iqra/playlist.m3u8"><img alt="" src="img/channels/iqra.png"></a>                  
+                        </div>	   
+ 
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/timestv/playlist.m3u8"><img alt="" src="img/channels/timestv.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/moviebangla/playlist.m3u8"><img alt="" src="img/channels/moviebangla.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/sonyaath/playlist.m3u8"><img alt="" src="img/channels/sonyaath.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/geosuper/playlist.m3u8"><img alt="" src="img/channels/geosuper.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/dsports/playlist.m3u8"><img alt="" src="img/channels/dsports.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/skycricket/playlist.m3u8"><img alt="" src="img/channels/skycricket.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/skymain/playlist.m3u8"><img alt="" src="img/channels/skymain.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/willow/playlist.m3u8"><img alt="" src="img/channels/willow.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/skyfootball/playlist.m3u8"><img alt="" src="img/channels/skyfootball.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/sky-football/playlist.m3u8"><img alt="" src="img/channels/skypremier.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/bein-usa/playlist.m3u8"><img alt="" src="img/channels/bein.png"></a>                  
+                        </div>	
+						
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/BeinSports1/playlist.m3u8"><img alt="" src="img/channels/bein1.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/BeinSports2/playlist.m3u8"><img alt="" src="img/channels/bein2.png"></a>                  
+                        </div>	
+						
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/BeinSports3/playlist.m3u8"><img alt="" src="img/channels/bein3.png"></a>                  
+                        </div>		
+
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/BeinSports4/playlist.m3u8"><img alt="" src="img/channels/bein4.png"></a>                  
+                        </div>	
+					
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/bein-laliga/playlist.m3u8"><img alt="" src="img/channels/bein5.png"></a>                  
+                        </div>				
+
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/osn-cricket/playlist.m3u8"><img alt="" src="img/channels/osn.png"></a>                  
+                        </div>	
+					
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/starselect1/playlist.m3u8"><img alt="" src="img/channels/starsportsselect1.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/starselect2/playlist.m3u8"><img alt="" src="img/channels/starsportsselect2.png"></a>                  
+                        </div>	
+					
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/history/playlist.m3u8"><img alt="" src="img/channels/history.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/mnx/playlist.m3u8"><img alt="" src="img/channels/mnx.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/moviesnow/playlist.m3u8"><img alt="" src="img/channels/moviesnow.png"></a>                  
+                        </div>	
+
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/romedy/playlist.m3u8"><img alt="" src="img/channels/romedy.png"></a>                  
+                        </div>	
+					
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/dubaione/playlist.m3u8"><img alt="" src="img/channels/dubaione.png"></a>                  
+                        </div>	
+               
+ 					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/lotustv/playlist.m3u8"><img alt="" src="img/channels/lotus.png"></a>                  
+                        </div>	
+					
+					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/foxmovies/playlist.m3u8"><img alt="" src="img/channels/fox-movies.png"></a>                  
+                        </div>	
+               
+ 					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/CGNTnews/playlist.m3u8"><img alt="" src="img/channels/cgtn.png"></a>                  
+                        </div>	 
+               
+ 					<div class="item"><a target="play" class="thumbnail" href="player.php?http://c1live.com:8081/c1-play/dwnews/playlist.m3u8"><img alt="" src="img/channels/dwnews.png"></a>                  
+                        </div>	
+     
+					
+
+
+        </div>
+                              
+    <a id="prev" href="javascript:void(0)" class="left carousel-control customPrevBtn">‹</a>
+        <a id="next" href="javascript:void(0)" class="right carousel-control customNextBtn">›</a>
+  </div>
+
+                           
+</div>
+                        
+                     </div>
+                  
+
+                  <footer class="main-footer">
+                     <div class=container>
+                        <div class=row>
+                           <div class=col-md-5>
+                              <div class="footer-content">
+                                 <div class="footer-left">			
+			<a type="submit" onClick="window.location.reload()" >Refresh</a>
+                                 </div>
+                              </div>
+                           </div>
+								<div class=col-md-4>
+                              <div class="footer-content">
+                                 <div class="footer-middle">
+                                    <ul class="list-inline">
+
+
+</ul>
+
+                                 </div>
+                              </div>
+                           </div>
+                           <div class=col-md-3>
+                              <div class="footer-content pull-right">
+                                 <div class="footer-right">
+                                    <ul class="list-inline footer-menu">
+                                       <li><a href=# data-toggle=modal data-target=#helpme>Help</a>                                   
+
+                                    </ul>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </footer>
+
+               </div>
+
+               <div class="fade modal" id=helpme role=dialog aria-labelledby=helpmeLabel tabindex=-1>
+                  <div class=modal-dialog role=document>
+                     <div class=modal-content>
+                        <div class=modal-header>
+                           <button class=close type=button data-dismiss=modal aria-label=Close><span aria-hidden=true>×</span></button>
+                           <h3 class=text-center id=helpmeLabel>Help</h3>
+                        </div>
+                        <div class=modal-body>
+                           <p>Please Wait 10-30 second after clicking a channel to Load the Video.</p>
+                           <p>Channel not working:  Please refresh channel or try after few moments.</p>
+                           <p>Can't Find Channel:  Please click search and type channel name.</p>
+						</div>
+                        <div class=modal-footer>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+ 
+			   
+  <!--[if lt IE 8]><script src=js/modernizr-3.5.0.min.js></script><![endif]-->
+<script src=js/jquery-3.2.1.min.js></script>
+<script src=js/bootstrap.min.js></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/jquery.searchable-1.1.0.min.js"></script>
+<script src=js/scripts.js></script>
+<script src=js/offrightclick.js language="JavaScript"></script>
+<script src=js/inspect.js language="JavaScript"></script>
