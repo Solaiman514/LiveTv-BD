@@ -1576,7 +1576,7 @@ https://load.airtelxstream.in/sonyten1/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-1-logopedia-fandom-sony-ten-2-png-650_390.jpg" group-title="Sports",Sony Ten 1 HD (3)
 http://otv.ftpbd.net/streams/105/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-1-logopedia-fandom-sony-ten-2-png-650_390.jpg" group-title="Sports",Sony Ten 1 HD (4)
-http://103.205.133.21/hls/ten1.m3u8
+http://103.205.133.20/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-1-logopedia-fandom-sony-ten-2-png-650_390.jpg" group-title="Sports",Sony Ten 1 HD (5)
 http://dx3.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8
 
@@ -1586,7 +1586,7 @@ https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/wdtPuJQ0dFLB4jOSWoT-wtuJnO0A9tfe45LUucvzPHoN1IxtLjqAdqkZqBpqpEmwhJ3K5bQM58GYJN0v0NVQui_S9bYevHk8RodW0Q" group-title="Sports",Sony Ten 2 HD (2)
 http://otv.ftpbd.net/streams/112/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/wdtPuJQ0dFLB4jOSWoT-wtuJnO0A9tfe45LUucvzPHoN1IxtLjqAdqkZqBpqpEmwhJ3K5bQM58GYJN0v0NVQui_S9bYevHk8RodW0Q" group-title="Sports",Sony Ten 2 HD (3)
-http://103.205.133.21/hls/ten2.m3u8
+http://103.205.133.20/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/wdtPuJQ0dFLB4jOSWoT-wtuJnO0A9tfe45LUucvzPHoN1IxtLjqAdqkZqBpqpEmwhJ3K5bQM58GYJN0v0NVQui_S9bYevHk8RodW0Q" group-title="Sports",Sony Ten 2 HD (4)
 http://dx3.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
 
@@ -1595,7 +1595,7 @@ https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-live-streaming-watch-online-sony-ten-png-810_456.png" group-title="Sports",Sony Ten 3 HD (2)
 https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-live-streaming-watch-online-sony-ten-png-810_456.png" group-title="Sports",Sony Ten 3 HD (3)
-http://103.205.133.21/hls/ten3.m3u8
+http://103.205.133.20/hls/ten3.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-live-streaming-watch-online-sony-ten-png-810_456.png" group-title="Sports",Sony Ten 3 HD (4)
 http://dx3.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
 
@@ -1619,9 +1619,9 @@ http://113.212.111.246:8080/hls/col2.m3u8
 http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/technosports.co.in/wp-content/uploads/2020/10/timthumb.jpg?fit=620%2C350&ssl=1" group-title="Sports",Star Sports 1 Hindi (1)
-http://103.205.133.21/hls/chss1.m3u8
+http://103.205.133.20/hls/chss1.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/technosports.co.in/wp-content/uploads/2020/10/timthumb.jpg?fit=620%2C350&ssl=1" group-title="Sports",Star Sports 1 Hindi (2)
-http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87305
+http://dx3.gcdn.co/STARSPORTS3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/technosports.co.in/wp-content/uploads/2020/10/timthumb.jpg?fit=620%2C350&ssl=1" group-title="Sports",Star Sports 1 Hindi (3)
 https://tivimateplaylists.live/starsportshindin
 
@@ -1649,7 +1649,7 @@ http://otv.ftpbd.net/streams/113/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sports",Star S 1 Sel. (2)
 http://global.thunderbd.com/27/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sports",Star S 1 Sel. (3)
-https://ahmadabdullahrifat.shortcm.li/starsportsselect1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sports",Star S 2 Sel. (1)
 http://otv.ftpbd.net/streams/114/index.m3u8?Live-TV™
@@ -1658,7 +1658,7 @@ http://global.thunderbd.com/28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sports",Star S 2 Sel. (3)
 http://103.102.136.106:8080/cmcltv/livesports.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sports",Star S 2 Sel. (4)
-http://bdvisioniptv.ddns.net:25461/live/sajeeb33/P288/198.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/o3FgKBkQ1Z6Ml5Z4Jynt6b5ZToYrljp7k3ajBxdUJlOLckqIc2eANK8tFFdH8i2Bgge1FY3C7sab82NlNapXf2rNPfLPbFaMpEzPn5_2Jf1kR4EYXw" group-title="Sports",Titas Sports
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
@@ -1704,16 +1704,16 @@ http://54.37.82.205:8081/liveorigin/hd-tsport3_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",true sports 4 HD
 http://54.37.82.205:8081/liveorigin/hd-tsport4_720/playlist.m3u8
 
-#EXTINF:-1,BT Sports 1
+#EXTINF:-1o="" group-title="Sports",BT Sports 1
 http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 
-#EXTINF:-1,BT Sports 2
+#EXTINF:-1o="" group-title="Sports",BT Sports 2
 http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
 
-#EXTINF:-1,BT Sports 3
+#EXTINF:-1o="" group-title="Sports",BT Sports 3
 http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
 
-#EXTINF:-1,BT Sports ESPN
+#EXTINF:-1o="" group-title="Sports",BT Sports ESPN
 http://160.119.77.116:8081/iptv/uk-espn.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",BEIN SPORT EXTRA
