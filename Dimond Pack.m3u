@@ -4,9 +4,10 @@
 https://jiocdn.fun/jio/jiotv/livxXe.php?c=Jio_Football_Bangali_HD&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="Bangladesh",BTV (1)
-http://103.205.133.21/hls/btv.m3u8?Live-TV™
+http://103.205.133.20/hls/btv.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="Bangladesh",BTV (2)
-http://master.beeiptv.com:8081/MB/btv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/btv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladesh",Sangsad TV (1)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8?Live-TV™
@@ -18,11 +19,13 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="Bangladesh",BTV WORLD (1)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="Bangladesh",BTV WORLD (2)
-http://103.205.133.21/hls/btvworld.m3u8
+http://103.205.133.20/hls/btvworld.m3u8
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="Bangladesh",BTV WORLD (3)
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="Bangladesh",BTV WORLD (4)
 http://103.141.66.36/bpk-tv/10031/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="Bangladesh",BTV WORLD (5)
+http://163.172.29.246:8081/globalbd/btv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQC2zdf6oJj1bO0EGcMUkNZZ0mpr9wqnlW3Mw&usqp=CAU" group-title="Bangladesh",BTV CTG (1)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8?Live-TV™
@@ -30,7 +33,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.daily-sun.com/assets/news_images/2020/07/15/thumbnails/Dailysun-15-07-2020-30.gif" group-title="Bangladesh",ATN BANGLA (1)
-http://103.205.133.21/hls/atnbangla.m3u8?Live-TV™
+http://103.205.133.20/hls/atnbangla.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://www.daily-sun.com/assets/news_images/2020/07/15/thumbnails/Dailysun-15-07-2020-30.gif" group-title="Bangladesh",ATN BANGLA (2)
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.daily-sun.com/assets/news_images/2020/07/15/thumbnails/Dailysun-15-07-2020-30.gif" group-title="Bangladesh",ATN BANGLA (3)
@@ -39,13 +42,17 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://103.141.66.36/bpk-tv/10009/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.daily-sun.com/assets/news_images/2020/07/15/thumbnails/Dailysun-15-07-2020-30.gif" group-title="Bangladesh",ATN BANGLA (5)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.daily-sun.com/assets/news_images/2020/07/15/thumbnails/Dailysun-15-07-2020-30.gif" group-title="Bangladesh",ATN BANGLA (6)
+http://master.beeiptv.com:8081/colorsiptv/atnbangla/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Bangladesh",CHANNEL I HD (1)
 http://103.141.66.36/bpk-tv/10026/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Bangladesh",CHANNEL I HD (2)
-http://103.205.133.21/hls/ichannel.m3u8
+http://103.205.133.20/hls/ichannel.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Bangladesh",CHANNEL I HD (3)
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Bangladesh",CHANNEL I HD (4)
+http://master.beeiptv.com:8081/colorsiptv/channeli/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx7Unvg9EAGQuSxRvw8XjCSAszWgvGJSDsiYMzCRA=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladesh",EKUSHEY TV (1)
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?Live-TV™
@@ -56,23 +63,27 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx7Unvg9EAGQuSxRvw8XjCSAszWgvGJSDsiYMzCRA=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladesh",EKUSHEY TV (4)
 http://163.172.29.246:8081/globalbd/ekushytv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx7Unvg9EAGQuSxRvw8XjCSAszWgvGJSDsiYMzCRA=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladesh",EKUSHEY TV (5)
-http://103.205.133.21/hls/ekushey.m3u8
+http://103.205.133.20/hls/ekushey.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladesh",NTV (1)
 http://103.141.66.36/bpk-tv/10029/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladesh",NTV (2)
-http://103.205.133.21/hls/ntv.m3u8
+http://103.205.133.20/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladesh",NTV (3)
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladesh",NTV (4)
+http://master.beeiptv.com:8081/colorsiptv/ntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meghnatv.com/source/TV/rtv_bd.png" group-title="Bangladesh",RTV HD (1)
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://meghnatv.com/source/TV/rtv_bd.png" group-title="Bangladesh",RTV HD (2)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://meghnatv.com/source/TV/rtv_bd.png" group-title="Bangladesh",RTV HD (3)
-http://103.205.133.21/hls/rtv.m3u8
+http://103.205.133.20/hls/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://meghnatv.com/source/TV/rtv_bd.png" group-title="Bangladesh",RTV HD (4)
 http://163.172.29.246:8081/globalbd/rtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://meghnatv.com/source/TV/rtv_bd.png" group-title="Bangladesh",RTV HD (5)
+http://master.beeiptv.com:8081/colorsiptv/rtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mediabangladesh.net/wp-content/uploads/2015/03/boishakhi-tv.png" group-title="Bangladesh",BOISHAKHI TV (1)
 http://103.141.66.36/bpk-tv/10016/default/index.m3u8
@@ -80,27 +91,33 @@ http://103.141.66.36/bpk-tv/10016/default/index.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.mediabangladesh.net/wp-content/uploads/2015/03/boishakhi-tv.png" group-title="Bangladesh",BOISHAKHI TV (3)
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mediabangladesh.net/wp-content/uploads/2015/03/boishakhi-tv.png" group-title="Bangladesh",BOISHAKHI TV (4)
+http://master.beeiptv.com:8081/colorsiptv/boishakhi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="Bangladesh",BANGLA VISION (1)
-http://103.205.133.21/hls/banglavision.m3u8?Live-TV™
+http://103.205.133.20/hls/banglavision.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="Bangladesh",BANGLA VISION (2)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="Bangladesh",BANGLA VISION (3)
 http://103.141.66.36/bpk-tv/10027/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="Bangladesh",BANGLA VISION (4)
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="Bangladesh",BANGLA VISION (5)
+http://master.beeiptv.com:8081/colorsiptv/banglavision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/d9/d1/b2d9d1a4dd594c8f0bedfaf9f6a95b2c.jpg" group-title="Bangladesh",DESH TV (1)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/d9/d1/b2d9d1a4dd594c8f0bedfaf9f6a95b2c.jpg" group-title="Bangladesh",DESH TV (2)
 http://103.141.66.36/bpk-tv/10038/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/d9/d1/b2d9d1a4dd594c8f0bedfaf9f6a95b2c.jpg" group-title="Bangladesh",DESH TV (3)
-http://103.205.133.21/hls/deshtv.m3u8
+http://103.205.133.20/hls/deshtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/d9/d1/b2d9d1a4dd594c8f0bedfaf9f6a95b2c.jpg" group-title="Bangladesh",DESH TV (4)
 https://bdsl.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshtv.stream/live-orgin/deshtv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/d9/d1/b2d9d1a4dd594c8f0bedfaf9f6a95b2c.jpg" group-title="Bangladesh",DESH TV (5)
+http://master.beeiptv.com:8081/colorsiptv/desh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/05/3e/25/053e25d79b21f79bce01f6514457325f.png" group-title="Bangladesh",MY TV HD (1)
-http://103.205.133.21/hls/mytv.m3u8?Live-TV™
+http://103.205.133.20/hls/mytv.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/05/3e/25/053e25d79b21f79bce01f6514457325f.png" group-title="Bangladesh",MY TV HD (2)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/05/3e/25/053e25d79b21f79bce01f6514457325f.png" group-title="Bangladesh",MY TV HD (3)
@@ -111,9 +128,9 @@ http://103.141.66.36/bpk-tv/10011/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="Bangladesh",MOHONA TV (2)
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="Bangladesh",MOHONA TV (3)
-http://103.205.133.21/hls/mohonatv.m3u8
+http://103.205.133.20/hls/mohonatv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="Bangladesh",MOHONA TV (4)
-http://master.beeiptv.com:8081/MB/mohona/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/mohona/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladesh",MAASRANGA TV HD (1)
 http://163.172.29.246:8081/globalbd/maasranga/chunks.m3u8
@@ -122,7 +139,7 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladesh",MAASRANGA TV HD (3)
 http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladesh",MAASRANGA TV HD (4)
-http://master.beeiptv.com:8081/MB/maasranga/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/maasranga/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladesh",MAASRANGA TV HD (5)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 
@@ -136,17 +153,23 @@ http://163.172.29.246:8081/globalbd/channel9/chunks.m3u8
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="Bangladesh",CHANNEL 9 HD (5)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="Bangladesh",CHANNEL 9 HD (6)
+http://master.beeiptv.com:8081/colorsiptv/channel9/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladesh",GAZI TV HD (1)
 http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladesh",GAZI TV HD (2)
 http://103.141.66.36/bpk-tv/10328/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladesh",GAZI TV HD (3)
-http://master.beeiptv.com:8081/MB/gtv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/gtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladesh",GAZI TV HD (4)
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladesh",GAZI TV HD (5)
 http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladesh",GAZI TV HD (6)
+http://103.132.180.245:8080/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladesh",GAZI TV HD (7)
+http://mtv.sports.bdfun.club:80/live/my-stream-key/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="Bangladesh",ASIAN TV HD (1)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
@@ -156,6 +179,8 @@ http://163.172.29.246:8081/globalbd/asian/chunks.m3u8
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="Bangladesh",ASIAN TV HD (4)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="Bangladesh",ASIAN TV HD (5)
+http://master.beeiptv.com:8081/colorsiptv/asian/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJya3Itl56_Eny_qUJyNvZ5HhKaLuYZMVmTeYEl5Dg=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladesh",SA TV HD (1)
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
@@ -163,13 +188,17 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJya3Itl56_Eny_qUJyNvZ5HhKaLuYZMVmTeYEl5Dg=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladesh",SA TV HD (3)
 http://163.172.29.246:8081/globalbd/satv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJya3Itl56_Eny_qUJyNvZ5HhKaLuYZMVmTeYEl5Dg=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladesh",SA TV HD (4)
+http://103.205.133.20/hls/satv.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJya3Itl56_Eny_qUJyNvZ5HhKaLuYZMVmTeYEl5Dg=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladesh",SA TV HD (5)
+http://master.beeiptv.com:8081/colorsiptv/satv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tbsnews.net/sites/default/files/styles/big_3/public/images/2020/04/17/deepto_tv_logo.jpg?itok=UV9LPjcP" group-title="Bangladesh",DEEPTO TV HD (1)
-http://103.205.133.21/hls/deeptotv.m3u8
+http://103.205.133.20/hls/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="https://tbsnews.net/sites/default/files/styles/big_3/public/images/2020/04/17/deepto_tv_logo.jpg?itok=UV9LPjcP" group-title="Bangladesh",DEEPTO TV HD (2)
-http://master.beeiptv.com:8081/MB/deeptotv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/deeptotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tbsnews.net/sites/default/files/styles/big_3/public/images/2020/04/17/deepto_tv_logo.jpg?itok=UV9LPjcP" group-title="Bangladesh",DEEPTO TV HD (3)
-
+http://103.132.180.245:8080/6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://banglatv.tv/wp-content/uploads/2018/10/bangla-tv-logo.png" group-title="Bangladesh",BANGLA TV HD (1)
 http://103.141.66.36/bpk-tv/10032/default/index.m3u8
