@@ -1,512 +1,62 @@
 #EXTM3U
-#PLAYLIST:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
-http://rv.therevenge.co:80/0555141902/3893970296/83390?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",beIN SPORTS
-http://greenstreamtv.xyz:25461/17297267/39234816/11082?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",beIN Sports FHD
-http://needuhd.life:8080/terezinha/terezinha/109484?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",Bein Sports 1 HD FR
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/837?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",Bein Sports 2 HD FR
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/838?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",Bein Sports 3 HD FR
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/839?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",beIN SPORTS 10 MAX
-http://mondial.cybergroup.top:8080/Bughi/Bughi/87674?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",beIN SPORTS 2 HD
-http://mondial.cybergroup.top:8080/Bughi/Bughi/87666?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",beIN Sports FHD
-http://tv4all.cyou:80/3030498113/0405515466/26637?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",bein Sports
-http://tv4all.cyou:80/3030498113/0405515466/26639?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",2BEIN SPORTS 1 [SD]
-http://46.105.178.212:8484/hls/ntvspor/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1    HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/3691?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 (1080)
-http://iptvsmarters.cc:25461/ssahin/ssahin/2?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 (720)
-http://iptvsmarters.cc:25461/ssahin/ssahin/3?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80398?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
-http://rv.therevenge.co:80/0555141902/3893970296/80398?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
-http://rv.therevenge.co:80/691616211141151/691616211141151/80398?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 SD
-http://iptvsmarters.cc:25461/ssahin/ssahin/3692?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 UHD
-http://rv.therevenge.co:80/0555141902/3893970296/80392?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 (Local)
-http://iptvsmarters.cc:25461/ssahin/ssahin/4?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
-http://rv.therevenge.co:80/691616211141151/691616211141151/80397?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 MAX HD 2
-http://iptvsmarters.cc:25461/ssahin/ssahin/3697?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 UHD
-http://rv.therevenge.co:80/691616211141151/691616211141151/80391?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 UHD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80391?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 (Local)*
-http://iptvsmarters.cc:25461/bercan/bercan/5?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 (Local)*
-http://iptvsmarters.cc:25461/ssahin/ssahin/5?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80396?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HD 2
-http://iptvsmarters.cc:25461/ssahin/ssahin/3694?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HD 2
-http://iptvsmarters.cc:25461/bercan/bercan/3694?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80395?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 UHD
-http://rv.therevenge.co:80/691616211141151/691616211141151/80389?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 UHD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80389?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS HABER UHD
-http://rv.therevenge.co:80/0555141902/3893970296/80386?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS HABER UHD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80386?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS Haber HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/1?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS Max1 (Local)*
-http://iptvsmarters.cc:25461/ssahin/ssahin/7?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS Max2 (Local)*
-http://iptvsmarters.cc:25461/ssahin/ssahin/8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",beIN SPORTS 1 FHD
-http://mondial.cybergroup.top:8080/Bughi/Bughi/89898?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",beIN SPORTS 1 HD
-http://mondial.cybergroup.top:8080/Bughi/Bughi/92182?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",beIN SPORTS 4 FHD
-http://mondial.cybergroup.top:8080/Bughi/Bughi/89901?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",beIN SPORTS 4 HD
-http://mondial.cybergroup.top:8080/Bughi/Bughi/92185?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 1 SD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/3883?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 10 SD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/3874?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 11 SD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/3873?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 12 SD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/3872?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 13 SD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/3871?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 14 SD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/3870?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 15 SD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/3869?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 16 SD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/3868?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 2 SD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/3882?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 3 SD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/3881?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 4 SD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/3880?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 5 SD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/3879?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 6 SD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/3878?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 7 SD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/3877?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 8 SD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/3876?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 9 SD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/3875?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/FgyiahB.png" group-title="Sport",SPORT : BeIN Sports Xtra,SPORT | BeIN Sports Xtra
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/988?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 Full HD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/1167?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 10
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/979?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 11
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/978?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 12
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/977?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 13
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/976?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 14
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/975?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 15
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/974?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 16
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/973?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 17
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/3918?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/987?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 Full HD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/1168?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/986?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 Full HD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/1169?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 4
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/985?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 4 Full HD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/1170?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 5
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/984?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 5 Full HD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/1171?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 6
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/983?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 6 Full HD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/1172?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 7
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/982?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 7 Full HD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/1173?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 8
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/981?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 8 Full HD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/1174?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 9
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/980?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 9 Full HD
-http://eyirddbkzdnwjwamdoifsigsnsa.isonline.me:25461/jtHePplXMH/046090001000/1175?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports En Espaٌol HD
-http://latvonlive.com:33612/Pablo/1234/241?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports HD
-http://latvonlive.com:33612/Pablo/1234/261?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80005?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/80005?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
-http://rv.therevenge.co:80/0555141902/3893970296/80005?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
-http://rv.therevenge.co:80/691616211141151/691616211141151/80005?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 10 HD OLYMPIC
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/79996?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 10 HD OLYMPIC
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/79996?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 10 HD OLYMPIC
-http://rv.therevenge.co:80/691616211141151/691616211141151/79996?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 11 HD EN
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/79995?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 11 HD EN
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/79995?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 12 HD EN
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/79994?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 12 HD EN
-http://rv.therevenge.co:80/691616211141151/691616211141151/79994?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 12 HD EN
-http://rv.therevenge.co:80/0555141902/3893970296/79994?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 13 HD
-http://rv.therevenge.co:80/691616211141151/691616211141151/79993?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 13 HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/79993?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 14 HD
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/79992?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 14 HD
-http://rv.therevenge.co:80/691616211141151/691616211141151/79992?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 14 HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/79992?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 15 HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/79991?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 15 HD
-http://rv.therevenge.co:80/0555141902/3893970296/79991?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 15 HD
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/79991?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 16 HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/79990?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 16 HD
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/79990?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80004?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/80004?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
-http://rv.therevenge.co:80/0555141902/3893970296/80004?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
-http://rv.therevenge.co:80/691616211141151/691616211141151/80004?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HD
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/80003?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HD
-http://rv.therevenge.co:80/0555141902/3893970296/80003?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HD
-http://rv.therevenge.co:80/691616211141151/691616211141151/80003?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80003?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 4 HD
-http://rv.therevenge.co:80/0555141902/3893970296/80002?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 4 HD
-http://rv.therevenge.co:80/691616211141151/691616211141151/80002?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 4 HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80002?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 4 HD
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/80002?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 5 HD
-http://rv.therevenge.co:80/0555141902/3893970296/80001?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 5 HD
-http://rv.therevenge.co:80/691616211141151/691616211141151/80001?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 5 HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80001?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 6 HD
-http://rv.therevenge.co:80/691616211141151/691616211141151/80000?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 6 HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80000?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 7 HD
-http://rv.therevenge.co:80/691616211141151/691616211141151/79999?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 7 HD
-http://rv.therevenge.co:80/0555141902/3893970296/79999?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 7 HD
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/79999?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 8 HD
-http://rv.therevenge.co:80/691616211141151/691616211141151/79998?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 8 HD
-http://rv.therevenge.co:80/0555141902/3893970296/79998?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 8 HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/79998?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 8 HD
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/79998?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 9 HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/79997?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 9 HD
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/79997?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 9 HD
-http://rv.therevenge.co:80/691616211141151/691616211141151/79997?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 9 HD
-http://rv.therevenge.co:80/0555141902/3893970296/79997?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS NBA HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80007?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS NBA HD
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/80007?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",beIN SPORTS
-http://iptvtree.net:8080/82a28920/ce46da4c/192865?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA BeIN Sports 2
-http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/5314?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA BeIN Sports 4
-http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/5313?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA BeIN Sports 5
-http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/5312?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA BeIN Sports 6
-http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/5311?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA BeIN Sports 7
-http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/5310?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA BeIN Sports 8
-http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/5309?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA BeIN Sports LaLiga
-http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/5308?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA Bein Sports N Espanol SD
-http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/21586?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA Bein Sports N Espanol UHD
-http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/3613?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA Bein Sports UHD
-http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/3612?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA Bein Sports USA SD
-http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/21585?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA Bein Sports Xtra
-http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/434356?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA beIN SPORTS CONNECT LaLiga
-http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/90427?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA beIN SPORTS enEspanol LHD
-http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/3707?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA beIN Sports Connect Laliga
-http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/339690?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA beIN Sports LHD
-http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/3706?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN Sports
-http://www.imperiumeye.net:8080/live/Ryan_Tully/0eGXfzjimJ/26864.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS  News HD
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/1884?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 1
-http://185.71.64.167:80/7654321/1234567/78563?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 1
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/681?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
-http://185.71.64.167:80/7654321/1234567/78617?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD²
-http://185.71.64.167:80/7654321/1234567/78600?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 1 SD
-http://185.71.64.167:80/7654321/1234567/78580?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 1 UHD
-http://185.71.64.167:80/7654321/1234567/78637?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 10
-http://185.71.64.167:80/7654321/1234567/78554?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 10
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/664?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 10 HD OLYMPIC
-http://185.71.64.167:80/7654321/1234567/78608?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 10 HD²
-http://185.71.64.167:80/7654321/1234567/78591?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 10 SD OLYMPIC
-http://185.71.64.167:80/7654321/1234567/78571?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 10 UHD OLYMPIC
-http://185.71.64.167:80/7654321/1234567/78628?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 10HD
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/665?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 11
-http://185.71.64.167:80/7654321/1234567/78553?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 11 HD EN
-http://185.71.64.167:80/7654321/1234567/78607?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 11 HD²
-http://185.71.64.167:80/7654321/1234567/78590?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 11 SD
-http://185.71.64.167:80/7654321/1234567/78570?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 11 UHD EN
-http://185.71.64.167:80/7654321/1234567/78627?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 11HD
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/663?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 12
-http://185.71.64.167:80/7654321/1234567/78552?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 12 HD EN
-http://185.71.64.167:80/7654321/1234567/78606?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 12 HD²
-http://185.71.64.167:80/7654321/1234567/78589?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 12 SD
-http://185.71.64.167:80/7654321/1234567/78569?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 12 UHD EN
-http://185.71.64.167:80/7654321/1234567/78626?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 13
-http://185.71.64.167:80/7654321/1234567/78551?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 13 HD
-http://185.71.64.167:80/7654321/1234567/78605?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 13 HD²
-http://185.71.64.167:80/7654321/1234567/78588?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 13 SD
-http://185.71.64.167:80/7654321/1234567/78568?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 13 UHD
-http://185.71.64.167:80/7654321/1234567/78625?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 14
-http://185.71.64.167:80/7654321/1234567/78550?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 14 HD
-http://185.71.64.167:80/7654321/1234567/78604?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 14 SD
-http://185.71.64.167:80/7654321/1234567/78567?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 15
-http://185.71.64.167:80/7654321/1234567/78549?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 15 HD
-http://185.71.64.167:80/7654321/1234567/78603?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 15 SD
-http://185.71.64.167:80/7654321/1234567/78566?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 16
-http://185.71.64.167:80/7654321/1234567/78548?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 16 HD
-http://185.71.64.167:80/7654321/1234567/78602?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 16 SD
-http://185.71.64.167:80/7654321/1234567/78565?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 2
-http://185.71.64.167:80/7654321/1234567/78562?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 2
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/680?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
-http://185.71.64.167:80/7654321/1234567/78616?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD²
-http://185.71.64.167:80/7654321/1234567/78599?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 2 SD
-http://185.71.64.167:80/7654321/1234567/78579?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 2 UHD
-http://185.71.64.167:80/7654321/1234567/78636?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 3
-http://185.71.64.167:80/7654321/1234567/78561?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 3
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/678?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HD
-http://185.71.64.167:80/7654321/1234567/78615?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HD²
-http://185.71.64.167:80/7654321/1234567/78598?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 3 SD
-http://185.71.64.167:80/7654321/1234567/78578?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 3 UHD
-http://185.71.64.167:80/7654321/1234567/78635?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 4
-http://185.71.64.167:80/7654321/1234567/78560?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 4
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/676?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 4 HD
-http://185.71.64.167:80/7654321/1234567/78614?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 4 SD
-http://185.71.64.167:80/7654321/1234567/78577?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 4 UHD
-http://185.71.64.167:80/7654321/1234567/78634?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 5
-http://185.71.64.167:80/7654321/1234567/78559?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 5
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/674?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 5 HD
-http://185.71.64.167:80/7654321/1234567/78613?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 5 HD²
-http://185.71.64.167:80/7654321/1234567/78596?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 5 SD
-http://185.71.64.167:80/7654321/1234567/78576?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 5 UHD
-http://185.71.64.167:80/7654321/1234567/78633?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 6
-http://185.71.64.167:80/7654321/1234567/78558?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 6
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/672?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 6 HD
-http://185.71.64.167:80/7654321/1234567/78612?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 6 HD²
-http://185.71.64.167:80/7654321/1234567/78595?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 6 SD
-http://185.71.64.167:80/7654321/1234567/78575?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 6 UHD
-http://185.71.64.167:80/7654321/1234567/78632?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 7
-http://185.71.64.167:80/7654321/1234567/78557?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 7
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/670?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 7 HD
-http://185.71.64.167:80/7654321/1234567/78611?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 7 HD²
-http://185.71.64.167:80/7654321/1234567/78594?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 7 SD
-http://185.71.64.167:80/7654321/1234567/78574?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 7 UHD
-http://185.71.64.167:80/7654321/1234567/78631?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 8
-http://185.71.64.167:80/7654321/1234567/78556?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 8
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/668?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 8 HD
-http://185.71.64.167:80/7654321/1234567/78610?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 8 HD²
-http://185.71.64.167:80/7654321/1234567/78593?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 8 SD
-http://185.71.64.167:80/7654321/1234567/78573?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 8 UHD
-http://185.71.64.167:80/7654321/1234567/78630?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 9
-http://185.71.64.167:80/7654321/1234567/78555?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 9
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/666?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 9 HD
-http://185.71.64.167:80/7654321/1234567/78609?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 9 HD²
-http://185.71.64.167:80/7654321/1234567/78592?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 9 SD
-http://185.71.64.167:80/7654321/1234567/78572?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 9 UHD
-http://185.71.64.167:80/7654321/1234567/78629?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 9HD
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/667?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS NBA HD
-http://185.71.64.167:80/7654321/1234567/78619?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS NBA SD
-http://185.71.64.167:80/7654321/1234567/78581?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS NEWS SD
-http://185.71.64.167:80/7654321/1234567/78582?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS SD
-http://185.71.64.167:80/7654321/1234567/78583?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",beIN SPORTS HD1
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/682?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",beIN SPORTS HD2
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/1711?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",beIN SPORTS HD3
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/679?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",beIN SPORTS HD4
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/677?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",beIN SPORTS HD5
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/675?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",beIN SPORTS HD6
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/673?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",beIN SPORTS HD7
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/671?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",beIN SPORTS HD8
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/669?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",Ironman
+https://mcu.mindbox.workers.dev/0:/MCU/1.Iron%20Man.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",Incredible Hulk
+https://mcu.mindbox.workers.dev/0:/MCU/2.The%20Incredible%20Hulk.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",Ironman 2
+https://mcu.mindbox.workers.dev/0:/MCU/3.Iron%20Man%202.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",3D Thor
+https://mcu.mindbox.workers.dev/0:/MCU/4.Thor%203D.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",Thor
+https://mcu.mindbox.workers.dev/0:/MCU/4.Thor.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",3D Captain America First avenger
+https://mcu.mindbox.workers.dev/0:/MCU/5.Captain%20America%20The%20First%20Avenger%203D.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",Captain America First avenger
+https://mcu.mindbox.workers.dev/0:/MCU/5.Captain%20America%20The%20First%20Avenger.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",3D Avengers
+https://mcu.mindbox.workers.dev/0:/MCU/6.Avengers%203D.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",Avengers
+https://mcu.mindbox.workers.dev/0:/MCU/6.Avengers.mp4
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",Ironman 3
+https://mcu.mindbox.workers.dev/0:/MCU/7.IronMan%203.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",3D Thor Darkworld
+https://mcu.mindbox.workers.dev/0:/MCU/8.Thor%20The%20Dark%20World%203D.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",Thor Darkworld
+https://mcu.mindbox.workers.dev/0:/MCU/8.Thor%20The%20Dark%20World.mp4
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",3D Captain America Winter Soldier
+https://mcu.mindbox.workers.dev/0:/MCU/9.Captain%20America%20The%20Winter%20Soldier%203d.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",Captain America Winter Soldier
+https://mcu.mindbox.workers.dev/0:/MCU/9.Captain%20America%20The%20Winter%20Soldier.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",3D Guardians of Galaxy
+https://mcu.mindbox.workers.dev/0:/MCU/10.Guardians%20of%20the%20Galaxy%203D.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",Guardians of Galaxy
+https://mcu.mindbox.workers.dev/0:/MCU/10.Guardians%20of%20the%20Galaxy.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",3D Avengers Age of Ultron
+https://mcu.mindbox.workers.dev/0:/MCU/11.Avengers%20Age%20of%20Ultron%203D.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",Avengers Age of Ultron
+https://mcu.mindbox.workers.dev/0:/MCU/11.Avengers%20Age%20of%20Ultron.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",3D Antman
+https://mcu.mindbox.workers.dev/0:/MCU/12.AntMan%203d.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",Antman
+https://mcu.mindbox.workers.dev/0:/MCU/12.AntMan.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",3D Captain America Civil War
+https://mcu.mindbox.workers.dev/0:/MCU/13.Captain%20America%20Civil%20War%203D.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",Captain America Civil War
+https://mcu.mindbox.workers.dev/0:/MCU/13.Captain%20America%20Civil%20War.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",3D Doctor Strange
+https://mcu.mindbox.workers.dev/0:/MCU/14.Doctor%20Strange%203D.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",Doctor Strange
+https://mcu.mindbox.workers.dev/0:/MCU/14.Doctor%20Strange.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",3D Guardians of Galaxy 2
+https://mcu.mindbox.workers.dev/0:/MCU/15.Guardians%20Of%20The%20Galaxy%20Vol.2%203D.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",Guardians of Galaxy 2
+https://mcu.mindbox.workers.dev/0:/MCU/15.Guardians%20Of%20The%20Galaxy%20Vol.2.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",3D Spiderman Homecoming
+https://mcu.mindbox.workers.dev/0:/MCU/16.Spider-Man%20Homecoming%203D.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",Spiderman Homecoming
+https://mcu.mindbox.workers.dev/0:/MCU/16.Spider-Man%20Homecoming.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",3D Thor Ragnarok
+https://mcu.mindbox.workers.dev/0:/MCU/17.Thor%20Ragnarok%203d.mkv
+#EXTINF:-1tvg-logo="https://imgur.com/nNEU2Eu.png" group-title="World Movies",Thor Ragnarok
+https://mcu.mindbox.workers.dev/0:/MCU/17.Thor%20Ragnarok.mkv
