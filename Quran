@@ -2,9 +2,10 @@
 
 
 #EXTINF:-1 tvg-logo="https://cdn.qurancdn.com/assets/logo-lg-w-10a76950b6fdf68f9bf6abdde65eec2553f6f6d97837b65d8836d1a0c39a01c9.png" group-title="পবিত্র কুরআন",(001) Surat Al-Fatihah
-https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/001.mp3
+#https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/001.mp3
 #EXTINF:-1 tvg-logo="https://cdn.qurancdn.com/assets/logo-lg-w-10a76950b6fdf68f9bf6abdde65eec2553f6f6d97837b65d8836d1a0c39a01c9.png" group-title="পবিত্র কুরআন",(002) Surat Al-Baqarah
-https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/002.mp3
+https://www.youtube.com/embed/TNca-RXZ6CE
+#https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/002.mp3
 #EXTINF:-1 tvg-logo="https://cdn.qurancdn.com/assets/logo-lg-w-10a76950b6fdf68f9bf6abdde65eec2553f6f6d97837b65d8836d1a0c39a01c9.png" group-title="পবিত্র কুরআন",(003) Surat Ali 'Imran
 https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/003.mp3
 #EXTINF:-1 tvg-logo="https://cdn.qurancdn.com/assets/logo-lg-w-10a76950b6fdf68f9bf6abdde65eec2553f6f6d97837b65d8836d1a0c39a01c9.png" group-title="পবিত্র কুরআন",(004) Surat An-Nisa
