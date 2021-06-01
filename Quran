@@ -238,6 +238,8 @@ https://audio.qurancdn.com/Alafasy/mp3/002255.mp3
 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/7NS0zco.png" group-title="FM Radio",Al Quran Radio
+http://66.45.232.131:9994/;stream.mp3
 #EXTINF:-1 tvg-logo="https://imgur.com/7NS0zco.png" group-title="FM Radio",Radio Sadhin
 http://node-14.zeno.fm/eabgu655puquv?rj-ttl=5&rj-tok=AAABd4vPkOQAJbAkIH3--__r-w
 #EXTINF:-1 tvg-logo="https://imgur.com/7NS0zco.png" group-title="FM Radio",Radio Today
