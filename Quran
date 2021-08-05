@@ -495,3 +495,407 @@ http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
 http://stream2.ujala.nl/stream/2/listen.mp3
 #EXTINF:-1 tvg-logo="https://imgur.com/hSEmDXQ.png" group-title="FM Radio", Radio Mirchi - Mirchi Unplugged 
 https://mirchiunplugged-lh.akamaihd.net/i/mirchiunplugged_1@353022/master.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DESI PLUS
+http://pn.tvott.info:80/307200113544/307200113544/83717
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ZEE ACTION
+http://pn.tvott.info:80/307200113544/307200113544/83716
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ZEE TV HD
+http://pn.tvott.info:80/307200113544/307200113544/83715
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ZEE CINEMA HD
+http://pn.tvott.info:80/307200113544/307200113544/83714
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ZING
+http://pn.tvott.info:80/307200113544/307200113544/83713
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", STAR BHARAT HD
+http://pn.tvott.info:80/307200113544/307200113544/83712
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", STAR GOLD HD
+http://pn.tvott.info:80/307200113544/307200113544/83711
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", STAR GOLD SELECT HD
+http://pn.tvott.info:80/307200113544/307200113544/83710
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", STAR PLUS HD
+http://pn.tvott.info:80/307200113544/307200113544/83709
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", STAR UTSAV
+http://pn.tvott.info:80/307200113544/307200113544/83708
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", STAR UTSAV MOVIES
+http://pn.tvott.info:80/307200113544/307200113544/83707
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SONY HD
+http://pn.tvott.info:80/307200113544/307200113544/83706
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SONY MAX HD
+http://pn.tvott.info:80/307200113544/307200113544/83705
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SONY MAX 2
+http://pn.tvott.info:80/307200113544/307200113544/83704
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SONY PIX HD
+http://pn.tvott.info:80/307200113544/307200113544/83703
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SONY BBC EARTH HD
+http://pn.tvott.info:80/307200113544/307200113544/83702
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SONY SAB HD
+http://pn.tvott.info:80/307200113544/307200113544/83701
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SONY PAL
+http://pn.tvott.info:80/307200113544/307200113544/83700
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SONY WAH
+http://pn.tvott.info:80/307200113544/307200113544/83699
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SONY YAY
+http://pn.tvott.info:80/307200113544/307200113544/83698
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SONY MIX HD
+http://pn.tvott.info:80/307200113544/307200113544/83697
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", B4U MOVIES
+http://pn.tvott.info:80/307200113544/307200113544/83696
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", COLORS HD
+http://pn.tvott.info:80/307200113544/307200113544/83695
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", 9X JALWA
+http://pn.tvott.info:80/307200113544/307200113544/83694
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", AAJ TAK HD
+http://pn.tvott.info:80/307200113544/307200113544/83693
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", AAJ TAK TEZ
+http://pn.tvott.info:80/307200113544/307200113544/83692
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ZOOM TV HD
+http://pn.tvott.info:80/307200113544/307200113544/83691
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", AASTHA
+http://pn.tvott.info:80/307200113544/307200113544/83690
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", AASTHA BHAJAN
+http://pn.tvott.info:80/307200113544/307200113544/83689
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ABP NEWS INDIA
+http://pn.tvott.info:80/307200113544/307200113544/83688
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", AND PICTURES HD
+http://pn.tvott.info:80/307200113544/307200113544/83687
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", AND TV HD
+http://pn.tvott.info:80/307200113544/307200113544/83686
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ANIMAL PLANET HD
+http://pn.tvott.info:80/307200113544/307200113544/83685
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ARIHANT
+http://pn.tvott.info:80/307200113544/307200113544/83684
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", BABY TV HD
+http://pn.tvott.info:80/307200113544/307200113544/83683
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", BIG MAGIC HD
+http://pn.tvott.info:80/307200113544/307200113544/83682
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", CINEPLEX HD
+http://pn.tvott.info:80/307200113544/307200113544/83681
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", COMEDY ACTIVE
+http://pn.tvott.info:80/307200113544/307200113544/83680
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DD NATIONAL HD
+http://pn.tvott.info:80/307200113544/307200113544/83679
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DD RAJASTHAN
+http://pn.tvott.info:80/307200113544/307200113544/83678
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DD BHARATI
+http://pn.tvott.info:80/307200113544/307200113544/83677
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DD BIHAR
+http://pn.tvott.info:80/307200113544/307200113544/83676
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DD INDIA
+http://pn.tvott.info:80/307200113544/307200113544/83675
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DD NEWS HD
+http://pn.tvott.info:80/307200113544/307200113544/83674
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DD SPORTS
+http://pn.tvott.info:80/307200113544/307200113544/83673
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DD ORIYA
+http://pn.tvott.info:80/307200113544/307200113544/83672
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DD UP
+http://pn.tvott.info:80/307200113544/307200113544/83671
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DD URDU
+http://pn.tvott.info:80/307200113544/307200113544/83670
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DD MP
+http://pn.tvott.info:80/307200113544/307200113544/83669
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DD BHARTI
+http://pn.tvott.info:80/307200113544/307200113544/83668
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DISCOVERY JEET HD
+http://pn.tvott.info:80/307200113544/307200113544/83667
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DISCOVERY WORLD HD
+http://pn.tvott.info:80/307200113544/307200113544/83666
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", E 24
+http://pn.tvott.info:80/307200113544/307200113544/83665
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ENTER 10 MOVIES
+http://pn.tvott.info:80/307200113544/307200113544/83664
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", EPIC HD
+http://pn.tvott.info:80/307200113544/307200113544/83663
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", FOX LIFE HD
+http://pn.tvott.info:80/307200113544/307200113544/83662
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", HISTORY TV18 HD
+http://pn.tvott.info:80/307200113544/307200113544/83661
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", HOUSEFULL ACTION
+http://pn.tvott.info:80/307200113544/307200113544/83660
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", HOUSEFULL MOVIES
+http://pn.tvott.info:80/307200113544/307200113544/83659
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", HUNGAMA BHAKTI SAGAR HD
+http://pn.tvott.info:80/307200113544/307200113544/83658
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", HUNGAMA DIL SE HD
+http://pn.tvott.info:80/307200113544/307200113544/83657
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", HUNGAMA KADAK HITS HD
+http://pn.tvott.info:80/307200113544/307200113544/83656
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", HUNGAMA NAZRANA HD
+http://pn.tvott.info:80/307200113544/307200113544/83655
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", HUNGAMA POP PATAKA HD
+http://pn.tvott.info:80/307200113544/307200113544/83654
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", JANTA TV
+http://pn.tvott.info:80/307200113544/307200113544/83653
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", LIVING FOODZ HD
+http://pn.tvott.info:80/307200113544/307200113544/83652
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", MINIPLEX HD
+http://pn.tvott.info:80/307200113544/307200113544/83651
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", MOVIES ACTIVE
+http://pn.tvott.info:80/307200113544/307200113544/83650
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", MTV BEATS HD
+http://pn.tvott.info:80/307200113544/307200113544/83649
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", MTV PLUS HD
+http://pn.tvott.info:80/307200113544/307200113544/83648
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", MUSIC INDIA
+http://pn.tvott.info:80/307200113544/307200113544/83647
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", NAT GEO WILD HD
+http://pn.tvott.info:80/307200113544/307200113544/83646
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", NATIONAL GEOGRAPHIC HD
+http://pn.tvott.info:80/307200113544/307200113544/83645
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", NEWS 18 ASSAM
+http://pn.tvott.info:80/307200113544/307200113544/83644
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SAHARA BIHAR
+http://pn.tvott.info:80/307200113544/307200113544/83643
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", NEWS 18 INDIA
+http://pn.tvott.info:80/307200113544/307200113544/83642
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", NEWS 18 RAJASTHAN
+http://pn.tvott.info:80/307200113544/307200113544/83641
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", NEWS NATION
+http://pn.tvott.info:80/307200113544/307200113544/83640
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", NEWS STATE
+http://pn.tvott.info:80/307200113544/307200113544/83639
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", REPUBLIC TV
+http://pn.tvott.info:80/307200113544/307200113544/83638
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", PARAS TV
+http://pn.tvott.info:80/307200113544/307200113544/83637
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", PEACE OF MIND HD
+http://pn.tvott.info:80/307200113544/307200113544/83636
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SKY STAR MOVIES
+http://pn.tvott.info:80/307200113544/307200113544/83635
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SOHAM TV
+http://pn.tvott.info:80/307200113544/307200113544/83634
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", TATA SKY BOLLYWOOD PREMIERE HD
+http://pn.tvott.info:80/307200113544/307200113544/83633
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", UTV ACTION
+http://pn.tvott.info:80/307200113544/307200113544/83632
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", UTV HD
+http://pn.tvott.info:80/307200113544/307200113544/83631
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", VEDIC TV
+http://pn.tvott.info:80/307200113544/307200113544/83630
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", WOW CINEMA
+http://pn.tvott.info:80/307200113544/307200113544/83629
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ZEE ANMOL
+http://pn.tvott.info:80/307200113544/307200113544/83628
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ZEE ANMOL CINEMA
+http://pn.tvott.info:80/307200113544/307200113544/83627
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ZEE HINDUSTAN NEWS
+http://pn.tvott.info:80/307200113544/307200113544/83626
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ZEE NEWS
+http://pn.tvott.info:80/307200113544/307200113544/83625
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ZEE NEWS BIHAR
+http://pn.tvott.info:80/307200113544/307200113544/83624
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ZEE NEWS MP/CHATTISGARH
+http://pn.tvott.info:80/307200113544/307200113544/83623
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ZEE NEWS UP
+http://pn.tvott.info:80/307200113544/307200113544/83622
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ZEE RAJASTHAN
+http://pn.tvott.info:80/307200113544/307200113544/83621
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ABN NEWS TV
+http://pn.tvott.info:80/307200113544/307200113544/83620
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", JEHOVAH JIREH TV
+http://pn.tvott.info:80/307200113544/307200113544/83619
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", TRUCKING TODAY
+http://pn.tvott.info:80/307200113544/307200113544/83618
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", POGO KIDS
+http://pn.tvott.info:80/307200113544/307200113544/83617
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", CINEMA TV
+http://pn.tvott.info:80/307200113544/307200113544/83616
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", MOVIE HOUSE
+http://pn.tvott.info:80/307200113544/307200113544/83615
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", GANGA
+http://pn.tvott.info:80/307200113544/307200113544/83614
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", AND FLIX HD
+http://pn.tvott.info:80/307200113544/307200113544/83613
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DISH CINE ACTIVE
+http://pn.tvott.info:80/307200113544/307200113544/83612
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", EVERGREEN CLASSIC
+http://pn.tvott.info:80/307200113544/307200113544/83611
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", WARNER BROS
+http://pn.tvott.info:80/307200113544/307200113544/83610
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DISNEY SD
+http://pn.tvott.info:80/307200113544/307200113544/83609
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", CNBC TV18 NEWS HD
+http://pn.tvott.info:80/307200113544/307200113544/83608
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", TIMES NOW HD
+http://pn.tvott.info:80/307200113544/307200113544/83607
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", NICK PLUS HD
+http://pn.tvott.info:80/307200113544/307200113544/83606
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", MNX HD
+http://pn.tvott.info:80/307200113544/307200113544/83605
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", MOVIES NOW HD
+http://pn.tvott.info:80/307200113544/307200113544/83604
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", MN PLUS HD
+http://pn.tvott.info:80/307200113544/307200113544/83603
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DISNEY INTERNATIONAL HD
+http://pn.tvott.info:80/307200113544/307200113544/83602
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", TATA SKY BOLLYWOOD HD
+http://pn.tvott.info:80/307200113544/307200113544/83601
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", CN PLUS HD
+http://pn.tvott.info:80/307200113544/307200113544/83600
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", BINDAS MOVIES
+http://pn.tvott.info:80/307200113544/307200113544/83599
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", UTV MOVIES
+http://pn.tvott.info:80/307200113544/307200113544/83598
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DISNEY XD
+http://pn.tvott.info:80/307200113544/307200113544/83597
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ISHWAR TV
+http://pn.tvott.info:80/307200113544/307200113544/83596
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", CARTOON NETWORK
+http://pn.tvott.info:80/307200113544/307200113544/83595
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", REPUBLIC BHARAT
+http://pn.tvott.info:80/307200113544/307200113544/83594
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", B4U MUSIC
+http://pn.tvott.info:80/307200113544/307200113544/83593
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DABANGG
+http://pn.tvott.info:80/307200113544/307200113544/83592
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", INDIA NEWS
+http://pn.tvott.info:80/307200113544/307200113544/83591
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", INDIA TV
+http://pn.tvott.info:80/307200113544/307200113544/83590
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DANGAL
+http://pn.tvott.info:80/307200113544/307200113544/83589
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", MASTII
+http://pn.tvott.info:80/307200113544/307200113544/83588
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", NDTV INDIA
+http://pn.tvott.info:80/307200113544/307200113544/83587
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", INDIA NEWS MP
+http://pn.tvott.info:80/307200113544/307200113544/83586
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", INDIA NEWS UP
+http://pn.tvott.info:80/307200113544/307200113544/83585
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", INDIA NEWS HARYANA
+http://pn.tvott.info:80/307200113544/307200113544/83584
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", NEWS X
+http://pn.tvott.info:80/307200113544/307200113544/83583
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", INDIA NEWS RAJASTHAN
+http://pn.tvott.info:80/307200113544/307200113544/83582
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SUDARSHAN NEWS
+http://pn.tvott.info:80/307200113544/307200113544/83581
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", MAHA MOVIE
+http://pn.tvott.info:80/307200113544/307200113544/83580
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SAHARA NEWS NATIONAL
+http://pn.tvott.info:80/307200113544/307200113544/83579
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SAHARA ONE
+http://pn.tvott.info:80/307200113544/307200113544/83578
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SAHARA MP
+http://pn.tvott.info:80/307200113544/307200113544/83577
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SAHARA MUMBAI
+http://pn.tvott.info:80/307200113544/307200113544/83576
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SAHARA NCR
+http://pn.tvott.info:80/307200113544/307200113544/83575
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SAHARA UP
+http://pn.tvott.info:80/307200113544/307200113544/83574
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SAHARA ALAMI
+http://pn.tvott.info:80/307200113544/307200113544/83573
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SAHARA FILMY
+http://pn.tvott.info:80/307200113544/307200113544/83572
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", HINDI KHABAR
+http://pn.tvott.info:80/307200113544/307200113544/83571
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", NDTV GOOD TIMES
+http://pn.tvott.info:80/307200113544/307200113544/83570
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", MTUNES PLUS
+http://pn.tvott.info:80/307200113544/307200113544/83569
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", MULTIPLEX MOVIES
+http://pn.tvott.info:80/307200113544/307200113544/83568
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", OM SHANTI
+http://pn.tvott.info:80/307200113544/307200113544/83567
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", IBC 24
+http://pn.tvott.info:80/307200113544/307200113544/83566
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", NEWS 24
+http://pn.tvott.info:80/307200113544/307200113544/83565
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", CVR NEWS
+http://pn.tvott.info:80/307200113544/307200113544/83564
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", NATIONAL VOICE
+http://pn.tvott.info:80/307200113544/307200113544/83563
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SHUBH TV
+http://pn.tvott.info:80/307200113544/307200113544/83562
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", RAMDHENU
+http://pn.tvott.info:80/307200113544/307200113544/83561
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", RENGONI
+http://pn.tvott.info:80/307200113544/307200113544/83560
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", FOOD FOOD HD
+http://pn.tvott.info:80/307200113544/307200113544/83559
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", KRISHNA VANI HD
+http://pn.tvott.info:80/307200113544/307200113544/83558
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DILLI AAJ TAKK
+http://pn.tvott.info:80/307200113544/307200113544/83557
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", PRAG NEWS
+http://pn.tvott.info:80/307200113544/307200113544/83556
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", RANG
+http://pn.tvott.info:80/307200113544/307200113544/83555
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", NEWS 18 LIVE
+http://pn.tvott.info:80/307200113544/307200113544/83554
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", NDTV PROFIT
+http://pn.tvott.info:80/307200113544/307200113544/83553
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", NDTV 24x7
+http://pn.tvott.info:80/307200113544/307200113544/83552
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", INDIA TODAY
+http://pn.tvott.info:80/307200113544/307200113544/83551
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", 9X MUSIC
+http://pn.tvott.info:80/307200113544/307200113544/83550
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", E NEWS 24
+http://pn.tvott.info:80/307200113544/307200113544/83549
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ZEE BUSINESS
+http://pn.tvott.info:80/307200113544/307200113544/83548
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SANSKAR TV
+http://pn.tvott.info:80/307200113544/307200113544/83547
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SATSANG TV
+http://pn.tvott.info:80/307200113544/307200113544/83546
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DISCOVERY KIDS
+http://pn.tvott.info:80/307200113544/307200113544/83545
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", NEPAL 1
+http://pn.tvott.info:80/307200113544/307200113544/83544
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", CHANNEL WIN
+http://pn.tvott.info:80/307200113544/307200113544/83543
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", STAR GOLD 2
+http://pn.tvott.info:80/307200113544/307200113544/83542
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", AND EXPLORER HD
+http://pn.tvott.info:80/307200113544/307200113544/83541
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ZEE ETC BOLLYWOOD
+http://pn.tvott.info:80/307200113544/307200113544/83540
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", HUNGAMA BOL HADIPA
+http://pn.tvott.info:80/307200113544/307200113544/83539
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", MIRROR NOW
+http://pn.tvott.info:80/307200113544/307200113544/83538
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", TEJ NEWS
+http://pn.tvott.info:80/307200113544/307200113544/83537
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", AMAR UJALA NEWS
+http://pn.tvott.info:80/307200113544/307200113544/83536
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ZEE YUVA
+http://pn.tvott.info:80/307200113544/307200113544/83535
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", PRARTHANA BHAWAN
+http://pn.tvott.info:80/307200113544/307200113544/83534
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", RAJASTHAN PATRIKA
+http://pn.tvott.info:80/307200113544/307200113544/83533
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", REPUBLIC NEWS
+http://pn.tvott.info:80/307200113544/307200113544/83532
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", APN NEWS
+http://pn.tvott.info:80/307200113544/307200113544/83531
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", INDIA VOICE
+http://pn.tvott.info:80/307200113544/307200113544/83530
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", IDN LOKMAT
+http://pn.tvott.info:80/307200113544/307200113544/83529
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", PEACE MUSIC
+http://pn.tvott.info:80/307200113544/307200113544/83528
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ZEE NEWS MP
+http://pn.tvott.info:80/307200113544/307200113544/83527
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SHOWBOX
+http://pn.tvott.info:80/307200113544/307200113544/83526
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", DIVYA TV
+http://pn.tvott.info:80/307200113544/307200113544/83525
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", TARANG TV
+http://pn.tvott.info:80/307200113544/307200113544/83524
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ALANKAR TV
+http://pn.tvott.info:80/307200113544/307200113544/83523
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", PRAMEYA NEWS 7
+http://pn.tvott.info:80/307200113544/307200113544/83522
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", TARANG MUSIC
+http://pn.tvott.info:80/307200113544/307200113544/83521
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", SARTHAK TV
+http://pn.tvott.info:80/307200113544/307200113544/83520
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJUEp7f.png" group-title="Hindi Chennel", ZEE KALINGA
+http://pn.tvott.info:80/307200113544/307200113544/83519
