@@ -181,6 +181,20 @@ http://cinemacity.live:9090/Upload%20Request/The%20army%20of%20satan%20part%2020
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/XwlU57z.png" group-title="Official Peace",আখিরুজ্জামান সিরিজ
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/XwlU57z.png" group-title="Official Peace",কিয়ামতের ছোট আলামত ( পর্ব-০১ )
+#EXTVLCOPT:network-caching=1000
+http://cinemacity.live:9090/Upload%20Request/p1.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/XwlU57z.png" group-title="Official Peace",কিয়ামতের বড় আলামত ( পর্ব-০২ )
+#EXTVLCOPT:network-caching=1000
+http://cinemacity.live:9090/Upload%20Request/p2.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/XwlU57z.png" group-title="Official Peace",ইমাম মাহদি,মুসলিম উম্মাহর অনাগত রাহবার ( পর্ব-০৩ )
+#EXTVLCOPT:network-caching=1000
+http://cinemacity.live:9090/Upload%20Request/p3.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/XwlU57z.png" group-title="Official Peace",দাজ্জাল মানবেতিহাসের সর্ববৃহৎ ফিতনা ( পর্ব-০৪ )
+#EXTVLCOPT:network-caching=1000
+http://cinemacity.live:9090/Upload%20Request/p4.mp4
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/XwlU57z.png" group-title="Official Peace",দাজ্জালের-দ্বীপ
 #EXTVLCOPT:network-caching=1000
