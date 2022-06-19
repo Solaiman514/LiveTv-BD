@@ -312,9 +312,9 @@ https://d2bzi6fedfub3a.cloudfront.net/shemaroo-vod/altplatform/WelcomeFUMHDmp4-9
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/7a17514ffb8a743b72cf0213a23483a6/en/2x3/208x312/4c802cd5d394b1af97616bedfd7c1209_1280x1920.webp" group-title="MXPlay Hindi Movie",Welcome To Karachi
 #EXTVLCOPT:network-caching=1000
 https://llvod.mxplay.com/video/c3f02e53a55fcbac4388bc2fdab100f5/hls/h264_high.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MXPlay Hindi Movie",
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/5f82f1a5a8bea5535df8722a2158c6ac/en/2x3/208x312/test_pic1642596452574.webp" group-title="MXPlay Hindi Movie",Andaaz
 #EXTVLCOPT:network-caching=1000
-
+https://llvod.mxplay.com/video/519b398a396db37543be4f59a26eb52e/hls/h264_high.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MXPlay Hindi Movie",
 #EXTVLCOPT:network-caching=1000
 
