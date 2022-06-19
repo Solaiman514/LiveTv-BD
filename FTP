@@ -150,9 +150,9 @@ https://llvod.mxplay.com/video/c54ae7fdc250a3692df4c9b927a6a1fd/1/hls/h264_high.
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/98d66790fd302a1c8cd703f2474fd9ac/en/16x9/320x180/fa2df341cd3a452a3b4f6a5eba295ef0_1920x1080.webp" group-title="Bengali Webseries",Srikanta.S01E08.Confusion
 #EXTVLCOPT:network-caching=1000
 https://llvod.mxplay.com/video/cdebdffbf9d1b57e8484e2e26b79a1ce/1/hls/h264_high.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/fe830e57dcfa68c61ec9c2c6706a4c8d/en/16x9/320x180/82340eaa6838525df2d36f21d2204fcf_1920x1080.webp" group-title="Bengali Webseries",Srikanta.S01E09.Incomplete
 #EXTVLCOPT:network-caching=1000
-
+https://llvod.mxplay.com/video/c6baaf32d37ae05509a9675819fc3685/1/hls/h264_high.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
 #EXTVLCOPT:network-caching=1000
 
