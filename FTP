@@ -272,7 +272,7 @@ https://llvod.mxplay.com/video/8a2e0faf293409dd844a6a4b18e5cf00/4/hls/h264_high.
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/01/2cUfjsn5uCiDiTdkjiEQM2HXYLg.jpg" group-title="MXPlay Hindi Movie",Masti
 #EXTVLCOPT:network-caching=1000
-https://d2bzi6fedfub3a.cloudfront.net/shemaroo-vod/altplatform/MastiFUMHDmp4-652/main.m3u8?hdnts=st=1654476971~exp=1654487771~acl=*~data=testdata~hmac=c16f9e0b57c12b4cf971fac083c81a5a328ea91fb43bbe816f7246397327c34e
+https://d3kau9gkkkfsfl.cloudfront.net/shemaroo-vod/altplatform/MastiFUMHDmp4-652/main.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MXPlay Hindi Movie",
 #EXTVLCOPT:network-caching=1000
 
@@ -281,7 +281,7 @@ https://d2bzi6fedfub3a.cloudfront.net/shemaroo-vod/altplatform/MastiFUMHDmp4-652
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/01/pQgU9W1OyHDxBOZcJpVLc2E8gQa.jpg" group-title="MXPlay Hindi Movie",Dhamaal
 #EXTVLCOPT:network-caching=1000
-https://d2bzi6fedfub3a.cloudfront.net/shemaroo-vod/altplatform/DhamaalHDArabic-833/main.m3u8?hdnts=st=1654476971~exp=1654487771~acl=*~data=testdata~hmac=c16f9e0b57c12b4cf971fac083c81a5a328ea91fb43bbe816f7246397327c34e
+https://d3kau9gkkkfsfl.cloudfront.net/shemaroo-vod/altplatform/Dhamaal-607/main.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MXPlay Hindi Movie",
 #EXTVLCOPT:network-caching=1000
 
@@ -308,8 +308,17 @@ https://llvod.mxplay.com/video/c7bb8ff6133bc2429634b933ff5284f2/11/hls/h264_high
 https://d3kau9gkkkfsfl.cloudfront.net/shemaroo-vod/altplatform/ApartmentFUMFUMHDV2mp4-845/main.m3u8
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/01/fudxnXlTTBIDCkpR7XhlIgkNaUY.jpg" group-title="MXPlay Hindi Movie",Welcome
 #EXTVLCOPT:network-caching=1000
-https://d2bzi6fedfub3a.cloudfront.net/shemaroo-vod/altplatform/WelcomeFUMHDmp4-938/main.m3u8?hdnts=st=1654482168~exp=1654492968~acl=*~data=testdata~hmac=92d498d1a13308428455a0969925091de425409cafd9be1ffd74ff648e0df546
-#EXTINF:-1 tvg-logo="" group-title="MXPlay Hindi Movie",PM Narendra Modi
+https://d2bzi6fedfub3a.cloudfront.net/shemaroo-vod/altplatform/WelcomeFUMHDmp4-938/main.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/7a17514ffb8a743b72cf0213a23483a6/en/16x9/320x180/556d5853b5bf69d09d182b384dc9870e_1920x1080.webp" group-title="MXPlay Hindi Movie",Welcome To Karachi
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/c3f02e53a55fcbac4388bc2fdab100f5/preview/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MXPlay Hindi Movie",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" group-title="MXPlay Hindi Movie",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/d166fa8d000d5dfba0972d554bc3a3d8/en/2x3/208x312/test_pic1632325963348.webp" group-title="MXPlay Hindi Movie",PM Narendra Modi
 #EXTVLCOPT:network-caching=1000
 https://llvod.mxplay.com/video/1fc45cd0ae7ba4bb5bfc50a858f825fe/3/hls/h264_high.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MXPlay Hindi Movie",
