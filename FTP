@@ -125,22 +125,23 @@ https://www.streamhub.ml/0:/Bengali%20Webseries/Rabindranath%20Ekhane%20Kokhono%
 https://www.streamhub.ml/0:/Bengali%20Webseries/Rabindranath%20Ekhane%20Kokhono%20Khete%20Aseni/REKKA.S01E09.Tobu.Mone.Rekho.1080p.Hoichoi.WEB-DL.AAC2.0.H.264-BonsaiHD.mkv
 
 
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+
+#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",Srikanta.S01E01
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/46e418e3dd21887c9c8376e3b4ab582e/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",Srikanta.S01E02.Hallucination
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/46e418e3dd21887c9c8376e3b4ab582e/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",Srikanta.S01E03
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/46e418e3dd21887c9c8376e3b4ab582e/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",Srikanta.S01E04
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",Srikanta.S01E05
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",Srikanta.S01E06
 #EXTVLCOPT:network-caching=1000
 
 #EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
@@ -245,7 +246,6 @@ https://www.streamhub.ml/0:/Bengali%20Webseries/Rabindranath%20Ekhane%20Kokhono%
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/04/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg" group-title="MXPlay Hindi Movie",Kaithi
 #EXTVLCOPT:network-caching=1000
 https://llvod.mxplay.com/video/2543714c43aef14fae52f0ac7331cf17/2/hls/h264_high.m3u8
-https://llvod.mxplay.com/video/1fc45cd0ae7ba4bb5bfc50a858f825fe/3/hls/h264_high.m3u8
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/04/tThalcNdwf4RLwMis5RMXebtQzI.jpg" group-title="MXPlay Hindi Movie",Maari 2
 #EXTVLCOPT:network-caching=1000
 https://llvod.mxplay.com/video/c4e3702cad6a0180cd0bb482c7745f20/8/hls/h264_high.m3u8
@@ -309,9 +309,9 @@ https://d3kau9gkkkfsfl.cloudfront.net/shemaroo-vod/altplatform/ApartmentFUMFUMHD
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/01/fudxnXlTTBIDCkpR7XhlIgkNaUY.jpg" group-title="MXPlay Hindi Movie",Welcome
 #EXTVLCOPT:network-caching=1000
 https://d2bzi6fedfub3a.cloudfront.net/shemaroo-vod/altplatform/WelcomeFUMHDmp4-938/main.m3u8?hdnts=st=1654482168~exp=1654492968~acl=*~data=testdata~hmac=92d498d1a13308428455a0969925091de425409cafd9be1ffd74ff648e0df546
-#EXTINF:-1 tvg-logo="" group-title="MXPlay Hindi Movie",
+#EXTINF:-1 tvg-logo="" group-title="MXPlay Hindi Movie",PM Narendra Modi
 #EXTVLCOPT:network-caching=1000
-
+https://llvod.mxplay.com/video/1fc45cd0ae7ba4bb5bfc50a858f825fe/3/hls/h264_high.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MXPlay Hindi Movie",
 #EXTVLCOPT:network-caching=1000
 
