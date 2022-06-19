@@ -267,9 +267,9 @@ https://llvod.mxplay.com/video/6beaaac6bf4c1a767b6820dfd13da186/3/hls/h264_high.
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/04/o73K5dIiMQGvx4rmzbkAPsP3Grv.jpg" group-title="MXPlay Hindi Movie",Aashiq Banaya Aapne
 #EXTVLCOPT:network-caching=1000
 https://llvod.mxplay.com/video/8a2e0faf293409dd844a6a4b18e5cf00/4/hls/h264_high.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MXPlay Hindi Movie",
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/385f435c38ded9f93f7d1ef6779f6e06/en/2x3/208x312/7af4785f05c954ee26a1f652e050bad2_1280x1920.webp" group-title="MXPlay Hindi Movie",
 #EXTVLCOPT:network-caching=1000
-
+https://llvod.mxplay.com/video/bb0263d4c1249fa7f916a20d27f578ab/hls/h264_high.m3u8
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/01/2cUfjsn5uCiDiTdkjiEQM2HXYLg.jpg" group-title="MXPlay Hindi Movie",Masti
 #EXTVLCOPT:network-caching=1000
 https://d3kau9gkkkfsfl.cloudfront.net/shemaroo-vod/altplatform/MastiFUMHDmp4-652/main.m3u8
@@ -311,7 +311,7 @@ https://d3kau9gkkkfsfl.cloudfront.net/shemaroo-vod/altplatform/ApartmentFUMFUMHD
 https://d2bzi6fedfub3a.cloudfront.net/shemaroo-vod/altplatform/WelcomeFUMHDmp4-938/main.m3u8
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/7a17514ffb8a743b72cf0213a23483a6/en/16x9/320x180/556d5853b5bf69d09d182b384dc9870e_1920x1080.webp" group-title="MXPlay Hindi Movie",Welcome To Karachi
 #EXTVLCOPT:network-caching=1000
-https://llvod.mxplay.com/video/c3f02e53a55fcbac4388bc2fdab100f5/1/hls/h264_high.m3u8
+https://llvod.mxplay.com/video/c3f02e53a55fcbac4388bc2fdab100f5/hls/h264_high.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MXPlay Hindi Movie",
 #EXTVLCOPT:network-caching=1000
 
