@@ -126,30 +126,30 @@ https://www.streamhub.ml/0:/Bengali%20Webseries/Rabindranath%20Ekhane%20Kokhono%
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",Srikanta.S01E01
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/e5e36a6466c473a897f02ef8cd0c4fb8/en/16x9/320x180/a7b6f6ae46a8aed29476f14716b5eebb_1920x1080.webp" group-title="Bengali Webseries",Srikanta.S01E01.Nostalgia
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/d7e65a86ce718397669a9cd0d30e008d/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/0a26c622ff025a20505dddbb05b8b0c9/en/16x9/320x180/9364f71b55703b88253c00f17d578318_1920x1080.webp" group-title="Bengali Webseries",Srikanta.S01E02.Hallucination
 #EXTVLCOPT:network-caching=1000
 https://llvod.mxplay.com/video/46e418e3dd21887c9c8376e3b4ab582e/1/hls/h264_high.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",Srikanta.S01E02.Hallucination
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/2bc2d8456d920e17dd8181914158248e/en/16x9/320x180/5a5a951fb1868f77ffa1e0d0b25d1b58_1920x1080.webp" group-title="Bengali Webseries",Srikanta.S01E03.Reunion
 #EXTVLCOPT:network-caching=1000
-https://llvod.mxplay.com/video/46e418e3dd21887c9c8376e3b4ab582e/1/hls/h264_high.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",Srikanta.S01E03
+https://llvod.mxplay.com/video/924a6b54e22b51ff0658b6cf3adc0f6f/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/f9cd37bd7fba8bcf5396399e4f015eec/en/16x9/320x180/0a28933e8390b9c928dc3e9dcd5c31b1_1920x1080.webp" group-title="Bengali Webseries",Srikanta.S01E04.Passion
 #EXTVLCOPT:network-caching=1000
-https://llvod.mxplay.com/video/46e418e3dd21887c9c8376e3b4ab582e/1/hls/h264_high.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",Srikanta.S01E04
+https://llvod.mxplay.com/video/9dccec59e4a05b0ae373788c9d0e865c/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/64bd214c276d79652cb5cb4dc69229c4/en/16x9/320x180/463fad265dee42b67bce489e6bc1e0e3_1920x1080.webp" group-title="Bengali Webseries",Srikanta.S01E05.Deceit
 #EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",Srikanta.S01E05
+https://llvod.mxplay.com/video/5136642888ea602216351cc573db40d3/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/3ac75d16a09e0e05d2c40e8cc8d3c6c6/en/16x9/320x180/35e07ab949964073fb0615a67f85da90_1920x1080.webp" group-title="Bengali Webseries",Srikanta.S01E06.Compassion
 #EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",Srikanta.S01E06
+https://llvod.mxplay.com/video/0dba0b8344fb378da3fe9f09fbffe1a7/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/8eaa02dabc83bb65dcd6be4140707af4/en/16x9/320x180/643c9df095a92486470385972860cf7b_1920x1080.webp" group-title="Bengali Webseries",Srikanta.S01E07.Disappearance
 #EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+https://llvod.mxplay.com/video/c54ae7fdc250a3692df4c9b927a6a1fd/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/98d66790fd302a1c8cd703f2474fd9ac/en/16x9/320x180/fa2df341cd3a452a3b4f6a5eba295ef0_1920x1080.webp" group-title="Bengali Webseries",Srikanta.S01E08.Confusion
 #EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
-
+https://llvod.mxplay.com/video/cdebdffbf9d1b57e8484e2e26b79a1ce/1/hls/h264_high.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
 #EXTVLCOPT:network-caching=1000
 
