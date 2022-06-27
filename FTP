@@ -156,6 +156,10 @@ https://llvod.mxplay.com/video/c6baaf32d37ae05509a9675819fc3685/1/hls/h264_high.
 
 
 
+#EXTINF:-1 tvg-logo="https://isa-1.mxplay.com/pic/8820216ac8cdf766a74506fddbdedeb2/en/16x9/640x360/test_pic1655965378021.webp" group-title="Hindi Webseries",Hello Mini.S01
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/ac5eb251a96a2896315e11cf938ac3d8/2/hls/h264_high.m3u8
+https://llvod.mxplay.com/video/3ed2cc796f1128306129815636c2d106/hls/h264_high.m3u8
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/66036acf9bc95107b4cbd9f9fb2735ff/en/16x9/320x180/dfe5a217b02a0bc8aef8312a060bf56a_1920x1080.webp" group-title="Hindi Webseries",Hello Mini.S01E01.Be ready Mini
 #EXTVLCOPT:network-caching=1000
 https://llvod.mxplay.com/video/7be48813042788f6d2de5e325050ca84/8/hls/h264_high.m3u8
@@ -191,45 +195,48 @@ https://llvod.mxplay.com/video/6e413151ac43d7360f35cd0bfc6855a4/5/hls/h264_basel
 https://llvod.mxplay.com/video/4141ac949e8348c7ae9b75f7958b2d98/1/hls/h264_baseline.m3u8
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/1473156f378c0cce825e2a0bacf2bb52/en/16x9/320x180/4e43f583deebac2726cec175e8fae556_1920x1080.webp" group-title="Hindi Webseries",Hello Mini.S01E12.Happy belated birthday Mini
 #EXTVLCOPT:network-caching=1000
-
+https://llvod.mxplay.com/video/d9c03d929b25e20484998ff2e582becf/5/hls/h264_baseline.m3u8
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/7254f50a1cc0efbab87a9f346be06be1/en/16x9/320x180/a66e95a4989338fa7df2b87ec471162e_1920x1080.webp" group-title="Hindi Webseries",Hello Mini.S01E13.It’s Showtime, Mini
 #EXTVLCOPT:network-caching=1000
-
+https://llvod.mxplay.com/video/32aaf7b5ba4a1dfc0ba618cd83e182c4/5/hls/h264_baseline.m3u8
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/4008cf9704807484753e692514180c25/en/16x9/320x180/9fda26caadd6653a45f5b4a2af727107_1920x1080.webp" group-title="Hindi Webseries",Hello Mini.S01E14.We are meeting, Mini
 #EXTVLCOPT:network-caching=1000
-
+https://llvod.mxplay.com/video/5b18d861b57a61829539b1dbc200d31b/5/hls/h264_baseline.m3u8
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/0abe50e0341ec8850f31e41133e7cf93/en/16x9/320x180/dedb41bda7c20f2311d31ae088112d04_1920x1080.webp" group-title="Hindi Webseries",Hello Mini.S01E15.Do you know who you are, Mini?
 #EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/32aaf7b5ba4a1dfc0ba618cd83e182c4/5/hls/h264_baseline.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",Hello Mini.S02E1.
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/4c50f1b70cb89071bf8139b63d0f7fe1/en/16x9/320x180/test_pic1614266881318.webp" group-title="Hindi Webseries",Hello Mini.S02E1.Get ready to die, Mini
 #EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/77fd587be7f5e0bcbc334db22550192c/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/d14a281d25430d58be9c4c7e61fd3ecd/en/16x9/320x180/test_pic1614266900910.webp" group-title="Hindi Webseries",Hello Mini.S02E2.Bring him to me, Mini
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/7a0e01ee715ccaba8dda70dc03981b90/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/a8560614f371f9a4ab6ab4a20a41c20d/en/16x9/320x180/test_pic1614266919529.webp" group-title="Hindi Webseries",Hello Mini.S02E3.Danny deserves better, Mini
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/5a52baecaf62b682ae14f9512ac624f4/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/7acc987a14cbcb05cdfa3971e5e471cd/en/16x9/320x180/test_pic1614267216303.webp" group-title="Hindi Webseries",Hello Mini.S02E4.Last chance, Mini
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/8188a969d32bc45e1386b33c4693526e/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/3b831c46a644860f5745c2665d21c173/en/16x9/320x180/test_pic1614267244822.webp" group-title="Hindi Webseries",Hello Mini.S02E5.Dare not defy me, Mini
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/0b2757f469f81d3b53f7dd71ece2326a/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/4df0036f7a1ceb7c957e5e43c1f5a14b/en/16x9/320x180/test_pic1614267260498.webp" group-title="Hindi Webseries",Hello Mini.S02E6.She’s gone, Mini
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/ef5809ea25b92da5681f7a7c3b895f66/3/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/fb77573fa7a6ab938d2e32e1563c4519/en/16x9/320x180/test_pic1614267271821.webp" group-title="Hindi Webseries",Hello Mini.S02E7.Face your fears, Mini
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/a11caac012d71b470db7ab39be7c3257/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/40d312f91c422853d12b7bcb9f508c37/en/16x9/320x180/test_pic1614267281846.webp" group-title="Hindi Webseries",Hello Mini.S02E8.You’re under arrest, Mini
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/5243b215893ea883dc87871e6f6e3537/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/99d85ae1ed1c71fb7116e5515c1c7e1a/en/16x9/320x180/test_pic1614267300934.webp" group-title="Hindi Webseries",Hello Mini.S02E9.Save her, Mini
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/9991c96815bd85c4a967eac365e81e59/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/772f9fb740675e57f900034114574779/en/16x9/320x180/test_pic1614267345290.webp" group-title="Hindi Webseries",Hello Mini.S02E10.Well done, Mini
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/bb71f8633126c50661a6b3d7d9053410/hls/h264_high.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",Hello Mini.S02E2.
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",Hello Mini.S02E3.
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",Hello Mini.S02E4.
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",Hello Mini.S02E5.
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",Hello Mini.S02E6.
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",Hello Mini.S02E7.
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",Hello Mini.S02E8.
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",Hello Mini.S02E9.
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",Hello Mini.S02E10.
-#EXTVLCOPT:network-caching=1000
 
 #EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
 #EXTVLCOPT:network-caching=1000
