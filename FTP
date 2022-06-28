@@ -156,7 +156,7 @@ https://llvod.mxplay.com/video/c6baaf32d37ae05509a9675819fc3685/1/hls/h264_high.
 
 
 
-#EXTINF:-1 tvg-logo="https://isa-1.mxplay.com/pic/8820216ac8cdf766a74506fddbdedeb2/en/16x9/640x360/test_pic1655965378021.webp" group-title="Hindi Webseries",Hello Mini.S01
+#EXTINF:-1 tvg-logo="https://isa-1.mxplay.com/pic/8820216ac8cdf766a74506fddbdedeb2/en/16x9/640x360/test_pic1655965378021.webp" group-title="Hindi Webseries",Hello Mini Series Trailer
 #EXTVLCOPT:network-caching=1000
 https://llvod.mxplay.com/video/ac5eb251a96a2896315e11cf938ac3d8/2/hls/h264_high.m3u8
 https://llvod.mxplay.com/video/3ed2cc796f1128306129815636c2d106/hls/h264_high.m3u8
@@ -247,30 +247,30 @@ https://llvod.mxplay.com/video/bb71f8633126c50661a6b3d7d9053410/hls/h264_high.m3
 #EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/938aec40ba0e57e8ecbf6a1bbd47bd78/en/16x9/320x180/test_pic1635499871308.webp" group-title="Bengali Webseries",Dangerous Series Trailer
 #EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+https://llvod.mxplay.com/video/c900d8ba541aba8042c76358408872cd/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/40224713d501d56062771b6f6fc8e2b7/en/16x9/320x180/9486a33e39d4ae2e104dd8fe77a5bdae_1920x1080.webp" group-title="Bengali Webseries",Dangerous.S02E1.Chapter 1
 #EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+https://llvod.mxplay.com/video/8fad1f19d1fa5c8d895008069067c3c2/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/e22976ba37f114bbda36693f090e889b/en/16x9/320x180/d00475fb1f3fff237808f277e069cb6d_1920x1080.webp" group-title="Bengali Webseries",Dangerous.S02E2.Chapter 2
 #EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+https://llvod.mxplay.com/video/0ec4ea0b3d4ccdf0f2d9104d3c66d33b/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/49ed3f7d12bbd08ef9bd9ba2e027bbaf/en/16x9/320x180/10e9958798d320517392ac3fb956f09b_1920x1080.webp" group-title="Bengali Webseries",Dangerous.S02E3.Chapter 3
 #EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+https://llvod.mxplay.com/video/e72f4782fe412ac7d492ad294430e7e1/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/bd0be26bb9157a51f6bcd7af835bbee1/en/16x9/320x180/a121d5a5f7d321770862aef0a35e2f5c_1920x1080.webp" group-title="Bengali Webseries",Dangerous.S02E4.Chapter 4
 #EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+https://llvod.mxplay.com/video/7f23b4fbc6737618d4f4d069f0418303/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/c3bef1e97b394c1de0f02af1c440cd0d/en/16x9/320x180/2915e71932e767a86a7820546c64e7c5_1920x1080.webp" group-title="Bengali Webseries",Dangerous.S02E5.Chapter 5
 #EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+https://llvod.mxplay.com/video/f39f529de5eaa6482c1561d300b15f43/3/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/29d68b8b0d757809b13f4f1b8be11093/en/16x9/320x180/7ac4aea6943638c3124461ca5f0fb049_1920x1080.webp" group-title="Bengali Webseries",Dangerous.S02E6.Chapter 6
 #EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+https://llvod.mxplay.com/video/d09aa18033ba46d43dc7645d66d35e66/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/b213fc87f1eaa542db1537d1d8ed2583/en/16x9/320x180/62d1af4d9b8b1eb1613b4c3fb9d20b86_1920x1080.webp" group-title="Bengali Webseries",Dangerous.S02E7.Chapter 7
 #EXTVLCOPT:network-caching=1000
-
+https://llvod.mxplay.com/video/2dd78e71f8d8e7dab09c52b2e631727d/2/hls/h264_high.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
 #EXTVLCOPT:network-caching=1000
 
