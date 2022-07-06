@@ -458,23 +458,26 @@ https://llvod.mxplay.com/video/ecfb71044b8bfbab3eab584b0ccffe59/2/hls/h264_high.
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
+#EXTINF:-1 tvg-logo="https://isa-1.mxplay.com/pic/61fbc08d7b423a2060a5bdf0a2bfee2e/en/16x9/640x360/test_pic1656575110420.webp" group-title="Hindi Webseries",Ratri Ke Yatri Series Trailer
 #EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/341140423e38861aade7237f0d9cee00/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/601bedaaa09293ad163768c1f8970700/en/16x9/320x180/hungama_18917d14e4987707554f750e44ac2df6.webp" group-title="Hindi Webseries",Ratri Ke Yatri.S01E1.Rupantran
+#EXTVLCOPT:network-caching=1000
+ https://hunstream.hungama.com/c/5/43d/440/54852237/54852237_3000.mp4_1.m3u8?MLZsGGoF_epT5kbKbcuo70mUIl1gqyORAKM9UAzeSygvEyOwRgaiyoM4g5Ox6DDlUp9wdWnsykcHGU1UJBSVpqw4SPnE7dN17wVy5iYV_AprTJfePh7RqpE0mLn-
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/591ce5ee573e199776b5ce8b8cae60e9/en/16x9/320x180/hungama_7942d534fd8ed380c98bb1ac18126b09.webp" group-title="Hindi Webseries",Ratri Ke Yatri.S01E2.Age 69
+#EXTVLCOPT:network-caching=1000
+https://hunstream.hungama.com/c/5/165/1ad/54852238/54852238_3000.mp4_1.m3u8?-jQILeu2YFvP2rwE0RcNpl4t4IKyhJGn56OT0V1Qih9cKYaqdUWkvZRY7ONvnCNCM4MCrM1F46F5JCJfCuYDIk5za9AaAbRK-6DqsZhMi46FONalQORm70PTZbhg
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/bb6de46a7b69e1f8f9f80ac248f7bbe4/en/16x9/320x180/hungama_62bbf754d09b5ae8a6ca659f62c0486e.webp" group-title="Hindi Webseries",Ratri Ke Yatri.S01E3.Mukti
+#EXTVLCOPT:network-caching=1000
+https://hunstream.hungama.com/c/5/756/c04/54852239/54852239_3000.mp4_1.m3u8?PYzwBKolfXqte9ECeUw9lzGztungL6DIiJhPFok07-hVQ3RJNWw1CUO2GmbYtaH6DycyrljQSFR-E7G9IZcpwrHxbJVd4e3aMPdli0c4emHVAWfMxN4qW-LWF_XH
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/6282ed77c93ee036ca5799cf789690d2/en/16x9/320x180/hungama_c1e13c8f30733ff822a3039da5fa095f.webp" group-title="Hindi Webseries",Ratri Ke Yatri.S01E4.Dadhi Se Pehle Nari
+#EXTVLCOPT:network-caching=1000
+https://hunstream.hungama.com/c/5/4f9/986/54852240/54852240_3000.mp4_1.m3u8?YqqljHk1VoEV8M7keQl2_6f_GrzliJtLE2jXQdmgIo2LGvdcjmDaXMsLqFc37dYphYB1eh0lhx3EQWEOIiBsW8xxaIwVlRNHVj4WWkPsCtkvF2KzeB2g1U--4SKF
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/9f743ba1fa5df8bd22ef150b69c67e1a/en/16x9/320x180/hungama_26c4483749be5b25992e999c45d56482.webp" group-title="Hindi Webseries",Ratri Ke Yatri.S01E5.Aakhari Raat
+#EXTVLCOPT:network-caching=1000
+https://hunstream.hungama.com/c/5/ed7/374/54852241/54852241_3000.mp4_1.m3u8?ALxHB2MfpIZcpVE9TQZUYCKA5PATb9qE3b7_Hq23VSPNdef7zDnAVmfQOnpJ84hqzECUbLmxnJEjvfZcVs76sVCP4kbimjwlNxCVDvl3_2xFoYwSEfmqr3iWr3Mh
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
-#EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
-#EXTVLCOPT:network-caching=1000
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
 #EXTVLCOPT:network-caching=1000
