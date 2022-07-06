@@ -418,23 +418,27 @@ https://llvod.mxplay.com/video/c3e6913893532b6160b3e451a33f590a/1/hls/h264_high.
 https://llvod.mxplay.com/video/38f2eeefbcada54258a52b1b9dca25c1/1/hls/h264_high.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
-#EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/d35254ca49b37d4f68db30767a07336e/en/16x9/320x180/test_pic1653584372190.webp" group-title="Hindi Webseries",Delhi Khabbar.S01E1.Welcome to Delhi High
 #EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/b206104eacd1684b6b2a76ef76e4dbd7/4/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/892ee3740cdcb7d8093675ca915fcb64/en/16x9/320x180/test_pic1653584457507.webp" group-title="Hindi Webseries",Delhi Khabbar.S01E2.Mid Term Madness
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/aa576f77c57ad98737d07142f382d0e2/4/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/21bf063df50b81a3b6af5df84946d416/en/16x9/320x180/test_pic1653584529933.webp" group-title="Hindi Webseries",Delhi Khabbar.S01E3.Goa Baby
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/e293aafe35dd0ce2c87e082ccbb4d227/4/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/cbd9f3abc3b7fbcb922bcb8ea86a9c25/en/16x9/320x180/test_pic1653584582947.webp" group-title="Hindi Webseries",Delhi Khabbar.S01E4.Who is the killer?
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/028a848b84adbc525175fce06601eabd/4/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://llvod.mxplay.com/video/05559b4e4ffe3cf3ee70753141486c82/preview/1/16x9/320x180/h264_baseline.mp4" group-title="Hindi Webseries",Delhi Khabbar.S01E5.Winter trouble
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/05559b4e4ffe3cf3ee70753141486c82/4/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/43a08b381cdc482aa24cb12495fbce5c/en/16x9/320x180/test_pic1653584746509.webp" group-title="Hindi Webseries",Delhi Khabbar.S01E6.The Finale
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/33caaf392bcb88261df4aae80e8e7184/hls/h264_high.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
-#EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
-#EXTVLCOPT:network-caching=1000
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
 #EXTVLCOPT:network-caching=1000
