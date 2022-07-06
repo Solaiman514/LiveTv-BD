@@ -388,19 +388,97 @@ https://llvod.mxplay.com/video/26f2375b88b4974192dfef2072b6ec48/hls/h264_high.m3
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/ca17972f052449de6633129ddd7db90b/en/16x9/320x180/test_pic1656487528013.webp" group-title="Hindi Webseries",Miya Biwi Aur Murder.S01E1.Episode 1
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/dbabbf43dd6c1f21c72505e856a8383a/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/125bac3750256b1dec4d1d062e58de84/en/16x9/320x180/test_pic1656487581794.webp" group-title="Hindi Webseries",Miya Biwi Aur Murder.S01E2.Episode 2
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/0e476c5f5cd2c9715c517d114f56ef65/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/c97ede11eec4ac53580dee5c7608df70/en/16x9/320x180/test_pic1656487636350.webp" group-title="Hindi Webseries",Miya Biwi Aur Murder.S01E3.Episode 3
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/86ad8a0a0b58e4b00bcb03af8ffd8100/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/66b2fb8764af720943a7061f8e312ebf/en/16x9/320x180/test_pic1656487710313.webp" group-title="Hindi Webseries",Miya Biwi Aur Murder.S01E4.Episode 4
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/0fecade5e41d19cbdcebd3080e3e253c/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/0950638ef8c7cd853d0c77dcf2e8f893/en/16x9/320x180/test_pic1656487764684.webp" group-title="Hindi Webseries",Miya Biwi Aur Murder.S01E5.Episode 5
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/e9b461a54ef0119eff6ddd60c90f0c51/1/hls/h264_high.m3u8
+#https://llvod.mxplay.com/video/3932a33930c4f7bba5be1b1f4bc0beb5/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/eccaff076c4139701dd3f9e9cad9ee0a/en/16x9/320x180/test_pic1656487812285.webp" group-title="Hindi Webseries",Miya Biwi Aur Murder.S01E6.Episode 6
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/294e26cca2ec5b8a11815db6fe5f98ac/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/d161d19e93944f3db252a2b56628c15a/en/16x9/320x180/test_pic1656487888911.webp" group-title="Hindi Webseries",Miya Biwi Aur Murder.S01E7.Episode 7
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/bac231887c1d38c9987b24919cab8404/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/b55b6301be49121e9f5a89df262c851d/en/16x9/320x180/test_pic1656487944179.webp" group-title="Hindi Webseries",Miya Biwi Aur Murder.S01E8.Episode 8
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/c3e6913893532b6160b3e451a33f590a/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/097a7e14214569fd74b8b1dd86ef9d18/en/16x9/320x180/test_pic1656488008503.webp" group-title="Hindi Webseries",Miya Biwi Aur Murder.S01E9.Episode 9
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/38f2eeefbcada54258a52b1b9dca25c1/1/hls/h264_high.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
 #EXTVLCOPT:network-caching=1000
 
 #EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
