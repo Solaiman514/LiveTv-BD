@@ -306,74 +306,87 @@ https://llvod.mxplay.com/video/9ba7a7b0e8d972988887ecda14bf9eb6/1/hls/h264_high.
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/6b400513f3deb3992f34460c8f3a1cad/en/16x9/320x180/9c2e65a5ac2965e3cc6d2d8e6e9a02cd_1920x1080.webp" group-title="Bengali Webseries",Pati Patni Aur Woh.S01E10.Kat Gaya Cake
 #EXTVLCOPT:network-caching=1000
 https://llvod.mxplay.com/video/ecedb2b96841533fa772d1e8e1f52d43/1/hls/h264_high.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+#EXTINF:-1 tvg-logo="https://isa-1.mxplay.com/pic/07d1045d3d189efce5dcc63a24c66586/en/16x9/640x360/test_pic1638781187126.webp" group-title="Hindi Webseries",Nakaab Series Trailer
 #EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/4d1169e6fab7da85ca0b675dc0449f0e/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/02826e8acd4235f9e9a252ef22949ec2/en/16x9/320x180/fca62d3ecfb986129694d0bb979c5181_1920x1080.webp" group-title="Hindi Webseries",Nakaab.S01E1.Murder Or Suicide?
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/17670911ff82eba71a281a935d24333a/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/65443eb104ea2e15316a18a70a55b6c7/en/16x9/320x180/167ddc1133e1f5d9948fb1c1c9c80005_1920x1080.webp" group-title="Hindi Webseries",Nakaab.S01E2.Truth Is Stranger Than Fiction
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/3b84f5ed88454d99be784dc14ab2460f/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/310c62f4ec17abec8cd3213a09cea5d3/en/16x9/320x180/9a87b7fd519ec1614ea84e55c70cc399_1920x1080.webp" group-title="Hindi Webseries",Nakaab.S01E3.JusticeForVibha
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/b00889cd506d07d12f946c5a42fda501/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/d84ae3bd89742e77764088db4c626564/en/16x9/320x180/101630d00a5d298e84e4854f7442738f_1920x1080.webp" group-title="Hindi Webseries",Nakaab.S01E4.The Search For Truth
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/e261f51f1412d83840c8f133e707a960/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/2d88e2d90d62834d8bdce9a4413682ca/en/16x9/320x180/9986a4c05a22fdbd1621f5cc1b88fde1_1920x1080.webp" group-title="Hindi Webseries",Nakaab.S01E5.Exxtacy
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/eccec13efaac402c4057d077255d26d6/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/82d861c9d01b4ff5a4092e71a3926d0c/en/16x9/320x180/797fab685420eb06198b3fc82463c1d3_1920x1080.webp" group-title="Hindi Webseries",Nakaab.S01E6.Will She Or Will She
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/dc868519b09da8faa6c0e8ea73a4c86f/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/e34f7c7351f21e9f6803d85465186ad3/en/16x9/320x180/f97c1e46e9469659a481f46786f1bfb8_1920x1080.webp" group-title="Hindi Webseries",Nakaab.S01E7.Two Lies & A Truth
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/bf78fe25e4d6ea59e94948c6da04c314/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/0f1d32722aff8279ab3fff1399da6237/en/16x9/320x180/73446800147ecef5fab08e628ea36b19_1920x1080.webp" group-title="Hindi Webseries",Nakaab.S01E8.A New Beginning
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/2bb89e80a1f2b11146ce2d9a569c568a/1/hls/h264_high.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
+#EXTINF:-1 tvg-logo="https://isa-1.mxplay.com/pic/d0c1cc1a9c2fe5a17ce22e690641ba38/en/16x9/640x360/test_pic1656998462440.webp" group-title="Bengali Webseries",Cartel Series Trailer
 #EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/35f38e1953ac1654c0a14723efdfce67/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/ed6df8a489d59a5e84bf79a6bbafe2a7/en/16x9/320x180/e760c07944e0a69f6985b8e621cf7225_1920x1080.webp" group-title="Bengali Webseries",Cartel.S01E1.The First Family Of The Business
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/5d4ee23b1ffcf70df422ae9bd3bce423/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/81ca3ee3af4ad4ca7b7a82b7fba7103b/en/16x9/320x180/75e3188067b6a64e6193421fec886dc3_1920x1080.webp" group-title="Bengali Webseries",Cartel.S01E2.Maine Rani Maai Ko Mara
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/01d30ec8180462063121c621e4796e0b/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/5137535300e210b52ca88f537a3a26f3/en/16x9/320x180/f98bb3be9d30b22578020f6a98ede848_1920x1080.webp" group-title="Bengali Webseries",Cartel.S01E3.Eid Toh Ek Bahana Hai
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/e9d31dc8defc002a9d3f70eb87080e1b/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/54423409807dc0b9afec23049352e134/en/16x9/320x180/8bbcf095ee6aa2be9124aae120d1c04f_1920x1080.webp" group-title="Bengali Webseries",Cartel.S01E4.Shani Dosham
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/c625f89a4a6bac58a8dd60a35edf2645/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/a76fe158d9ce64baa7944c3856fc7971/en/16x9/320x180/c95a2fe9ff19c68cf9df84016055d54a_1920x1080.webp" group-title="Bengali Webseries",Cartel.S01E5.Pyaar Ke Rang Pacchas
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/a68140c3a750f36a181555386f100a14/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/af8ead4c9456439db292dc50edb9af7b/en/16x9/320x180/726af0621d69ec5048a0597b5da0989b_1920x1080.webp" group-title="Bengali Webseries",Cartel.S01E6.Once Upon A Time
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/56c303bc70cc6691293394b35402f7cb/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/5447aa4ae9548b76379ae6b9ff470e4a/en/16x9/320x180/8264e8769f7c695656d3c34ea27c0419_1920x1080.webp" group-title="Bengali Webseries",Cartel.S01E7.Teen Chitayein
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/9338190135ec1abe0df07f3efa0ddbe9/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/9ae6b05ba49679b58317d6433cacbd63/en/16x9/320x180/5cb3a32672650dceb8237b84b77dfa8f_1920x1080.webp" group-title="Bengali Webseries",Cartel.S01E8.Happy Anniversary Rama!
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/f1966e022840214d5ffeb2a4b579c78f/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/09c3d406b2f38cc0fbcf7e7123153a5b/en/16x9/320x180/8145d9f152ce9b15959eff9bddfbd876_1920x1080.webp" group-title="Bengali Webseries",Cartel.S01E9.Kacchi Roti, Patli Daal
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/a81c16b7c1f5c6fe1b6a768b1afb2797/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/a05510fbbb49202bba44bcb346c30efe/en/16x9/320x180/de8e5f944d3e70a97bd72a0b97b74993_1920x1080.webp" group-title="Bengali Webseries",Cartel.S01E10.Meeting Maine Bulaya Hai
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/a81c16b7c1f5c6fe1b6a768b1afb2797/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/4a89f53028ec1a6193da3a0f42aa6c73/en/16x9/320x180/938bde897432b57a4e955f3742804c86_1920x1080.webp" group-title="Bengali Webseries",Cartel.S01E11.Rani Maai
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/75b2e20e5762e43103b185cb8a071b8a/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/7e4c1d494e8aad3c88646dd02ba26c2e/en/16x9/320x180/7f29b368a2f53d1f4cba287edbb58c63_1920x1080.webp" group-title="Bengali Webseries",Cartel.S01E12.Angre Rotey Nahi, Rulate Hai!
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/9456e2e6545d6483c100ee6f791f2751/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/9f8e39114b6eb3d0b727d4dc4c618af8/en/16x9/320x180/c4e94968984afb379e7d3fdca01d8204_1920x1080.webp" group-title="Bengali Webseries",Cartel.S01E13.Humare Dhande Me Kahaniya Sirf Shuru Hoti Hai
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/b145aa6535659ea7235a48e6976ed3fd/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/ee42a9eb50738f644438f46e8fee42a1/en/16x9/320x180/94b4ffbfffa15201b6cc604beac3bb34_1920x1080.webp" group-title="Bengali Webseries",Cartel.S01E14.Phool & Phinal Hisaab!
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/26f2375b88b4974192dfef2072b6ec48/hls/h264_high.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
-#EXTVLCOPT:network-caching=1000
 
 #EXTINF:-1 tvg-logo="" group-title="Bengali Webseries",
 #EXTVLCOPT:network-caching=1000
