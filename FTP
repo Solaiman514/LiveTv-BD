@@ -440,20 +440,23 @@ https://llvod.mxplay.com/video/33caaf392bcb88261df4aae80e8e7184/hls/h264_high.m3
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/aa75c40ac3f99924b26ed5d69e6452ed/en/16x9/320x180/1f4dfa437b00c6125c8e4d7e944f2b9e_1920x1080.webp" group-title="Hindi Webseries",Girlfriend Chor.S01E1.Tod Do
 #EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/83fbde74fe050ff156633917df679fc6/3/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/45b5db9b539e1c4324b5a47e59f2dc13/en/16x9/320x180/df50ceba8305896db92afc5037011bb3_1920x1080.webp" group-title="Hindi Webseries",Girlfriend Chor.S01E2.Boyfriend Chor
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/e52952aada22bffc568078d7c33bb251/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/11ae3b8891469f68ed78b9d97745dbd4/en/16x9/320x180/bd1ada56aaadd334c5a49dd8b7cc2e08_1920x1080.webp" group-title="Hindi Webseries",Girlfriend Chor.S01E3.Golmaal
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/d0ecf410b55726e4cd3e8233d0036f33/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/35f7151ae0c7972eef7cb55e4d38e570/en/16x9/320x180/a5098224a3710dc3afd677a645d791b5_1920x1080.webp" group-title="Hindi Webseries",Girlfriend Chor.S01E4.Karma Is A Bitch
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/d99925fd215249d5d742f0b830b2074d/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/6d266b3712f5902a69cf91c2a43e5083/en/16x9/320x180/84639902506193f2176dcd8e1fa4413b_1920x1080.webp" group-title="Hindi Webseries",Girlfriend Chor.S01E5.Girlfriend Chor
+#EXTVLCOPT:network-caching=1000
+https://llvod.mxplay.com/video/ecfb71044b8bfbab3eab584b0ccffe59/2/hls/h264_high.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
-#EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
-#EXTVLCOPT:network-caching=1000
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Webseries",
 #EXTVLCOPT:network-caching=1000
