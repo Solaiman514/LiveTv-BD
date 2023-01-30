@@ -39,7 +39,10 @@ https://od.lk/s/NDRfMzMwMDQzNDVf/273993797_2336934096442737_8481595639797266_n.m
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Official Peace",
 #EXTVLCOPT:network-caching=1000
-
+http://cinemacity.live:9090/Upload%20Request/3-6-9%20Illuminate.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Official Peace",
+#EXTVLCOPT:network-caching=1000
+http://cinemacity.live:9090/Upload%20Request/Daruin%20BibortonBad.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Official Peace",
 #EXTVLCOPT:network-caching=1000
 
@@ -49,6 +52,8 @@ https://od.lk/s/NDRfMzMwMDQzNDVf/273993797_2336934096442737_8481595639797266_n.m
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Official Peace",
 #EXTVLCOPT:network-caching=1000
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Official Peace",
+#EXTVLCOPT:network-caching=1000
 
 
 
